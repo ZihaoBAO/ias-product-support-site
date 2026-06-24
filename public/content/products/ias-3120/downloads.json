@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "source-workbook",
+      "title": "原始维护 SOP Excel",
+      "description": "当前作为内容迁移来源，不建议网页运行时直接读取。",
+      "path": "public/downloads/products/ias-3120/Attachment 1-IAS-3120 Maintenance SOP.xlsx"
+    },
+    {
+      "id": "images-package",
+      "title": "产品图片资源包",
+      "description": "后续放置拆装步骤图、故障图和部件图。",
+      "path": "public/images/products/ias-3120/"
+    }
+  ]
+}

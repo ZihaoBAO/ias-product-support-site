@@ -1,0 +1,5040 @@
+﻿{
+  "title": "Complete Removal and Installati",
+  "slug": "complete-removal-and-installati",
+  "dimensions": {
+    "maxRow": 25,
+    "maxColumn": 24,
+    "rowHeights": {
+      "1": 56.5,
+      "2": 55.0,
+      "3": 15.45,
+      "4": 15.45,
+      "5": 15.45,
+      "6": 15.45,
+      "7": 61.5,
+      "8": 15.45,
+      "9": 15.45,
+      "10": 15.45,
+      "11": 15.45,
+      "12": 15.45,
+      "14": 31.0,
+      "15": 25.0,
+      "16": 33.0,
+      "20": 34.0,
+      "21": 34.0,
+      "22": 15.45,
+      "25": 15.9
+    },
+    "columnWidths": {
+      "A": 6.4609375,
+      "C": 10.15234375,
+      "D": 2.765625,
+      "E": 11.3828125,
+      "G": 14.0,
+      "I": 16.765625,
+      "J": 24.15234375,
+      "K": 16.84375,
+      "P": 6.15234375,
+      "S": 11.4609375,
+      "X": 48.61328125
+    }
+  },
+  "mergedCells": [
+    "R24:T24",
+    "M2:X2",
+    "V16:X17",
+    "A24:B24",
+    "W22:W24",
+    "J5:K5",
+    "C22:H22",
+    "J10:K10",
+    "V5:W5",
+    "I16:I17",
+    "O22:T22",
+    "V8:W8",
+    "J20:L20",
+    "J22:J24",
+    "O25:Q25",
+    "L22:L24",
+    "V15:X15",
+    "U16:U17",
+    "J9:K9",
+    "V22:V24",
+    "F23:H23",
+    "V4:W4",
+    "X22:X24",
+    "A2:L2",
+    "I18:I19",
+    "V18:X19",
+    "A25:B25",
+    "V10:W10",
+    "M3:T21",
+    "J6:K6",
+    "C23:E23",
+    "U13:U14",
+    "J13:L14",
+    "A3:H21",
+    "V13:X14",
+    "J12:L12",
+    "V9:W9",
+    "M22:N22",
+    "J21:L21",
+    "U18:U19",
+    "U22:U24",
+    "M25:N25",
+    "V6:W6",
+    "J4:K4",
+    "J11:K11",
+    "O23:Q23",
+    "V11:W11",
+    "J7:K7",
+    "I13:I14",
+    "V12:X12",
+    "R23:T23",
+    "V21:X21",
+    "A23:B23",
+    "A22:B22",
+    "R25:T25",
+    "F25:H25",
+    "C24:E24",
+    "M24:N24",
+    "V7:W7",
+    "I22:I24",
+    "K22:K24",
+    "J16:L17",
+    "O24:Q24",
+    "I3:L3",
+    "M23:N23",
+    "U3:X3",
+    "V20:X20",
+    "A1:X1",
+    "J8:K8",
+    "J18:L19",
+    "C25:E25",
+    "F24:H24",
+    "J15:L15"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-001.png",
+      "width": 377,
+      "height": 311,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 2,
+          "rowOffset": 104140,
+          "colOffset": 0
+        },
+        "to": {
+          "row": 9,
+          "col": 5,
+          "rowOffset": 139065,
+          "colOffset": 42545
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-002.png",
+      "width": 285,
+      "height": 310,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 5,
+          "rowOffset": 142875,
+          "colOffset": 848360
+        },
+        "to": {
+          "row": 9,
+          "col": 8,
+          "rowOffset": 175260,
+          "colOffset": 156210
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-003.png",
+      "width": 381,
+      "height": 305,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 9,
+          "col": 2,
+          "rowOffset": 190500,
+          "colOffset": 28575
+        },
+        "to": {
+          "row": 15,
+          "col": 5,
+          "rowOffset": 51435,
+          "colOffset": 85725
+        }
+      }
+    },
+    {
+      "id": "image-004",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-004.png",
+      "width": 336,
+      "height": 281,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 11,
+          "col": 5,
+          "rowOffset": 28575,
+          "colOffset": 666750
+        },
+        "to": {
+          "row": 15,
+          "col": 8,
+          "rowOffset": 205105,
+          "colOffset": 247650
+        }
+      }
+    },
+    {
+      "id": "image-005",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-005.png",
+      "width": 357,
+      "height": 348,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 16,
+          "col": 2,
+          "rowOffset": 0,
+          "colOffset": 104775
+        },
+        "to": {
+          "row": 21,
+          "col": 5,
+          "rowOffset": 60960,
+          "colOffset": 61595
+        }
+      }
+    },
+    {
+      "id": "image-006",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-006.png",
+      "width": 1276,
+      "height": 1702,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 16,
+          "col": 5,
+          "rowOffset": 53022,
+          "colOffset": 799147
+        },
+        "to": {
+          "row": 20,
+          "col": 7,
+          "rowOffset": 409892,
+          "colOffset": 633412
+        }
+      }
+    },
+    {
+      "id": "image-007",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-007.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 114300,
+          "colOffset": 0
+        },
+        "to": {
+          "row": 1,
+          "col": 3,
+          "rowOffset": 648335,
+          "colOffset": 491490
+        }
+      }
+    },
+    {
+      "id": "image-008",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-008.png",
+      "width": 377,
+      "height": 311,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 14,
+          "rowOffset": 104139,
+          "colOffset": 1
+        },
+        "to": {
+          "row": 9,
+          "col": 17,
+          "rowOffset": 135639,
+          "colOffset": 38393
+        }
+      }
+    },
+    {
+      "id": "image-009",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-009.png",
+      "width": 285,
+      "height": 310,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 17,
+          "rowOffset": 142875,
+          "colOffset": 848360
+        },
+        "to": {
+          "row": 9,
+          "col": 20,
+          "rowOffset": 175260,
+          "colOffset": 156210
+        }
+      }
+    },
+    {
+      "id": "image-010",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-010.png",
+      "width": 381,
+      "height": 305,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 9,
+          "col": 14,
+          "rowOffset": 190500,
+          "colOffset": 28575
+        },
+        "to": {
+          "row": 15,
+          "col": 17,
+          "rowOffset": 51435,
+          "colOffset": 85725
+        }
+      }
+    },
+    {
+      "id": "image-011",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-011.png",
+      "width": 336,
+      "height": 281,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 11,
+          "col": 17,
+          "rowOffset": 28575,
+          "colOffset": 666750
+        },
+        "to": {
+          "row": 15,
+          "col": 20,
+          "rowOffset": 205105,
+          "colOffset": 247650
+        }
+      }
+    },
+    {
+      "id": "image-012",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-012.png",
+      "width": 1276,
+      "height": 1702,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 16,
+          "col": 17,
+          "rowOffset": 53022,
+          "colOffset": 799147
+        },
+        "to": {
+          "row": 20,
+          "col": 19,
+          "rowOffset": 409892,
+          "colOffset": 633412
+        }
+      }
+    },
+    {
+      "id": "image-013",
+      "file": "./images/products/ias-5100/excel/complete-removal-and-installati/image-013.png",
+      "width": 1706,
+      "height": 1279,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 16,
+          "col": 14,
+          "rowOffset": 152400,
+          "colOffset": 44451
+        },
+        "to": {
+          "row": 21,
+          "col": 16,
+          "rowOffset": 49700,
+          "colOffset": 388176
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "IAS-5100 Removal and Installation SOP",
+          "text": "IAS-5100 Removal and Installation SOP",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 24
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 30.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": " Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "text": " Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 12
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 30.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M2",
+          "row": 2,
+          "col": 13,
+          "column": "M",
+          "value": " Kernel Versions: 4.3.0.0.0/4.3.2.0.0",
+          "text": " Kernel Versions: 4.3.0.0.0/4.3.2.0.0",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 12
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 30.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 19,
+            "colspan": 8
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I3",
+          "row": 3,
+          "col": 9,
+          "column": "I",
+          "value": "Materials and Tools",
+          "text": "Materials and Tools",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 4
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M3",
+          "row": 3,
+          "col": 13,
+          "column": "M",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 19,
+            "colspan": 8
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U3",
+          "row": 3,
+          "col": 21,
+          "column": "U",
+          "value": "Materials and Tools",
+          "text": "Materials and Tools",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 4
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I4",
+          "row": 4,
+          "col": 9,
+          "column": "I",
+          "value": "Items",
+          "text": "Items",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J4",
+          "row": 4,
+          "col": 10,
+          "column": "J",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L4",
+          "row": 4,
+          "col": 12,
+          "column": "L",
+          "value": "Quantity",
+          "text": "Quantity",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U4",
+          "row": 4,
+          "col": 21,
+          "column": "U",
+          "value": "Items",
+          "text": "Items",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V4",
+          "row": 4,
+          "col": 22,
+          "column": "V",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X4",
+          "row": 4,
+          "col": 24,
+          "column": "X",
+          "value": "Quantity",
+          "text": "Quantity",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I5",
+          "row": 5,
+          "col": 9,
+          "column": "I",
+          "value": 1,
+          "text": "1",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J5",
+          "row": 5,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ],
+            "numberFormat": "@"
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L5",
+          "row": 5,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U5",
+          "row": 5,
+          "col": 21,
+          "column": "U",
+          "value": 1,
+          "text": "1",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V5",
+          "row": 5,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ],
+            "numberFormat": "@"
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X5",
+          "row": 5,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I6",
+          "row": 6,
+          "col": 9,
+          "column": "I",
+          "value": 2,
+          "text": "2",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J6",
+          "row": 6,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L6",
+          "row": 6,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U6",
+          "row": 6,
+          "col": 21,
+          "column": "U",
+          "value": 2,
+          "text": "2",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V6",
+          "row": 6,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X6",
+          "row": 6,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I7",
+          "row": 7,
+          "col": 9,
+          "column": "I",
+          "value": 4,
+          "text": "4",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J7",
+          "row": 7,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L7",
+          "row": 7,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U7",
+          "row": 7,
+          "col": 21,
+          "column": "U",
+          "value": 4,
+          "text": "4",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V7",
+          "row": 7,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X7",
+          "row": 7,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I8",
+          "row": 8,
+          "col": 9,
+          "column": "I",
+          "value": 5,
+          "text": "5",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J8",
+          "row": 8,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L8",
+          "row": 8,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U8",
+          "row": 8,
+          "col": 21,
+          "column": "U",
+          "value": 5,
+          "text": "5",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V8",
+          "row": 8,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X8",
+          "row": 8,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I9",
+          "row": 9,
+          "col": 9,
+          "column": "I",
+          "value": 6,
+          "text": "6",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J9",
+          "row": 9,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L9",
+          "row": 9,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U9",
+          "row": 9,
+          "col": 21,
+          "column": "U",
+          "value": 6,
+          "text": "6",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V9",
+          "row": 9,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X9",
+          "row": 9,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I10",
+          "row": 10,
+          "col": 9,
+          "column": "I",
+          "value": 8,
+          "text": "8",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J10",
+          "row": 10,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L10",
+          "row": 10,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U10",
+          "row": 10,
+          "col": 21,
+          "column": "U",
+          "value": 8,
+          "text": "8",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V10",
+          "row": 10,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X10",
+          "row": 10,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I11",
+          "row": 11,
+          "col": 9,
+          "column": "I",
+          "value": 9,
+          "text": "9",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J11",
+          "row": 11,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L11",
+          "row": 11,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U11",
+          "row": 11,
+          "col": 21,
+          "column": "U",
+          "value": 9,
+          "text": "9",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V11",
+          "row": 11,
+          "col": 22,
+          "column": "V",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "X11",
+          "row": 11,
+          "col": 24,
+          "column": "X",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I12",
+          "row": 12,
+          "col": 9,
+          "column": "I",
+          "value": "Step",
+          "text": "Step",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J12",
+          "row": 12,
+          "col": 10,
+          "column": "J",
+          "value": "Operation Steps and Precautions",
+          "text": "Operation Steps and Precautions",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U12",
+          "row": 12,
+          "col": 21,
+          "column": "U",
+          "value": "Step",
+          "text": "Step",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V12",
+          "row": 12,
+          "col": 22,
+          "column": "V",
+          "value": "Operation Steps and Precautions",
+          "text": "Operation Steps and Precautions",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I13",
+          "row": 13,
+          "col": 9,
+          "column": "I",
+          "value": 1,
+          "text": "1",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J13",
+          "row": 13,
+          "col": 10,
+          "column": "J",
+          "value": "Remove the three black Phillips countersunk screws within the circle and take off the rotary disc.",
+          "text": "Remove the three black Phillips countersunk screws within the circle and take off the rotary disc.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U13",
+          "row": 13,
+          "col": 21,
+          "column": "U",
+          "value": 1,
+          "text": "1",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V13",
+          "row": 13,
+          "col": 22,
+          "column": "V",
+          "value": "Remove the three black Phillips countersunk screws within the circle and take off the rotary disc.",
+          "text": "Remove the three black Phillips countersunk screws within the circle and take off the rotary disc.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I15",
+          "row": 15,
+          "col": 9,
+          "column": "I",
+          "value": 2,
+          "text": "2",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J15",
+          "row": 15,
+          "col": 10,
+          "column": "J",
+          "value": "Remove the four black Phillips umbrella head screws within the marked area.",
+          "text": "Remove the four black Phillips umbrella head screws within the marked area.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U15",
+          "row": 15,
+          "col": 21,
+          "column": "U",
+          "value": 2,
+          "text": "2",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V15",
+          "row": 15,
+          "col": 22,
+          "column": "V",
+          "value": "Remove the four black Phillips umbrella head screws within the marked area.",
+          "text": "Remove the four black Phillips umbrella head screws within the marked area.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I16",
+          "row": 16,
+          "col": 9,
+          "column": "I",
+          "value": 3,
+          "text": "3",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J16",
+          "row": 16,
+          "col": 10,
+          "column": "J",
+          "value": "After removing the battery cover, unscrew the 11 screws on the back panel.",
+          "text": "After removing the battery cover, unscrew the 11 screws on the back panel.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U16",
+          "row": 16,
+          "col": 21,
+          "column": "U",
+          "value": 3,
+          "text": "3",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V16",
+          "row": 16,
+          "col": 22,
+          "column": "V",
+          "value": "After removing the battery cover, unscrew the 11 screws on the back panel.",
+          "text": "After removing the battery cover, unscrew the 11 screws on the back panel.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I18",
+          "row": 18,
+          "col": 9,
+          "column": "I",
+          "value": 4,
+          "text": "4",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J18",
+          "row": 18,
+          "col": 10,
+          "column": "J",
+          "value": "Unscrew the 7 Phillips self-tapping screws on the base.",
+          "text": "Unscrew the 7 Phillips self-tapping screws on the base.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U18",
+          "row": 18,
+          "col": 21,
+          "column": "U",
+          "value": 4,
+          "text": "4",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V18",
+          "row": 18,
+          "col": 22,
+          "column": "V",
+          "value": "Unscrew the 7 Phillips self-tapping screws on the base.",
+          "text": "Unscrew the 7 Phillips self-tapping screws on the base.",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I20",
+          "row": 20,
+          "col": 9,
+          "column": "I",
+          "value": "5, 6",
+          "text": "5, 6",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "J20",
+          "row": 20,
+          "col": 10,
+          "column": "J",
+          "value": "Remove the white adhesive from the FPC ribbon cable and disconnect the cable from the peripheral board.",
+          "text": "Remove the white adhesive from the FPC ribbon cable and disconnect the cable from the peripheral board.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U20",
+          "row": 20,
+          "col": 21,
+          "column": "U",
+          "value": "5, 6",
+          "text": "5, 6",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "V20",
+          "row": 20,
+          "col": 22,
+          "column": "V",
+          "value": "Disconnect the network cable and the spectrometer's 485 communication cable, then remove the Enclosure.",
+          "text": "Disconnect the network cable and the spectrometer's 485 communication cable, then remove the Enclosure.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I21",
+          "row": 21,
+          "col": 9,
+          "column": "I",
+          "value": 7,
+          "text": "7",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "J21",
+          "row": 21,
+          "col": 10,
+          "column": "J",
+          "value": "Follow the reverse sequence of the above steps for reassembly.",
+          "text": "Follow the reverse sequence of the above steps for reassembly.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U21",
+          "row": 21,
+          "col": 21,
+          "column": "U",
+          "value": 7,
+          "text": "7",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "V21",
+          "row": 21,
+          "col": 22,
+          "column": "V",
+          "value": "Follow the reverse sequence of the above steps for reassembly.",
+          "text": "Follow the reverse sequence of the above steps for reassembly.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "address": "A22",
+          "row": 22,
+          "col": 1,
+          "column": "A",
+          "value": "Tools ",
+          "text": "Tools ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C22",
+          "row": 22,
+          "col": 3,
+          "column": "C",
+          "value": "Consumables",
+          "text": "Consumables",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 6
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I22",
+          "row": 22,
+          "col": 9,
+          "column": "I",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J22",
+          "row": 22,
+          "col": 10,
+          "column": "J",
+          "value": "IAS-5100 Removal and Installation SOP",
+          "text": "IAS-5100 Removal and Installation SOP",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "K22",
+          "row": 22,
+          "col": 11,
+          "column": "K",
+          "value": "Version No.",
+          "text": "Version No.",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "L22",
+          "row": 22,
+          "col": 12,
+          "column": "L",
+          "value": "A4",
+          "text": "A4",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "M22",
+          "row": 22,
+          "col": 13,
+          "column": "M",
+          "value": "Tools ",
+          "text": "Tools ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "O22",
+          "row": 22,
+          "col": 15,
+          "column": "O",
+          "value": "Consumables",
+          "text": "Consumables",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 6
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U22",
+          "row": 22,
+          "col": 21,
+          "column": "U",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V22",
+          "row": 22,
+          "col": 22,
+          "column": "V",
+          "value": "IAS-5100 Removal and Installation SOP",
+          "text": "IAS-5100 Removal and Installation SOP",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "W22",
+          "row": 22,
+          "col": 23,
+          "column": "W",
+          "value": "Version No.",
+          "text": "Version No.",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "X22",
+          "row": 22,
+          "col": 24,
+          "column": "X",
+          "value": "A4",
+          "text": "A4",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "address": "A23",
+          "row": 23,
+          "col": 1,
+          "column": "A",
+          "value": "1. Electric Screwdriver",
+          "text": "1. Electric Screwdriver",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C23",
+          "row": 23,
+          "col": 3,
+          "column": "C",
+          "value": "M3*8 Countersunk Screws*4",
+          "text": "M3*8 Countersunk Screws*4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ],
+            "numberFormat": "@"
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F23",
+          "row": 23,
+          "col": 6,
+          "column": "F",
+          "value": "M3*10 Crosshead Screws*3",
+          "text": "M3*10 Crosshead Screws*3",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M23",
+          "row": 23,
+          "col": 13,
+          "column": "M",
+          "value": "1. Electric Screwdriver",
+          "text": "1. Electric Screwdriver",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "O23",
+          "row": 23,
+          "col": 15,
+          "column": "O",
+          "value": "M3*8 Countersunk Screws*4",
+          "text": "M3*8 Countersunk Screws*4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ],
+            "numberFormat": "@"
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "R23",
+          "row": 23,
+          "col": 18,
+          "column": "R",
+          "value": "M3*10 Crosshead Screws*3",
+          "text": "M3*10 Crosshead Screws*3",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "address": "A24",
+          "row": 24,
+          "col": 1,
+          "column": "A",
+          "value": "2. Phillips Screwdriver",
+          "text": "2. Phillips Screwdriver",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C24",
+          "row": 24,
+          "col": 3,
+          "column": "C",
+          "value": "M4*10 Crosshead Screws*12",
+          "text": "M4*10 Crosshead Screws*12",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F24",
+          "row": 24,
+          "col": 6,
+          "column": "F",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M24",
+          "row": 24,
+          "col": 13,
+          "column": "M",
+          "value": "2. Phillips Screwdriver",
+          "text": "2. Phillips Screwdriver",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "O24",
+          "row": 24,
+          "col": 15,
+          "column": "O",
+          "value": "M4*10 Crosshead Screws*12",
+          "text": "M4*10 Crosshead Screws*12",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "R24",
+          "row": 24,
+          "col": 18,
+          "column": "R",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "address": "A25",
+          "row": 25,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C25",
+          "row": 25,
+          "col": 3,
+          "column": "C",
+          "value": "M3*8 Crosshead Screws*6",
+          "text": "M3*8 Crosshead Screws*6",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F25",
+          "row": 25,
+          "col": 6,
+          "column": "F",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I25",
+          "row": 25,
+          "col": 9,
+          "column": "I",
+          "value": "Prepared by",
+          "text": "Prepared by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J25",
+          "row": 25,
+          "col": 10,
+          "column": "J",
+          "value": "Lu Tongtong",
+          "text": "Lu Tongtong",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "K25",
+          "row": 25,
+          "col": 11,
+          "column": "K",
+          "value": "Reviewed by",
+          "text": "Reviewed by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "L25",
+          "row": 25,
+          "col": 12,
+          "column": "L",
+          "value": "Huang Xiaowei",
+          "text": "Huang Xiaowei",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "M25",
+          "row": 25,
+          "col": 13,
+          "column": "M",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "O25",
+          "row": 25,
+          "col": 15,
+          "column": "O",
+          "value": "M3*8 Crosshead Screws*6",
+          "text": "M3*8 Crosshead Screws*6",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "R25",
+          "row": 25,
+          "col": 18,
+          "column": "R",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "U25",
+          "row": 25,
+          "col": 21,
+          "column": "U",
+          "value": "Prepared by",
+          "text": "Prepared by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "V25",
+          "row": 25,
+          "col": 22,
+          "column": "V",
+          "value": "Lu Tongtong",
+          "text": "Lu Tongtong",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "W25",
+          "row": 25,
+          "col": 23,
+          "column": "W",
+          "value": "Reviewed by",
+          "text": "Reviewed by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "X25",
+          "row": 25,
+          "col": 24,
+          "column": "X",
+          "value": "Huang Xiaowei",
+          "text": "Huang Xiaowei",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

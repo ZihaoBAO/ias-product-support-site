@@ -1,0 +1,207 @@
+{
+  "productId": "ias-3120",
+  "productName": "IAS-3120",
+  "sourceWorkbook": "Attachment 1-IAS-3120 Maintenance SOP.xlsx",
+  "sheetCount": 18,
+  "generatedAt": "2026-06-22T11:08:17",
+  "sheets": [
+    {
+      "order": 1,
+      "title": "Table of Contents",
+      "slug": "table-of-contents",
+      "path": "./src/content/products/ias-3120/excel/sheets/table-of-contents.json",
+      "maxRow": 5,
+      "maxColumn": 1,
+      "nonEmptyCells": 5,
+      "mergedCells": 0,
+      "images": 0
+    },
+    {
+      "order": 2,
+      "title": "Troubleshooting Steps",
+      "slug": "troubleshooting-steps",
+      "path": "./src/content/products/ias-3120/excel/sheets/troubleshooting-steps.json",
+      "maxRow": 9,
+      "maxColumn": 1,
+      "nonEmptyCells": 6,
+      "mergedCells": 0,
+      "images": 0
+    },
+    {
+      "order": 3,
+      "title": "Common Troubleshooting and Main",
+      "slug": "common-troubleshooting-and-main",
+      "path": "./src/content/products/ias-3120/excel/sheets/common-troubleshooting-and-main.json",
+      "maxRow": 47,
+      "maxColumn": 7,
+      "nonEmptyCells": 245,
+      "mergedCells": 55,
+      "images": 0
+    },
+    {
+      "order": 4,
+      "title": "IAS-3120 Spectrum Analyzer Disa",
+      "slug": "ias-3120-spectrum-analyzer-disa",
+      "path": "./src/content/products/ias-3120/excel/sheets/ias-3120-spectrum-analyzer-disa.json",
+      "maxRow": 23,
+      "maxColumn": 14,
+      "nonEmptyCells": 44,
+      "mergedCells": 42,
+      "images": 7
+    },
+    {
+      "order": 5,
+      "title": "Replace Button Switches",
+      "slug": "replace-button-switches",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-button-switches.json",
+      "maxRow": 51,
+      "maxColumn": 2,
+      "nonEmptyCells": 7,
+      "mergedCells": 7,
+      "images": 3
+    },
+    {
+      "order": 6,
+      "title": "Replace Peripheral Boards",
+      "slug": "replace-peripheral-boards",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-peripheral-boards.json",
+      "maxRow": 43,
+      "maxColumn": 4,
+      "nonEmptyCells": 19,
+      "mergedCells": 13,
+      "images": 5
+    },
+    {
+      "order": 7,
+      "title": "Replace ARM Boards",
+      "slug": "replace-arm-boards",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-arm-boards.json",
+      "maxRow": 30,
+      "maxColumn": 4,
+      "nonEmptyCells": 15,
+      "mergedCells": 11,
+      "images": 5
+    },
+    {
+      "order": 8,
+      "title": "Replace Screen",
+      "slug": "replace-screen",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-screen.json",
+      "maxRow": 58,
+      "maxColumn": 4,
+      "nonEmptyCells": 21,
+      "mergedCells": 19,
+      "images": 7
+    },
+    {
+      "order": 9,
+      "title": "Replace Light Source Board",
+      "slug": "replace-light-source-board",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-light-source-board.json",
+      "maxRow": 32,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 10,
+      "title": "Replace 40-pin Gray Ribbon Cabl",
+      "slug": "replace-40-pin-gray-ribbon-cabl",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-40-pin-gray-ribbon-cabl.json",
+      "maxRow": 32,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 11,
+      "title": "Replace Control Main Board",
+      "slug": "replace-control-main-board",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-control-main-board.json",
+      "maxRow": 45,
+      "maxColumn": 4,
+      "nonEmptyCells": 19,
+      "mergedCells": 15,
+      "images": 5
+    },
+    {
+      "order": 12,
+      "title": "Replace Spectrum Analyzer 485 C",
+      "slug": "replace-spectrum-analyzer-485-c",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-spectrum-analyzer-485-c.json",
+      "maxRow": 32,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 13,
+      "title": "Replace Spectrum Analyzer Circu",
+      "slug": "replace-spectrum-analyzer-circu",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-spectrum-analyzer-circu.json",
+      "maxRow": 92,
+      "maxColumn": 4,
+      "nonEmptyCells": 16,
+      "mergedCells": 13,
+      "images": 6
+    },
+    {
+      "order": 14,
+      "title": "Replace Light Source",
+      "slug": "replace-light-source",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-light-source.json",
+      "maxRow": 51,
+      "maxColumn": 2,
+      "nonEmptyCells": 7,
+      "mergedCells": 7,
+      "images": 3
+    },
+    {
+      "order": 15,
+      "title": "Replace Motor",
+      "slug": "replace-motor",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-motor.json",
+      "maxRow": 91,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 7,
+      "images": 3
+    },
+    {
+      "order": 16,
+      "title": "Replace XHB, FC-20, and USB",
+      "slug": "replace-xhb-fc-20-and-usb",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-xhb-fc-20-and-usb.json",
+      "maxRow": 72,
+      "maxColumn": 2,
+      "nonEmptyCells": 11,
+      "mergedCells": 12,
+      "images": 5
+    },
+    {
+      "order": 17,
+      "title": "Replace Sensor",
+      "slug": "replace-sensor",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-sensor.json",
+      "maxRow": 94,
+      "maxColumn": 2,
+      "nonEmptyCells": 11,
+      "mergedCells": 9,
+      "images": 4
+    },
+    {
+      "order": 18,
+      "title": "Replace Optical Fiber",
+      "slug": "replace-optical-fiber",
+      "path": "./src/content/products/ias-3120/excel/sheets/replace-optical-fiber.json",
+      "maxRow": 45,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 7,
+      "images": 3
+    }
+  ]
+}

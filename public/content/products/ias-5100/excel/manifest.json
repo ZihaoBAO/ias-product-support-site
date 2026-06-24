@@ -1,0 +1,229 @@
+{
+  "productId": "ias-5100",
+  "productName": "IAS-5100",
+  "sourceWorkbook": "Attachment 2-IAS-5100 Maintenance SOP.xlsx",
+  "sheetCount": 20,
+  "generatedAt": "2026-06-22T11:08:18",
+  "sheets": [
+    {
+      "order": 1,
+      "title": "Table of Contents",
+      "slug": "table-of-contents",
+      "path": "./src/content/products/ias-5100/excel/sheets/table-of-contents.json",
+      "maxRow": 6,
+      "maxColumn": 1,
+      "nonEmptyCells": 5,
+      "mergedCells": 0,
+      "images": 0
+    },
+    {
+      "order": 2,
+      "title": "Troubleshooting Steps",
+      "slug": "troubleshooting-steps",
+      "path": "./src/content/products/ias-5100/excel/sheets/troubleshooting-steps.json",
+      "maxRow": 9,
+      "maxColumn": 1,
+      "nonEmptyCells": 6,
+      "mergedCells": 0,
+      "images": 0
+    },
+    {
+      "order": 3,
+      "title": "Common Troubleshooting and Main",
+      "slug": "common-troubleshooting-and-main",
+      "path": "./src/content/products/ias-5100/excel/sheets/common-troubleshooting-and-main.json",
+      "maxRow": 47,
+      "maxColumn": 7,
+      "nonEmptyCells": 245,
+      "mergedCells": 55,
+      "images": 0
+    },
+    {
+      "order": 4,
+      "title": "Complete Removal and Installati",
+      "slug": "complete-removal-and-installati",
+      "path": "./src/content/products/ias-5100/excel/sheets/complete-removal-and-installati.json",
+      "maxRow": 25,
+      "maxColumn": 24,
+      "nonEmptyCells": 85,
+      "mergedCells": 73,
+      "images": 13
+    },
+    {
+      "order": 5,
+      "title": "Replace the Rocker Switch",
+      "slug": "replace-the-rocker-switch",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-rocker-switch.json",
+      "maxRow": 65,
+      "maxColumn": 2,
+      "nonEmptyCells": 8,
+      "mergedCells": 9,
+      "images": 4
+    },
+    {
+      "order": 6,
+      "title": "Replace the Peripheral Board",
+      "slug": "replace-the-peripheral-board",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-peripheral-board.json",
+      "maxRow": 43,
+      "maxColumn": 4,
+      "nonEmptyCells": 19,
+      "mergedCells": 13,
+      "images": 5
+    },
+    {
+      "order": 7,
+      "title": "Replace the ARM Board",
+      "slug": "replace-the-arm-board",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-arm-board.json",
+      "maxRow": 30,
+      "maxColumn": 4,
+      "nonEmptyCells": 17,
+      "mergedCells": 11,
+      "images": 3
+    },
+    {
+      "order": 8,
+      "title": "Replace the Screen",
+      "slug": "replace-the-screen",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-screen.json",
+      "maxRow": 113,
+      "maxColumn": 2,
+      "nonEmptyCells": 15,
+      "mergedCells": 17,
+      "images": 8
+    },
+    {
+      "order": 9,
+      "title": "Replace the Main Control Board",
+      "slug": "replace-the-main-control-board",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-main-control-board.json",
+      "maxRow": 58,
+      "maxColumn": 4,
+      "nonEmptyCells": 20,
+      "mergedCells": 15,
+      "images": 6
+    },
+    {
+      "order": 10,
+      "title": "Replace the Circuit Board of th",
+      "slug": "replace-the-circuit-board-of-th",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-circuit-board-of-th.json",
+      "maxRow": 94,
+      "maxColumn": 2,
+      "nonEmptyCells": 13,
+      "mergedCells": 11,
+      "images": 7
+    },
+    {
+      "order": 11,
+      "title": "Replace the Lamp Board",
+      "slug": "replace-the-lamp-board",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-lamp-board.json",
+      "maxRow": 113,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 12,
+      "title": "Replace the lamp ",
+      "slug": "replace-the-lamp",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-lamp.json",
+      "maxRow": 112,
+      "maxColumn": 2,
+      "nonEmptyCells": 8,
+      "mergedCells": 5,
+      "images": 2
+    },
+    {
+      "order": 13,
+      "title": "Replace the Motor Board",
+      "slug": "replace-the-motor-board",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-motor-board.json",
+      "maxRow": 91,
+      "maxColumn": 2,
+      "nonEmptyCells": 10,
+      "mergedCells": 5,
+      "images": 3
+    },
+    {
+      "order": 14,
+      "title": "Replace the Motor",
+      "slug": "replace-the-motor",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-motor.json",
+      "maxRow": 91,
+      "maxColumn": 2,
+      "nonEmptyCells": 8,
+      "mergedCells": 5,
+      "images": 2
+    },
+    {
+      "order": 15,
+      "title": "Replace XHB, FC-20",
+      "slug": "replace-xhb-fc-20",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-xhb-fc-20.json",
+      "maxRow": 35,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 16,
+      "title": "Replace the 40-pin gray ribbon ",
+      "slug": "replace-the-40-pin-gray-ribbon",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-40-pin-gray-ribbon.json",
+      "maxRow": 32,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    },
+    {
+      "order": 17,
+      "title": "Replace the Sensor",
+      "slug": "replace-the-sensor",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-sensor.json",
+      "maxRow": 95,
+      "maxColumn": 4,
+      "nonEmptyCells": 19,
+      "mergedCells": 15,
+      "images": 5
+    },
+    {
+      "order": 18,
+      "title": "Replace the USB Cable",
+      "slug": "replace-the-usb-cable",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-usb-cable.json",
+      "maxRow": 31,
+      "maxColumn": 2,
+      "nonEmptyCells": 8,
+      "mergedCells": 5,
+      "images": 2
+    },
+    {
+      "order": 19,
+      "title": "Replace the Optical Fiber",
+      "slug": "replace-the-optical-fiber",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-optical-fiber.json",
+      "maxRow": 45,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 7,
+      "images": 3
+    },
+    {
+      "order": 20,
+      "title": "Replace the 485 communication c",
+      "slug": "replace-the-485-communication-c",
+      "path": "./src/content/products/ias-5100/excel/sheets/replace-the-485-communication-c.json",
+      "maxRow": 32,
+      "maxColumn": 2,
+      "nonEmptyCells": 9,
+      "mergedCells": 6,
+      "images": 2
+    }
+  ]
+}

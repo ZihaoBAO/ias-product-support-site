@@ -1,0 +1,1261 @@
+﻿{
+  "title": "Replace XHB, FC-20, and USB",
+  "slug": "replace-xhb-fc-20-and-usb",
+  "dimensions": {
+    "maxRow": 72,
+    "maxColumn": 2,
+    "rowHeights": {
+      "1": 51.0,
+      "2": 51.0,
+      "3": 33.0
+    },
+    "columnWidths": {
+      "A": 63.7265625,
+      "B": 49.7265625,
+      "C": 9.0
+    }
+  },
+  "mergedCells": [
+    "A4:A18",
+    "A2:B2",
+    "B47:B60",
+    "B61:B72",
+    "A19:A32",
+    "A61:A72",
+    "A33:A46",
+    "A47:A60",
+    "B33:B46",
+    "A1:B1",
+    "B19:B32",
+    "B4:B18"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-3120/excel/replace-xhb-fc-20-and-usb/image-001.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 38735,
+          "colOffset": 1270
+        },
+        "to": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 572770,
+          "colOffset": 1673860
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-3120/excel/replace-xhb-fc-20-and-usb/image-002.jpg",
+      "width": 4032,
+      "height": 3024,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 4,
+          "col": 2,
+          "rowOffset": 95250,
+          "colOffset": 438150
+        },
+        "to": {
+          "row": 16,
+          "col": 2,
+          "rowOffset": 24765,
+          "colOffset": 3451860
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-3120/excel/replace-xhb-fc-20-and-usb/image-003.jpg",
+      "width": 4032,
+      "height": 3024,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 19,
+          "col": 2,
+          "rowOffset": 85725,
+          "colOffset": 476250
+        },
+        "to": {
+          "row": 31,
+          "col": 2,
+          "rowOffset": 48260,
+          "colOffset": 3438525
+        }
+      }
+    },
+    {
+      "id": "image-004",
+      "file": "./images/products/ias-3120/excel/replace-xhb-fc-20-and-usb/image-004.jpg",
+      "width": 4032,
+      "height": 3024,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 33,
+          "col": 2,
+          "rowOffset": 114300,
+          "colOffset": 552450
+        },
+        "to": {
+          "row": 45,
+          "col": 2,
+          "rowOffset": 76835,
+          "colOffset": 3470275
+        }
+      }
+    },
+    {
+      "id": "image-005",
+      "file": "./images/products/ias-3120/excel/replace-xhb-fc-20-and-usb/image-005.jpg",
+      "width": 4032,
+      "height": 3024,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 47,
+          "col": 2,
+          "rowOffset": 95250,
+          "colOffset": 533400
+        },
+        "to": {
+          "row": 59,
+          "col": 2,
+          "rowOffset": 57785,
+          "colOffset": 3470275
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Replace Ribbon Cables",
+          "text": "Replace Ribbon Cables",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": " Kernel Version: 1.0.8.6.X/2.0.8.6.4",
+          "text": " Kernel Version: 1.0.8.6.X/2.0.8.6.4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "Steps",
+          "text": "Steps",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Images",
+          "text": "Images",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "Remove 7 screws from the back panel",
+          "text": "Remove 7 screws from the back panel",
+          "merge": {
+            "rowspan": 15,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 15,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "address": "A19",
+          "row": 19,
+          "col": 1,
+          "column": "A",
+          "value": "Disconnect both ends of the XHB cable, replace it with a new XHB cable  ",
+          "text": "Disconnect both ends of the XHB cable, replace it with a new XHB cable  ",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B19",
+          "row": 19,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "cells": [
+        {
+          "address": "A33",
+          "row": 33,
+          "col": 1,
+          "column": "A",
+          "value": "Disconnect both ends of the FC-20 cable, replace it with a new FC-20 cable  ",
+          "text": "Disconnect both ends of the FC-20 cable, replace it with a new FC-20 cable  ",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B33",
+          "row": 33,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "cells": [
+        {
+          "address": "A47",
+          "row": 47,
+          "col": 1,
+          "column": "A",
+          "value": "Disconnect both ends of the USB cable, replace it with a new USB cable  ",
+          "text": "Disconnect both ends of the USB cable, replace it with a new USB cable  ",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B47",
+          "row": 47,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "cells": [
+        {
+          "address": "A61",
+          "row": 61,
+          "col": 1,
+          "column": "A",
+          "value": "After completion, reinstall the back panel",
+          "text": "After completion, reinstall the back panel",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B61",
+          "row": 61,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    }
+  ]
+}

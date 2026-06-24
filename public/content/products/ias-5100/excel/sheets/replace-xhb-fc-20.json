@@ -1,0 +1,883 @@
+﻿{
+  "title": "Replace XHB, FC-20",
+  "slug": "replace-xhb-fc-20",
+  "dimensions": {
+    "maxRow": 35,
+    "maxColumn": 2,
+    "rowHeights": {
+      "1": 51.0,
+      "2": 51.0,
+      "3": 33.0,
+      "4": 33.0,
+      "5": 14.15,
+      "6": 14.15,
+      "7": 14.15,
+      "8": 14.15,
+      "9": 14.15,
+      "10": 14.15,
+      "11": 14.15,
+      "12": 14.15,
+      "13": 14.15,
+      "14": 14.15,
+      "29": 15.45,
+      "30": 15.45,
+      "31": 15.45,
+      "32": 15.45,
+      "33": 15.45,
+      "34": 15.45,
+      "35": 15.45
+    },
+    "columnWidths": {
+      "A": 43.84375,
+      "B": 42.765625,
+      "C": 9.0
+    }
+  },
+  "mergedCells": [
+    "A2:B2",
+    "B15:B28",
+    "A15:A28",
+    "B5:B14",
+    "A1:B1",
+    "A5:A14"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-5100/excel/replace-xhb-fc-20/image-001.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 38735,
+          "colOffset": 1270
+        },
+        "to": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 572770,
+          "colOffset": 1673860
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-5100/excel/replace-xhb-fc-20/image-002.png",
+      "width": 1280,
+      "height": 1706,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 5,
+          "col": 2,
+          "rowOffset": 152183,
+          "colOffset": 615950
+        },
+        "to": {
+          "row": 13,
+          "col": 2,
+          "rowOffset": 130365,
+          "colOffset": 2415950
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Replace the Ribbon Cable",
+          "text": "Replace the Ribbon Cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": " Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "text": " Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "Step",
+          "text": "Step",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Image",
+          "text": "Image",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "Remove the enclosure ",
+          "text": "Remove the enclosure ",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": "Refer to IAS-5100 Removal and Installation 1",
+          "text": "Refer to IAS-5100 Removal and Installation 1",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "address": "A5",
+          "row": 5,
+          "col": 1,
+          "column": "A",
+          "value": "Disconnect the XHB or FC-20 cable and replace it with a new one",
+          "text": "Disconnect the XHB or FC-20 cable and replace it with a new one",
+          "merge": {
+            "rowspan": 10,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "B5",
+          "row": 5,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 10,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "address": "A15",
+          "row": 15,
+          "col": 1,
+          "column": "A",
+          "value": "After completing the replacement, reassemble the instrument in reverse order.",
+          "text": "After completing the replacement, reassemble the instrument in reverse order.",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B15",
+          "row": 15,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "address": "A29",
+          "row": 29,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B29",
+          "row": 29,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "address": "A30",
+          "row": 30,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B30",
+          "row": 30,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "cells": [
+        {
+          "address": "A31",
+          "row": 31,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B31",
+          "row": 31,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "cells": [
+        {
+          "address": "A32",
+          "row": 32,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B32",
+          "row": 32,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "cells": [
+        {
+          "address": "A33",
+          "row": 33,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B33",
+          "row": 33,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "cells": [
+        {
+          "address": "A34",
+          "row": 34,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B34",
+          "row": 34,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "cells": [
+        {
+          "address": "A35",
+          "row": 35,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B35",
+          "row": 35,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

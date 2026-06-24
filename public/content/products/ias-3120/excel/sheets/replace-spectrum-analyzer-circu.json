@@ -1,0 +1,4060 @@
+﻿{
+  "title": "Replace Spectrum Analyzer Circu",
+  "slug": "replace-spectrum-analyzer-circu",
+  "dimensions": {
+    "maxRow": 92,
+    "maxColumn": 4,
+    "rowHeights": {
+      "1": 54.0,
+      "2": 36.0,
+      "3": 33.0,
+      "90": 15.5,
+      "91": 15.5,
+      "92": 15.5
+    },
+    "columnWidths": {
+      "A": 64.1796875,
+      "B": 52.453125,
+      "C": 30.453125,
+      "D": 27.81640625,
+      "E": 9.0
+    }
+  },
+  "mergedCells": [
+    "A32:A49",
+    "B32:B49",
+    "B78:B89",
+    "B4:B17",
+    "B18:B31",
+    "A4:A17",
+    "A50:A63",
+    "B64:B77",
+    "A64:A77",
+    "A1:B1",
+    "A78:A89",
+    "B50:B63",
+    "A18:A31"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-001.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 86360,
+          "colOffset": 1270
+        },
+        "to": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 620395,
+          "colOffset": 1673860
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-002.png",
+      "width": 4000,
+      "height": 3000,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 4,
+          "col": 2,
+          "rowOffset": 64135,
+          "colOffset": 479425
+        },
+        "to": {
+          "row": 16,
+          "col": 2,
+          "rowOffset": 51435,
+          "colOffset": 3201035
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-003.jpg",
+      "width": 1706,
+      "height": 1280,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 18,
+          "col": 2,
+          "rowOffset": 28575,
+          "colOffset": 314325
+        },
+        "to": {
+          "row": 29,
+          "col": 2,
+          "rowOffset": 153035,
+          "colOffset": 3274060
+        }
+      }
+    },
+    {
+      "id": "image-004",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-004.jpg",
+      "width": 1702,
+      "height": 1276,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 33,
+          "col": 2,
+          "rowOffset": 114300,
+          "colOffset": 247650
+        },
+        "to": {
+          "row": 46,
+          "col": 3,
+          "rowOffset": 114935,
+          "colOffset": 0
+        }
+      }
+    },
+    {
+      "id": "image-005",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-005.png",
+      "width": 507,
+      "height": 325,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 50,
+          "col": 2,
+          "rowOffset": 66675,
+          "colOffset": 304800
+        },
+        "to": {
+          "row": 62,
+          "col": 2,
+          "rowOffset": 130810,
+          "colOffset": 3566160
+        }
+      }
+    },
+    {
+      "id": "image-006",
+      "file": "./images/products/ias-3120/excel/replace-spectrum-analyzer-circu/image-006.png",
+      "width": 3000,
+      "height": 4000,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 64,
+          "col": 2,
+          "rowOffset": 7620,
+          "colOffset": 454025
+        },
+        "to": {
+          "row": 76,
+          "col": 2,
+          "rowOffset": 60960,
+          "colOffset": 3210560
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Replace Spectrum Analyzer Circuit Board",
+          "text": "Replace Spectrum Analyzer Circuit Board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C1",
+          "row": 1,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D1",
+          "row": 1,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": "Steps",
+          "text": "Steps",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B2",
+          "row": 2,
+          "col": 2,
+          "column": "B",
+          "value": "Images",
+          "text": "Images",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C2",
+          "row": 2,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D2",
+          "row": 2,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "Open the device casing",
+          "text": "Open the device casing",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Refer to IAS-3120 Disassembly and Assembly",
+          "text": "Refer to IAS-3120 Disassembly and Assembly",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C3",
+          "row": 3,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D3",
+          "row": 3,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "After removing the casing, the spectrum analyzer location is shown in the figure",
+          "text": "After removing the casing, the spectrum analyzer location is shown in the figure",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C4",
+          "row": 4,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D4",
+          "row": 4,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C5",
+          "row": 5,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D5",
+          "row": 5,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C6",
+          "row": 6,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D6",
+          "row": 6,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C7",
+          "row": 7,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D7",
+          "row": 7,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C8",
+          "row": 8,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D8",
+          "row": 8,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C9",
+          "row": 9,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D9",
+          "row": 9,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C10",
+          "row": 10,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D10",
+          "row": 10,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C11",
+          "row": 11,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D11",
+          "row": 11,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C12",
+          "row": 12,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D12",
+          "row": 12,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C13",
+          "row": 13,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D13",
+          "row": 13,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C14",
+          "row": 14,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D14",
+          "row": 14,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C15",
+          "row": 15,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D15",
+          "row": 15,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C16",
+          "row": 16,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D16",
+          "row": 16,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C17",
+          "row": 17,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D17",
+          "row": 17,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "address": "A18",
+          "row": 18,
+          "col": 1,
+          "column": "A",
+          "value": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "text": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B18",
+          "row": 18,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C18",
+          "row": 18,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D18",
+          "row": 18,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C19",
+          "row": 19,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D19",
+          "row": 19,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C20",
+          "row": 20,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D20",
+          "row": 20,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C21",
+          "row": 21,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D21",
+          "row": 21,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C22",
+          "row": 22,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D22",
+          "row": 22,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C23",
+          "row": 23,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D23",
+          "row": 23,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C24",
+          "row": 24,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D24",
+          "row": 24,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C25",
+          "row": 25,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D25",
+          "row": 25,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C26",
+          "row": 26,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D26",
+          "row": 26,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C27",
+          "row": 27,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D27",
+          "row": 27,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C28",
+          "row": 28,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D28",
+          "row": 28,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C29",
+          "row": 29,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D29",
+          "row": 29,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C30",
+          "row": 30,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D30",
+          "row": 30,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C31",
+          "row": 31,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D31",
+          "row": 31,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "cells": [
+        {
+          "address": "A32",
+          "row": 32,
+          "col": 1,
+          "column": "A",
+          "value": "As shown, use a utility knife to cut the white adhesive connecting the spectrum analyzer, then remove the two screws securing the optical fiber to the spectrum analyzer, and finally remove the two screws securing the spectrum analyzer bracket to the baseplate. Disconnect the USB interface connected to the core board, and remove the spectrum analyzer. Reassemble in reverse order.",
+          "text": "As shown, use a utility knife to cut the white adhesive connecting the spectrum analyzer, then remove the two screws securing the optical fiber to the spectrum analyzer, and finally remove the two screws securing the spectrum analyzer bracket to the baseplate. Disconnect the USB interface connected to the core board, and remove the spectrum analyzer. Reassemble in reverse order.",
+          "merge": {
+            "rowspan": 18,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B32",
+          "row": 32,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 18,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C32",
+          "row": 32,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D32",
+          "row": 32,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C33",
+          "row": 33,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D33",
+          "row": 33,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C34",
+          "row": 34,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D34",
+          "row": 34,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C35",
+          "row": 35,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D35",
+          "row": 35,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C36",
+          "row": 36,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D36",
+          "row": 36,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C37",
+          "row": 37,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D37",
+          "row": 37,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C38",
+          "row": 38,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D38",
+          "row": 38,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C39",
+          "row": 39,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D39",
+          "row": 39,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C40",
+          "row": 40,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D40",
+          "row": 40,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C41",
+          "row": 41,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D41",
+          "row": 41,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C42",
+          "row": 42,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D42",
+          "row": 42,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C43",
+          "row": 43,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D43",
+          "row": 43,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C44",
+          "row": 44,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D44",
+          "row": 44,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C45",
+          "row": 45,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D45",
+          "row": 45,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C46",
+          "row": 46,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D46",
+          "row": 46,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C47",
+          "row": 47,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D47",
+          "row": 47,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C48",
+          "row": 48,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D48",
+          "row": 48,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C49",
+          "row": 49,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D49",
+          "row": 49,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "cells": [
+        {
+          "address": "A50",
+          "row": 50,
+          "col": 1,
+          "column": "A",
+          "value": "As shown, first disconnect the ribbon cables from the core board and PD board (ensure the blue side of the ribbon cable faces outward), then remove the screws securing the PD board and core board, replace the PD board and core board. Reassemble in reverse order.",
+          "text": "As shown, first disconnect the ribbon cables from the core board and PD board (ensure the blue side of the ribbon cable faces outward), then remove the screws securing the PD board and core board, replace the PD board and core board. Reassemble in reverse order.",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B50",
+          "row": 50,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C50",
+          "row": 50,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D50",
+          "row": 50,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C51",
+          "row": 51,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D51",
+          "row": 51,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C52",
+          "row": 52,
+          "col": 3,
+          "column": "C",
+          "value": "PD board wiring",
+          "text": "PD board wiring",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "D52",
+          "row": 52,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C53",
+          "row": 53,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D53",
+          "row": 53,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C54",
+          "row": 54,
+          "col": 3,
+          "column": "C",
+          "value": "Two screws for the PD board",
+          "text": "Two screws for the PD board",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "D54",
+          "row": 54,
+          "col": 4,
+          "column": "D",
+          "value": "Remove the wiring of the core board",
+          "text": "Remove the wiring of the core board",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C55",
+          "row": 55,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D55",
+          "row": 55,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C56",
+          "row": 56,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D56",
+          "row": 56,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C57",
+          "row": 57,
+          "col": 3,
+          "column": "C",
+          "value": "Four screws for the core board",
+          "text": "Four screws for the core board",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "D57",
+          "row": 57,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C58",
+          "row": 58,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D58",
+          "row": 58,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C59",
+          "row": 59,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D59",
+          "row": 59,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C60",
+          "row": 60,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D60",
+          "row": 60,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C61",
+          "row": 61,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D61",
+          "row": 61,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C62",
+          "row": 62,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D62",
+          "row": 62,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C63",
+          "row": 63,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D63",
+          "row": 63,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "cells": [
+        {
+          "address": "A64",
+          "row": 64,
+          "col": 1,
+          "column": "A",
+          "value": "As shown, first disconnect the ribbon cable from the DMD board (ensure the blue side of the ribbon cable faces outward), then remove the screws securing the DMD board, replace the DMD board. Reassemble in reverse order.",
+          "text": "As shown, first disconnect the ribbon cable from the DMD board (ensure the blue side of the ribbon cable faces outward), then remove the screws securing the DMD board, replace the DMD board. Reassemble in reverse order.",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B64",
+          "row": 64,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C64",
+          "row": 64,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D64",
+          "row": 64,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C65",
+          "row": 65,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D65",
+          "row": 65,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C66",
+          "row": 66,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D66",
+          "row": 66,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C67",
+          "row": 67,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D67",
+          "row": 67,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C68",
+          "row": 68,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D68",
+          "row": 68,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C69",
+          "row": 69,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D69",
+          "row": 69,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C70",
+          "row": 70,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D70",
+          "row": 70,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C71",
+          "row": 71,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D71",
+          "row": 71,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C72",
+          "row": 72,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D72",
+          "row": 72,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C73",
+          "row": 73,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D73",
+          "row": 73,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C74",
+          "row": 74,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D74",
+          "row": 74,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C75",
+          "row": 75,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D75",
+          "row": 75,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C76",
+          "row": 76,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D76",
+          "row": 76,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C77",
+          "row": 77,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D77",
+          "row": 77,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "cells": [
+        {
+          "address": "A78",
+          "row": 78,
+          "col": 1,
+          "column": "A",
+          "value": "Reassemble in reverse order",
+          "text": "Reassemble in reverse order",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B78",
+          "row": 78,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C78",
+          "row": 78,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D78",
+          "row": 78,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C79",
+          "row": 79,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D79",
+          "row": 79,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C80",
+          "row": 80,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D80",
+          "row": 80,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C81",
+          "row": 81,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D81",
+          "row": 81,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C82",
+          "row": 82,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D82",
+          "row": 82,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C83",
+          "row": 83,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D83",
+          "row": 83,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C84",
+          "row": 84,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D84",
+          "row": 84,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C85",
+          "row": 85,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D85",
+          "row": 85,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C86",
+          "row": 86,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D86",
+          "row": 86,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C87",
+          "row": 87,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D87",
+          "row": 87,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C88",
+          "row": 88,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D88",
+          "row": 88,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C89",
+          "row": 89,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D89",
+          "row": 89,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "cells": [
+        {
+          "address": "A90",
+          "row": 90,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B90",
+          "row": 90,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "C90",
+          "row": 90,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D90",
+          "row": 90,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "cells": [
+        {
+          "address": "A91",
+          "row": 91,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B91",
+          "row": 91,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "C91",
+          "row": 91,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D91",
+          "row": 91,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "cells": [
+        {
+          "address": "A92",
+          "row": 92,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "B92",
+          "row": 92,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "C92",
+          "row": 92,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        },
+        {
+          "address": "D92",
+          "row": 92,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 11.0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

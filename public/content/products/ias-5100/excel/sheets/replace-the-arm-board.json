@@ -1,0 +1,1058 @@
+﻿{
+  "title": "Replace the ARM Board",
+  "slug": "replace-the-arm-board",
+  "dimensions": {
+    "maxRow": 30,
+    "maxColumn": 4,
+    "rowHeights": {
+      "1": 52.0,
+      "2": 52.0,
+      "3": 25.0,
+      "4": 28.5
+    },
+    "columnWidths": {
+      "A": 44.3828125,
+      "B": 45.84375,
+      "C": 41.0,
+      "D": 46.61328125,
+      "E": 9.0
+    }
+  },
+  "mergedCells": [
+    "A1:D1",
+    "B5:B16",
+    "A2:B2",
+    "D5:D16",
+    "C17:C30",
+    "D17:D30",
+    "C2:D2",
+    "A17:A30",
+    "B17:B30",
+    "C5:C16",
+    "A5:A16"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-5100/excel/replace-the-arm-board/image-001.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 76835,
+          "colOffset": 635
+        },
+        "to": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 610870,
+          "colOffset": 1673225
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-5100/excel/replace-the-arm-board/image-002.png",
+      "width": 508,
+      "height": 726,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 5,
+          "col": 2,
+          "rowOffset": 71754,
+          "colOffset": 111762
+        },
+        "to": {
+          "row": 16,
+          "col": 2,
+          "rowOffset": 105671,
+          "colOffset": 3079752
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-5100/excel/replace-the-arm-board/image-003.jpg",
+      "width": 554,
+      "height": 433,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 5,
+          "col": 4,
+          "rowOffset": 152400,
+          "colOffset": 381000
+        },
+        "to": {
+          "row": 15,
+          "col": 4,
+          "rowOffset": 174812,
+          "colOffset": 2681864
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Replace the ARM Board",
+          "text": "Replace the ARM Board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 4
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": "Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "text": "Kernel Versions: 1.0.8.6.X/2.0.8.6.4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C2",
+          "row": 2,
+          "col": 3,
+          "column": "C",
+          "value": " Kernel Versions: 4.3.0.0.0/4.3.2.0.0",
+          "text": " Kernel Versions: 4.3.0.0.0/4.3.2.0.0",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "Step",
+          "text": "Step",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Image",
+          "text": "Image",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C3",
+          "row": 3,
+          "col": 3,
+          "column": "C",
+          "value": "Step",
+          "text": "Step",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D3",
+          "row": 3,
+          "col": 4,
+          "column": "D",
+          "value": "Image",
+          "text": "Image",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "Remove the enclosure ",
+          "text": "Remove the enclosure ",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": "Refer to IAS-5100 Removal and Installation 1",
+          "text": "Refer to IAS-5100 Removal and Installation 1",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C4",
+          "row": 4,
+          "col": 3,
+          "column": "C",
+          "value": "Remove the enclosure ",
+          "text": "Remove the enclosure ",
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D4",
+          "row": 4,
+          "col": 4,
+          "column": "D",
+          "value": "Refer to IAS-5100 Removal and Installation 2",
+          "text": "Refer to IAS-5100 Removal and Installation 2",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "address": "A5",
+          "row": 5,
+          "col": 1,
+          "column": "A",
+          "value": "After removing the enclosure, disconnect the white glue fixed in the circle and remove the blue ARM board in the center of the main control board.",
+          "text": "After removing the enclosure, disconnect the white glue fixed in the circle and remove the blue ARM board in the center of the main control board.",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B5",
+          "row": 5,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C5",
+          "row": 5,
+          "col": 3,
+          "column": "C",
+          "value": "After removing the enclosure, remove the blue ARM board in the center of the main control board",
+          "text": "After removing the enclosure, remove the blue ARM board in the center of the main control board",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D5",
+          "row": 5,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 12,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "address": "A17",
+          "row": 17,
+          "col": 1,
+          "column": "A",
+          "value": "Insert the new ARM board after removal, and reassemble the machine in reverse order.       ",
+          "text": "Insert the new ARM board after removal, and reassemble the machine in reverse order.       ",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B17",
+          "row": 17,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C17",
+          "row": 17,
+          "col": 3,
+          "column": "C",
+          "value": "Insert the new ARM board after removal, and reassemble the machine in reverse order.       ",
+          "text": "Insert the new ARM board after removal, and reassemble the machine in reverse order.       ",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D17",
+          "row": 17,
+          "col": 4,
+          "column": "D",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    }
+  ]
+}

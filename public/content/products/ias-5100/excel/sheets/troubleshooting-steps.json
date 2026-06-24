@@ -1,0 +1,226 @@
+{
+  "title": "Troubleshooting Steps",
+  "slug": "troubleshooting-steps",
+  "dimensions": {
+    "maxRow": 9,
+    "maxColumn": 1,
+    "rowHeights": {
+      "1": 58.0,
+      "2": 33.0,
+      "3": 27.0,
+      "4": 27.0,
+      "5": 49.0,
+      "6": 31.5,
+      "7": 15.45,
+      "8": 15.45,
+      "9": 15.45
+    },
+    "columnWidths": {
+      "A": 103.4609375,
+      "B": 9.0
+    }
+  },
+  "mergedCells": [],
+  "images": [],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Troubleshooting Steps",
+          "text": "Troubleshooting Steps",
+          "style": {
+            "font": {
+              "size": 18.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": "Step 1: Reproduce Client-Side Faults",
+          "text": "Step 1: Reproduce Client-Side Faults",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "1.1 When the instrument is returned for repair, unpack and reproduce the client-side fault.",
+          "text": "1.1 When the instrument is returned for repair, unpack and reproduce the client-side fault.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "Step 2: Check the Kernel Version of the Instrument",
+          "text": "Step 2: Check the Kernel Version of the Instrument",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "address": "A5",
+          "row": 5,
+          "col": 1,
+          "column": "A",
+          "value": "2.1 Navigate to System Settings - Advanced Settings - enter the password admin123 - OK - access the system backend, and click on Detailed Information in the upper left of Device Information to check the kernel version.",
+          "text": "2.1 Navigate to System Settings - Advanced Settings - enter the password admin123 - OK - access the system backend, and click on Detailed Information in the upper left of Device Information to check the kernel version.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "address": "A6",
+          "row": 6,
+          "col": 1,
+          "column": "A",
+          "value": "Step 3: Troubleshoot Issues by Referring to the Common Troubleshooting Manual Based on the Kernel Version",
+          "text": "Step 3: Troubleshoot Issues by Referring to the Common Troubleshooting Manual Based on the Kernel Version",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "address": "A7",
+          "row": 7,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "address": "A8",
+          "row": 8,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "address": "A9",
+          "row": 9,
+          "col": 1,
+          "column": "A",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

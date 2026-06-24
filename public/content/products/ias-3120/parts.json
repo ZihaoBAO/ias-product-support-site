@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": "screen", "name": "Screen Module", "note": "待从 Excel 和图片资料补充型号、数量与位置。" },
+    { "id": "arm-board", "name": "ARM Board", "note": "待补充备件编码和更换 SOP 关联。" },
+    { "id": "light-source", "name": "Light Source", "note": "待补充安装注意事项。" },
+    { "id": "sensor", "name": "Sensor", "note": "待补充校验和验收标准。" }
+  ]
+}

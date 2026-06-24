@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "common-troubleshooting",
+      "fault": "Common Troubleshooting and Maintenance",
+      "possibleCause": "来自 Excel 故障排查表，具体原因和处理步骤待迁移。",
+      "relatedSopIds": [],
+      "status": "待整理"
+    },
+    {
+      "id": "power-or-communication",
+      "fault": "Power / Communication / Board Related",
+      "possibleCause": "待从 Troubleshooting Steps 与对应更换 SOP 中拆分。",
+      "relatedSopIds": ["replace-control-main-board", "replace-peripheral-boards"],
+      "status": "待整理"
+    },
+    {
+      "id": "optical-or-sensor",
+      "fault": "Optical / Sensor Related",
+      "possibleCause": "待从光源、传感器、光纤相关 SOP 中整理。",
+      "relatedSopIds": ["replace-light-source", "replace-sensor", "replace-optical-fiber"],
+      "status": "待整理"
+    }
+  ]
+}

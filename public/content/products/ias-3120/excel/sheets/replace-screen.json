@@ -1,0 +1,1789 @@
+﻿{
+  "title": "Replace Screen",
+  "slug": "replace-screen",
+  "dimensions": {
+    "maxRow": 58,
+    "maxColumn": 4,
+    "rowHeights": {
+      "1": 51.0,
+      "2": 51.0,
+      "3": 27.0,
+      "4": 35.15
+    },
+    "columnWidths": {
+      "A": 44.36328125,
+      "B": 48.36328125,
+      "C": 44.81640625,
+      "D": 53.1796875,
+      "E": 9.0
+    }
+  },
+  "mergedCells": [
+    "A5:A18",
+    "D32:D44",
+    "B5:B18",
+    "D5:D18",
+    "B45:B58",
+    "B19:B31",
+    "A1:D1",
+    "A32:A44",
+    "C5:C18",
+    "A2:B2",
+    "C2:D2",
+    "A45:A58",
+    "C32:C44",
+    "C45:C58",
+    "A19:A31",
+    "C19:C31",
+    "D45:D58",
+    "D19:D31",
+    "B32:B44"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-001.jpg",
+      "width": 1706,
+      "height": 1280,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 5,
+          "col": 4,
+          "rowOffset": 15875,
+          "colOffset": 219076
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-002.jpg",
+      "width": 1276,
+      "height": 1702,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 32,
+          "col": 4,
+          "rowOffset": 31432,
+          "colOffset": 242887
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-003.jpg",
+      "width": 527,
+      "height": 405,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 18,
+          "col": 4,
+          "rowOffset": 158750,
+          "colOffset": 438150
+        },
+        "to": {
+          "row": 29,
+          "col": 4,
+          "rowOffset": 140700,
+          "colOffset": 3243413
+        }
+      }
+    },
+    {
+      "id": "image-004",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-004.jpg",
+      "width": 1706,
+      "height": 1280,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 5,
+          "col": 2,
+          "rowOffset": 28575,
+          "colOffset": 212726
+        },
+        "to": {
+          "row": 16,
+          "col": 2,
+          "rowOffset": 16875,
+          "colOffset": 2993955
+        }
+      }
+    },
+    {
+      "id": "image-005",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-005.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 95885,
+          "colOffset": 76835
+        },
+        "to": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 629920,
+          "colOffset": 1749425
+        }
+      }
+    },
+    {
+      "id": "image-006",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-006.jpg",
+      "width": 1706,
+      "height": 1280,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 19,
+          "col": 2,
+          "rowOffset": 44450,
+          "colOffset": 266700
+        },
+        "to": {
+          "row": 30,
+          "col": 2,
+          "rowOffset": 32750,
+          "colOffset": 3069464
+        }
+      }
+    },
+    {
+      "id": "image-007",
+      "file": "./images/products/ias-3120/excel/replace-screen/image-007.jpg",
+      "width": 1276,
+      "height": 1702,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 32,
+          "col": 2,
+          "rowOffset": 31432,
+          "colOffset": 242887
+        },
+        "to": {
+          "row": 43,
+          "col": 2,
+          "rowOffset": 8572,
+          "colOffset": 3341052
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "Replace Screen",
+          "text": "Replace Screen",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 4
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": " Kernel Version: 1.0.8.6.X/2.0.8.6.4",
+          "text": " Kernel Version: 1.0.8.6.X/2.0.8.6.4",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C2",
+          "row": 2,
+          "col": 3,
+          "column": "C",
+          "value": "Kernel Version: 4.3.0.0.0/4.3.2.0.0",
+          "text": "Kernel Version: 4.3.0.0.0/4.3.2.0.0",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 20.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "Steps",
+          "text": "Steps",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Images",
+          "text": "Images",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C3",
+          "row": 3,
+          "col": 3,
+          "column": "C",
+          "value": "Steps",
+          "text": "Steps",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D3",
+          "row": 3,
+          "col": 4,
+          "column": "D",
+          "value": "Images",
+          "text": "Images",
+          "style": {
+            "font": {
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "address": "A4",
+          "row": 4,
+          "col": 1,
+          "column": "A",
+          "value": "Open the device casing",
+          "text": "Open the device casing",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": "Refer to IAS-3120 Disassembly and Assembly",
+          "text": "Refer to IAS-3120 Disassembly and Assembly",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#800080",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C4",
+          "row": 4,
+          "col": 3,
+          "column": "C",
+          "value": "Open the device casing",
+          "text": "Open the device casing",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D4",
+          "row": 4,
+          "col": 4,
+          "column": "D",
+          "value": "Refer to IAS-3120 Disassembly and Assembly",
+          "text": "Refer to IAS-3120 Disassembly and Assembly",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#800080",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "address": "A5",
+          "row": 5,
+          "col": 1,
+          "column": "A",
+          "value": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "text": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B5",
+          "row": 5,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C5",
+          "row": 5,
+          "col": 3,
+          "column": "C",
+          "value": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "text": "After removing the casing, remove the 4 screws within the circle to detach the front panel (ensure to use tape to secure the screen during removal to prevent it from falling off)",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D5",
+          "row": 5,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "address": "A19",
+          "row": 19,
+          "col": 1,
+          "column": "A",
+          "value": "Disconnect the screen ribbon cable and remove the screen",
+          "text": "Disconnect the screen ribbon cable and remove the screen",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B19",
+          "row": 19,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C19",
+          "row": 19,
+          "col": 3,
+          "column": "C",
+          "value": "Disconnect the screen ribbon cable and remove the screen",
+          "text": "Disconnect the screen ribbon cable and remove the screen",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D19",
+          "row": 19,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "cells": [
+        {
+          "address": "A32",
+          "row": 32,
+          "col": 1,
+          "column": "A",
+          "value": "Install the new screen from the front, and connect the ribbon cable to the control main board",
+          "text": "Install the new screen from the front, and connect the ribbon cable to the control main board",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B32",
+          "row": 32,
+          "col": 2,
+          "column": "B",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C32",
+          "row": 32,
+          "col": 3,
+          "column": "C",
+          "value": "Install the new screen from the front, and connect the ribbon cable to the control main board",
+          "text": "Install the new screen from the front, and connect the ribbon cable to the control main board",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D32",
+          "row": 32,
+          "col": 4,
+          "column": "D",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 13,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "cells": [
+        {
+          "address": "A45",
+          "row": 45,
+          "col": 1,
+          "column": "A",
+          "value": "Reassemble in reverse order",
+          "text": "Reassemble in reverse order",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B45",
+          "row": 45,
+          "col": 2,
+          "column": "B",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C45",
+          "row": 45,
+          "col": 3,
+          "column": "C",
+          "value": "Reassemble in reverse order",
+          "text": "Reassemble in reverse order",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D45",
+          "row": 45,
+          "col": 4,
+          "column": "D",
+          "value": "None",
+          "text": "None",
+          "merge": {
+            "rowspan": 14,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    }
+  ]
+}

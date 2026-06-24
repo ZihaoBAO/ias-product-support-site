@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": "screen", "name": "Screen Module", "note": "待从 Excel 和图片资料补充型号、数量与位置。" },
+    { "id": "main-control-board", "name": "Main Control Board", "note": "待补充备件编码和更换 SOP 关联。" },
+    { "id": "lamp", "name": "Lamp / Lamp Board", "note": "待补充安装注意事项。" },
+    { "id": "motor", "name": "Motor / Motor Board", "note": "待补充测试和验收标准。" }
+  ]
+}

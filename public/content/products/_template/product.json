@@ -1,0 +1,12 @@
+{
+  "id": "new-product-id",
+  "name": "New Product",
+  "title": "New Product 产品维护说明",
+  "category": "产品维护手册",
+  "status": "待建立",
+  "updatedAt": "YYYY-MM-DD",
+  "sourceWorkbook": "",
+  "description": "",
+  "sourceSheets": [],
+  "sops": []
+}

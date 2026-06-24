@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "ias-3120",
+      "name": "IAS-3120",
+      "title": "IAS-3120 产品维护说明",
+      "summary": "IAS-3120 维护 SOP，包含故障排查、拆装流程和关键部件更换目录。",
+      "status": "框架已建立",
+      "tags": ["维护 SOP", "故障排查", "3120"],
+      "sopCount": 15,
+      "faultCount": 3,
+      "updatedAt": "2026-06-22"
+    },
+    {
+      "id": "ias-5100",
+      "name": "IAS-5100",
+      "title": "IAS-5100 产品维护说明",
+      "summary": "IAS-5100 维护 SOP，包含故障排查、拆装流程和关键部件更换目录。",
+      "status": "框架已建立",
+      "tags": ["维护 SOP", "故障排查", "5100"],
+      "sopCount": 17,
+      "faultCount": 3,
+      "updatedAt": "2026-06-22"
+    }
+  ]
+}

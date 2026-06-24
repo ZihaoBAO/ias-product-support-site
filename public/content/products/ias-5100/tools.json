@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "screwdriver", "name": "Screwdriver Set", "note": "待补充规格。" },
+    { "id": "anti-static", "name": "ESD Protection", "note": "维修电子板卡时使用。" },
+    { "id": "cable-tools", "name": "Cable Handling Tools", "note": "适用于 ribbon cable、USB、485 通讯线等步骤。" }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "status": "ok",
+  "products": [
+    {
+      "productId": "ias-3120",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "documents": 15,
+      "faultItems": 45,
+      "flowSteps": 4,
+      "sheets": [
+        {
+          "title": "Table of Contents",
+          "slug": "table-of-contents",
+          "nonEmptyCells": 5,
+          "coveredCells": 5,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "Troubleshooting Steps",
+          "slug": "troubleshooting-steps",
+          "nonEmptyCells": 6,
+          "coveredCells": 6,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "Common Troubleshooting and Main",
+          "slug": "common-troubleshooting-and-main",
+          "nonEmptyCells": 245,
+          "coveredCells": 245,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "IAS-3120 Spectrum Analyzer Disa",
+          "slug": "ias-3120-spectrum-analyzer-disa",
+          "nonEmptyCells": 43,
+          "coveredCells": 43,
+          "images": 7,
+          "coveredImages": 7,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Button Switches",
+          "slug": "replace-button-switches",
+          "nonEmptyCells": 7,
+          "coveredCells": 7,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Peripheral Boards",
+          "slug": "replace-peripheral-boards",
+          "nonEmptyCells": 19,
+          "coveredCells": 19,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace ARM Boards",
+          "slug": "replace-arm-boards",
+          "nonEmptyCells": 15,
+          "coveredCells": 15,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Screen",
+          "slug": "replace-screen",
+          "nonEmptyCells": 21,
+          "coveredCells": 21,
+          "images": 7,
+          "coveredImages": 7,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Light Source Board",
+          "slug": "replace-light-source-board",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace 40-pin Gray Ribbon Cabl",
+          "slug": "replace-40-pin-gray-ribbon-cabl",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Control Main Board",
+          "slug": "replace-control-main-board",
+          "nonEmptyCells": 19,
+          "coveredCells": 19,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Spectrum Analyzer 485 C",
+          "slug": "replace-spectrum-analyzer-485-c",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Spectrum Analyzer Circu",
+          "slug": "replace-spectrum-analyzer-circu",
+          "nonEmptyCells": 16,
+          "coveredCells": 18,
+          "images": 6,
+          "coveredImages": 6,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Light Source",
+          "slug": "replace-light-source",
+          "nonEmptyCells": 7,
+          "coveredCells": 7,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Motor",
+          "slug": "replace-motor",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace XHB, FC-20, and USB",
+          "slug": "replace-xhb-fc-20-and-usb",
+          "nonEmptyCells": 11,
+          "coveredCells": 11,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Sensor",
+          "slug": "replace-sensor",
+          "nonEmptyCells": 11,
+          "coveredCells": 11,
+          "images": 4,
+          "coveredImages": 4,
+          "status": "ok"
+        },
+        {
+          "title": "Replace Optical Fiber",
+          "slug": "replace-optical-fiber",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "productId": "ias-5100",
+      "status": "ok",
+      "issues": [],
+      "warnings": [],
+      "documents": 17,
+      "faultItems": 45,
+      "flowSteps": 4,
+      "sheets": [
+        {
+          "title": "Table of Contents",
+          "slug": "table-of-contents",
+          "nonEmptyCells": 5,
+          "coveredCells": 5,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "Troubleshooting Steps",
+          "slug": "troubleshooting-steps",
+          "nonEmptyCells": 6,
+          "coveredCells": 6,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "Common Troubleshooting and Main",
+          "slug": "common-troubleshooting-and-main",
+          "nonEmptyCells": 245,
+          "coveredCells": 245,
+          "images": 0,
+          "coveredImages": 0,
+          "status": "ok"
+        },
+        {
+          "title": "Complete Removal and Installati",
+          "slug": "complete-removal-and-installati",
+          "nonEmptyCells": 85,
+          "coveredCells": 85,
+          "images": 13,
+          "coveredImages": 13,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Rocker Switch",
+          "slug": "replace-the-rocker-switch",
+          "nonEmptyCells": 8,
+          "coveredCells": 8,
+          "images": 4,
+          "coveredImages": 4,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Peripheral Board",
+          "slug": "replace-the-peripheral-board",
+          "nonEmptyCells": 19,
+          "coveredCells": 19,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the ARM Board",
+          "slug": "replace-the-arm-board",
+          "nonEmptyCells": 17,
+          "coveredCells": 17,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Screen",
+          "slug": "replace-the-screen",
+          "nonEmptyCells": 15,
+          "coveredCells": 15,
+          "images": 8,
+          "coveredImages": 8,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Main Control Board",
+          "slug": "replace-the-main-control-board",
+          "nonEmptyCells": 20,
+          "coveredCells": 20,
+          "images": 6,
+          "coveredImages": 6,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Circuit Board of th",
+          "slug": "replace-the-circuit-board-of-th",
+          "nonEmptyCells": 13,
+          "coveredCells": 13,
+          "images": 7,
+          "coveredImages": 7,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Lamp Board",
+          "slug": "replace-the-lamp-board",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the lamp ",
+          "slug": "replace-the-lamp",
+          "nonEmptyCells": 8,
+          "coveredCells": 8,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Motor Board",
+          "slug": "replace-the-motor-board",
+          "nonEmptyCells": 10,
+          "coveredCells": 10,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Motor",
+          "slug": "replace-the-motor",
+          "nonEmptyCells": 8,
+          "coveredCells": 8,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace XHB, FC-20",
+          "slug": "replace-xhb-fc-20",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the 40-pin gray ribbon ",
+          "slug": "replace-the-40-pin-gray-ribbon",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Sensor",
+          "slug": "replace-the-sensor",
+          "nonEmptyCells": 19,
+          "coveredCells": 19,
+          "images": 5,
+          "coveredImages": 5,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the USB Cable",
+          "slug": "replace-the-usb-cable",
+          "nonEmptyCells": 8,
+          "coveredCells": 8,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the Optical Fiber",
+          "slug": "replace-the-optical-fiber",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 3,
+          "coveredImages": 3,
+          "status": "ok"
+        },
+        {
+          "title": "Replace the 485 communication c",
+          "slug": "replace-the-485-communication-c",
+          "nonEmptyCells": 9,
+          "coveredCells": 9,
+          "images": 2,
+          "coveredImages": 2,
+          "status": "ok"
+        }
+      ]
+    }
+  ]
+}

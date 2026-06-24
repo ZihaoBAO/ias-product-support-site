@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "common-troubleshooting",
+      "fault": "Common Troubleshooting and Maintenance",
+      "possibleCause": "来自 Excel 故障排查表，具体原因和处理步骤待迁移。",
+      "relatedSopIds": [],
+      "status": "待整理"
+    },
+    {
+      "id": "board-or-switch",
+      "fault": "Board / Switch Related",
+      "possibleCause": "待从 Rocker Switch、Peripheral Board、ARM Board 等 SOP 中拆分。",
+      "relatedSopIds": ["replace-rocker-switch", "replace-peripheral-board", "replace-arm-board"],
+      "status": "待整理"
+    },
+    {
+      "id": "optical-or-motor",
+      "fault": "Optical / Motor Related",
+      "possibleCause": "待从 Lamp、Motor、Sensor、Optical Fiber 相关 SOP 中整理。",
+      "relatedSopIds": ["replace-lamp", "replace-motor", "replace-sensor", "replace-optical-fiber"],
+      "status": "待整理"
+    }
+  ]
+}

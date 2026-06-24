@@ -1,0 +1,2771 @@
+﻿{
+  "title": "IAS-3120 Spectrum Analyzer Disa",
+  "slug": "ias-3120-spectrum-analyzer-disa",
+  "dimensions": {
+    "maxRow": 23,
+    "maxColumn": 14,
+    "rowHeights": {
+      "1": 41.15,
+      "3": 15.5,
+      "4": 15.5,
+      "5": 15.5,
+      "6": 15.5,
+      "7": 15.5,
+      "8": 15.5,
+      "9": 15.5,
+      "10": 15.5,
+      "11": 15.5,
+      "12": 22.0,
+      "13": 14.15,
+      "14": 15.0,
+      "15": 27.0,
+      "16": 60.0,
+      "18": 30.0,
+      "19": 30.0,
+      "20": 15.5,
+      "23": 15.5
+    },
+    "columnWidths": {
+      "A": 9.0,
+      "I": 14.6328125,
+      "J": 9.0,
+      "K": 44.6328125,
+      "L": 9.0,
+      "M": 15.1796875,
+      "N": 21.1796875,
+      "O": 9.0
+    }
+  },
+  "mergedCells": [
+    "L7:M7",
+    "F21:H21",
+    "J5:K5",
+    "C22:E22",
+    "J10:K10",
+    "A3:H19",
+    "I20:I22",
+    "I3:N3",
+    "J19:N19",
+    "C21:E21",
+    "J20:L22",
+    "J9:K9",
+    "F23:H23",
+    "F22:H22",
+    "J6:K6",
+    "J15:N15",
+    "C23:E23",
+    "I17:I18",
+    "N20:N22",
+    "L5:M5",
+    "L8:M8",
+    "A21:B21",
+    "M20:M22",
+    "J17:N18",
+    "J4:K4",
+    "L4:M4",
+    "J11:N11",
+    "L10:M10",
+    "I13:I14",
+    "J16:N16",
+    "J23:L23",
+    "J7:K7",
+    "A23:B23",
+    "J13:N14",
+    "A22:B22",
+    "L9:M9",
+    "A1:N2",
+    "A20:B20",
+    "L6:M6",
+    "J12:N12",
+    "C20:H20",
+    "J8:K8"
+  ],
+  "images": [
+    {
+      "id": "image-001",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-001.jpg",
+      "width": 412,
+      "height": 604,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 1,
+          "rowOffset": 139700,
+          "colOffset": 661035
+        },
+        "to": {
+          "row": 9,
+          "col": 4,
+          "rowOffset": 139065,
+          "colOffset": 416560
+        }
+      }
+    },
+    {
+      "id": "image-002",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-002.jpg",
+      "width": 573,
+      "height": 420,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 15,
+          "col": 5,
+          "rowOffset": 251460,
+          "colOffset": 488950
+        },
+        "to": {
+          "row": 18,
+          "col": 8,
+          "rowOffset": 112395,
+          "colOffset": 191135
+        }
+      }
+    },
+    {
+      "id": "image-003",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-003.jpg",
+      "width": 570,
+      "height": 416,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 9,
+          "col": 2,
+          "rowOffset": 206375,
+          "colOffset": 83185
+        },
+        "to": {
+          "row": 15,
+          "col": 4,
+          "rowOffset": 130810,
+          "colOffset": 405765
+        }
+      }
+    },
+    {
+      "id": "image-004",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-004.jpg",
+      "width": 598,
+      "height": 425,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 3,
+          "col": 5,
+          "rowOffset": 147955,
+          "colOffset": 455295
+        },
+        "to": {
+          "row": 9,
+          "col": 8,
+          "rowOffset": 182880,
+          "colOffset": 226695
+        }
+      }
+    },
+    {
+      "id": "image-005",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-005.jpg",
+      "width": 413,
+      "height": 590,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 9,
+          "col": 5,
+          "rowOffset": 218122,
+          "colOffset": 489902
+        },
+        "to": {
+          "row": 15,
+          "col": 8,
+          "rowOffset": 116522,
+          "colOffset": 239712
+        }
+      }
+    },
+    {
+      "id": "image-006",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-006.jpg",
+      "width": 427,
+      "height": 576,
+      "format": "jpg",
+      "anchor": {
+        "from": {
+          "row": 15,
+          "col": 2,
+          "rowOffset": 230505,
+          "colOffset": 101600
+        },
+        "to": {
+          "row": 18,
+          "col": 4,
+          "rowOffset": 112395,
+          "colOffset": 441960
+        }
+      }
+    },
+    {
+      "id": "image-007",
+      "file": "./images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-007.png",
+      "width": 572,
+      "height": 221,
+      "format": "png",
+      "anchor": {
+        "from": {
+          "row": 1,
+          "col": 1,
+          "rowOffset": 86360,
+          "colOffset": 635
+        },
+        "to": {
+          "row": 2,
+          "col": 3,
+          "rowOffset": 99695,
+          "colOffset": 301625
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "              IAS-3120 Disassembly and Assembly SOP        ",
+          "text": "              IAS-3120 Disassembly and Assembly SOP        ",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 14
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 30.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "   \n ",
+          "text": "   \n ",
+          "merge": {
+            "rowspan": 17,
+            "colspan": 8
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I3",
+          "row": 3,
+          "col": 9,
+          "column": "I",
+          "value": "Materials Used",
+          "text": "Materials Used",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 6
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I4",
+          "row": 4,
+          "col": 9,
+          "column": "I",
+          "value": "Item",
+          "text": "Item",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J4",
+          "row": 4,
+          "col": 10,
+          "column": "J",
+          "value": "Part Number",
+          "text": "Part Number",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L4",
+          "row": 4,
+          "col": 12,
+          "column": "L",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N4",
+          "row": 4,
+          "col": 14,
+          "column": "N",
+          "value": "Quantity",
+          "text": "Quantity",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I5",
+          "row": 5,
+          "col": 9,
+          "column": "I",
+          "value": 1,
+          "text": "1",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J5",
+          "row": 5,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L5",
+          "row": 5,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N5",
+          "row": 5,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I6",
+          "row": 6,
+          "col": 9,
+          "column": "I",
+          "value": 2,
+          "text": "2",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J6",
+          "row": 6,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L6",
+          "row": 6,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N6",
+          "row": 6,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I7",
+          "row": 7,
+          "col": 9,
+          "column": "I",
+          "value": 3,
+          "text": "3",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J7",
+          "row": 7,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L7",
+          "row": 7,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N7",
+          "row": 7,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I8",
+          "row": 8,
+          "col": 9,
+          "column": "I",
+          "value": 4,
+          "text": "4",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J8",
+          "row": 8,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L8",
+          "row": 8,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N8",
+          "row": 8,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I9",
+          "row": 9,
+          "col": 9,
+          "column": "I",
+          "value": 5,
+          "text": "5",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J9",
+          "row": 9,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L9",
+          "row": 9,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N9",
+          "row": 9,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I10",
+          "row": 10,
+          "col": 9,
+          "column": "I",
+          "value": 6,
+          "text": "6",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J10",
+          "row": 10,
+          "col": 10,
+          "column": "J",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "L10",
+          "row": 10,
+          "col": 12,
+          "column": "L",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "N10",
+          "row": 10,
+          "col": 14,
+          "column": "N",
+          "value": null,
+          "text": "",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I11",
+          "row": 11,
+          "col": 9,
+          "column": "I",
+          "value": "Steps",
+          "text": "Steps",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J11",
+          "row": 11,
+          "col": 10,
+          "column": "J",
+          "value": "Operational Steps and Notes",
+          "text": "Operational Steps and Notes",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I12",
+          "row": 12,
+          "col": 9,
+          "column": "I",
+          "value": 1,
+          "text": "1",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J12",
+          "row": 12,
+          "col": 10,
+          "column": "J",
+          "value": "Remove 7 screws from the bottom plate",
+          "text": "Remove 7 screws from the bottom plate",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I13",
+          "row": 13,
+          "col": 9,
+          "column": "I",
+          "value": 2,
+          "text": "2",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J13",
+          "row": 13,
+          "col": 10,
+          "column": "J",
+          "value": "Remove 7 fixing screws from the back panel and detach the back panel",
+          "text": "Remove 7 fixing screws from the back panel and detach the back panel",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I15",
+          "row": 15,
+          "col": 9,
+          "column": "I",
+          "value": 3,
+          "text": "3",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J15",
+          "row": 15,
+          "col": 10,
+          "column": "J",
+          "value": "Disconnect the collection button and power button switch cables",
+          "text": "Disconnect the collection button and power button switch cables",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I16",
+          "row": 16,
+          "col": 9,
+          "column": "I",
+          "value": "4、5",
+          "text": "4、5",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J16",
+          "row": 16,
+          "col": 10,
+          "column": "J",
+          "value": "Remove 4 hex screws from the front panel, use a blade to cut the sticker on the rotating disk, remove 3 screws from the rotating disk, and detach the rotating disk and screen cover  ",
+          "text": "Remove 4 hex screws from the front panel, use a blade to cut the sticker on the rotating disk, remove 3 screws from the rotating disk, and detach the rotating disk and screen cover  ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I17",
+          "row": 17,
+          "col": 9,
+          "column": "I",
+          "value": 6,
+          "text": "6",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J17",
+          "row": 17,
+          "col": 10,
+          "column": "J",
+          "value": "Remove 4 fixing screws from the front panel to take off the casing (after removing the casing, secure the four corners of the screen with tape to prevent it from falling off)  ",
+          "text": "Remove 4 fixing screws from the front panel to take off the casing (after removing the casing, secure the four corners of the screen with tape to prevent it from falling off)  ",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I19",
+          "row": 19,
+          "col": 9,
+          "column": "I",
+          "value": 7,
+          "text": "7",
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 15.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top"
+            ]
+          }
+        },
+        {
+          "address": "J19",
+          "row": 19,
+          "col": 10,
+          "column": "J",
+          "value": "Reassemble the device by reversing the disassembly steps",
+          "text": "Reassemble the device by reversing the disassembly steps",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 5
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "address": "A20",
+          "row": 20,
+          "col": 1,
+          "column": "A",
+          "value": "Tools",
+          "text": "Tools",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C20",
+          "row": 20,
+          "col": 3,
+          "column": "C",
+          "value": "Consumables",
+          "text": "Consumables",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 6
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I20",
+          "row": 20,
+          "col": 9,
+          "column": "I",
+          "value": "Name",
+          "text": "Name",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J20",
+          "row": 20,
+          "col": 10,
+          "column": "J",
+          "value": "IAS-3120 Finished Product Disassembly and Assembly",
+          "text": "IAS-3120 Finished Product Disassembly and Assembly",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "bold": true,
+              "size": 16.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M20",
+          "row": 20,
+          "col": 13,
+          "column": "M",
+          "value": "Version",
+          "text": "Version",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "N20",
+          "row": 20,
+          "col": 14,
+          "column": "N",
+          "value": "A4",
+          "text": "A4",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "address": "A21",
+          "row": 21,
+          "col": 1,
+          "column": "A",
+          "value": "1. Electric Screwdriver",
+          "text": "1. Electric Screwdriver",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C21",
+          "row": 21,
+          "col": 3,
+          "column": "C",
+          "value": "M 4*10 Combination Screws",
+          "text": "M 4*10 Combination Screws",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ],
+            "numberFormat": "@"
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F21",
+          "row": 21,
+          "col": 6,
+          "column": "F",
+          "value": "M 3*10 Hex Screws",
+          "text": "M 3*10 Hex Screws",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "address": "A22",
+          "row": 22,
+          "col": 1,
+          "column": "A",
+          "value": "2. Hex Wrench",
+          "text": "2. Hex Wrench",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C22",
+          "row": 22,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F22",
+          "row": 22,
+          "col": 6,
+          "column": "F",
+          "value": "M 3*10 Umbrella Head Screws",
+          "text": "M 3*10 Umbrella Head Screws",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "address": "A23",
+          "row": 23,
+          "col": 1,
+          "column": "A",
+          "value": "3. Screw Adhesive",
+          "text": "3. Screw Adhesive",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "C23",
+          "row": 23,
+          "col": 3,
+          "column": "C",
+          "value": null,
+          "text": "",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F23",
+          "row": 23,
+          "col": 6,
+          "column": "F",
+          "value": "M 3*10 Countersunk Screws",
+          "text": "M 3*10 Countersunk Screws",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "left",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "I23",
+          "row": 23,
+          "col": 9,
+          "column": "I",
+          "value": "Prepared by",
+          "text": "Prepared by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "J23",
+          "row": 23,
+          "col": 10,
+          "column": "J",
+          "value": "Lu Tongtong",
+          "text": "Lu Tongtong",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 3
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "M23",
+          "row": 23,
+          "col": 13,
+          "column": "M",
+          "value": "Reviewed by",
+          "text": "Reviewed by",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "N23",
+          "row": 23,
+          "col": 14,
+          "column": "N",
+          "value": "Huang Xiaowei",
+          "text": "Huang Xiaowei",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

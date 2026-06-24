@@ -1,0 +1,37 @@
+{
+  "id": "ias-3120",
+  "name": "IAS-3120",
+  "title": "IAS-3120 产品维护说明",
+  "category": "产品维护手册",
+  "status": "框架已建立，具体内容待迁移",
+  "updatedAt": "2026-06-22",
+  "sourceWorkbook": "Attachment 1-IAS-3120 Maintenance SOP.xlsx",
+  "description": "本页面是 IAS-3120 售后说明网页版本的内容框架。当前根据 Excel 工作表建立导航和占位条目，后续会把故障排查、SOP 步骤、图片和备件信息迁移为 JSON / Markdown / 图片资源。",
+  "sourceSheets": [
+    { "name": "Table of Contents", "rows": 5, "columns": 1 },
+    { "name": "Troubleshooting Steps", "rows": 9, "columns": 1 },
+    { "name": "Common Troubleshooting and Main", "rows": 47, "columns": 7 },
+    { "name": "IAS-3120 Spectrum Analyzer Disassembly", "rows": 23, "columns": 14 },
+    { "name": "Replace Button Switches", "rows": 51, "columns": 2 },
+    { "name": "Replace Peripheral Boards", "rows": 43, "columns": 4 },
+    { "name": "Replace ARM Boards", "rows": 30, "columns": 4 },
+    { "name": "Replace Screen", "rows": 58, "columns": 4 }
+  ],
+  "sops": [
+    { "id": "spectrum-analyzer-disassembly", "order": 10, "title": "Spectrum Analyzer Disassembly", "status": "待迁移" },
+    { "id": "replace-button-switches", "order": 20, "title": "Replace Button Switches", "status": "待迁移" },
+    { "id": "replace-peripheral-boards", "order": 30, "title": "Replace Peripheral Boards", "status": "待迁移" },
+    { "id": "replace-arm-boards", "order": 40, "title": "Replace ARM Boards", "status": "待迁移" },
+    { "id": "replace-screen", "order": 50, "title": "Replace Screen", "status": "待迁移" },
+    { "id": "replace-light-source-board", "order": 60, "title": "Replace Light Source Board", "status": "待迁移" },
+    { "id": "replace-40-pin-gray-ribbon-cable", "order": 70, "title": "Replace 40-pin Gray Ribbon Cable", "status": "待迁移" },
+    { "id": "replace-control-main-board", "order": 80, "title": "Replace Control Main Board", "status": "待迁移" },
+    { "id": "replace-spectrum-analyzer-485-cable", "order": 90, "title": "Replace Spectrum Analyzer 485 Cable", "status": "待迁移" },
+    { "id": "replace-spectrum-analyzer-circuit-board", "order": 100, "title": "Replace Spectrum Analyzer Circuit Board", "status": "待迁移" },
+    { "id": "replace-light-source", "order": 110, "title": "Replace Light Source", "status": "待迁移" },
+    { "id": "replace-motor", "order": 120, "title": "Replace Motor", "status": "待迁移" },
+    { "id": "replace-xhb-fc20-usb", "order": 130, "title": "Replace XHB, FC-20, and USB", "status": "待迁移" },
+    { "id": "replace-sensor", "order": 140, "title": "Replace Sensor", "status": "待迁移" },
+    { "id": "replace-optical-fiber", "order": 150, "title": "Replace Optical Fiber", "status": "待迁移" }
+  ]
+}

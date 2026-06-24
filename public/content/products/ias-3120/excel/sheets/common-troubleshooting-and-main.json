@@ -1,0 +1,6568 @@
+{
+  "title": "Common Troubleshooting and Main",
+  "slug": "common-troubleshooting-and-main",
+  "dimensions": {
+    "maxRow": 47,
+    "maxColumn": 7,
+    "rowHeights": {
+      "1": 23.0,
+      "2": 15.5,
+      "3": 15.5,
+      "4": 15.5,
+      "5": 15.5,
+      "6": 15.5,
+      "7": 15.5,
+      "8": 15.5,
+      "9": 15.5,
+      "10": 15.5,
+      "11": 15.5,
+      "12": 15.5,
+      "13": 15.5,
+      "14": 15.5,
+      "15": 15.5,
+      "16": 15.5,
+      "17": 15.5,
+      "18": 15.5,
+      "19": 15.5,
+      "20": 15.5,
+      "21": 15.5,
+      "22": 15.5,
+      "23": 15.5,
+      "24": 15.5,
+      "25": 15.5,
+      "26": 15.5,
+      "27": 15.5,
+      "28": 15.5,
+      "29": 15.5,
+      "30": 15.5,
+      "31": 15.5,
+      "32": 15.5,
+      "33": 15.5,
+      "34": 15.5,
+      "35": 15.5,
+      "36": 15.5,
+      "37": 15.5,
+      "38": 15.5,
+      "39": 15.5,
+      "40": 15.5,
+      "41": 15.5,
+      "42": 15.5,
+      "43": 15.5,
+      "44": 15.5,
+      "45": 15.5,
+      "46": 15.5,
+      "47": 18.0
+    },
+    "columnWidths": {
+      "A": 35.453125,
+      "B": 32.36328125,
+      "C": 77.6328125,
+      "D": 32.36328125,
+      "E": 27.0,
+      "F": 34.1796875,
+      "G": 28.453125
+    }
+  },
+  "mergedCells": [
+    "D20:E20",
+    "D10:E10",
+    "A8:A10",
+    "D19:E19",
+    "D34:E34",
+    "A45:A46",
+    "A19:A26",
+    "D46:E46",
+    "D22:E22",
+    "D36:E36",
+    "D31:E31",
+    "D45:E45",
+    "D21:E21",
+    "D6:E6",
+    "D2:E2",
+    "D44:E44",
+    "D11:E11",
+    "D13:E13",
+    "D27:E27",
+    "D32:E32",
+    "D41:E41",
+    "D17:E17",
+    "A27:A32",
+    "A39:A41",
+    "D47:E47",
+    "D16:E16",
+    "A1:G1",
+    "D7:E7",
+    "D37:E37",
+    "D28:E28",
+    "D4:E4",
+    "D18:E18",
+    "A33:A38",
+    "D9:E9",
+    "D3:E3",
+    "D12:E12",
+    "D39:E39",
+    "D25:E25",
+    "D8:E8",
+    "A13:A18",
+    "D42:E42",
+    "D30:E30",
+    "D24:E24",
+    "D33:E33",
+    "D15:E15",
+    "D29:E29",
+    "D5:E5",
+    "D23:E23",
+    "D38:E38",
+    "D14:E14",
+    "A3:A7",
+    "D26:E26",
+    "A42:A44",
+    "A11:A12",
+    "D35:E35"
+  ],
+  "images": [],
+  "rows": [
+    {
+      "index": 1,
+      "cells": [
+        {
+          "address": "A1",
+          "row": 1,
+          "col": 1,
+          "column": "A",
+          "value": "IAS-3120 Common Troubleshooting and Maintenance Manual",
+          "text": "IAS-3120 Common Troubleshooting and Maintenance Manual",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 7
+          },
+          "style": {
+            "font": {
+              "size": 18.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        },
+        {
+          "covered": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "cells": [
+        {
+          "address": "A2",
+          "row": 2,
+          "col": 1,
+          "column": "A",
+          "value": "Fault Category",
+          "text": "Fault Category",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B2",
+          "row": 2,
+          "col": 2,
+          "column": "B",
+          "value": "Possible Cause",
+          "text": "Possible Cause",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C2",
+          "row": 2,
+          "col": 3,
+          "column": "C",
+          "value": "Inspection Measures",
+          "text": "Inspection Measures",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D2",
+          "row": 2,
+          "col": 4,
+          "column": "D",
+          "value": "Maintenance Measures ",
+          "text": "Maintenance Measures ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F2",
+          "row": 2,
+          "col": 6,
+          "column": "F",
+          "value": "Tools ",
+          "text": "Tools ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G2",
+          "row": 2,
+          "col": 7,
+          "column": "G",
+          "value": "Spare Parts",
+          "text": "Spare Parts",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "cells": [
+        {
+          "address": "A3",
+          "row": 3,
+          "col": 1,
+          "column": "A",
+          "value": "No Power On",
+          "text": "No Power On",
+          "merge": {
+            "rowspan": 5,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B3",
+          "row": 3,
+          "col": 2,
+          "column": "B",
+          "value": "Device not powered",
+          "text": "Device not powered",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C3",
+          "row": 3,
+          "col": 3,
+          "column": "C",
+          "value": "Check if the power outlet has electricity and if the adapter outputs 24V",
+          "text": "Check if the power outlet has electricity and if the adapter outputs 24V",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D3",
+          "row": 3,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the adapter",
+          "text": "Replace the adapter",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F3",
+          "row": 3,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter",
+          "text": "Multimeter",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G3",
+          "row": 3,
+          "col": 7,
+          "column": "G",
+          "value": "Adapter",
+          "text": "Adapter",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B4",
+          "row": 4,
+          "col": 2,
+          "column": "B",
+          "value": "Damaged or loose 40-pin gray ribbon cable",
+          "text": "Damaged or loose 40-pin gray ribbon cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C4",
+          "row": 4,
+          "col": 3,
+          "column": "C",
+          "value": "Check for damage or poor connection of the 40-pin cable",
+          "text": "Check for damage or poor connection of the 40-pin cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D4",
+          "row": 4,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the 40-pin gray ribbon cable",
+          "text": "Replace the 40-pin gray ribbon cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F4",
+          "row": 4,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver",
+          "text": "Multimeter, Screwdriver",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G4",
+          "row": 4,
+          "col": 7,
+          "column": "G",
+          "value": "40-pin Ribbon Cable",
+          "text": "40-pin Ribbon Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B5",
+          "row": 5,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty switch",
+          "text": "Faulty switch",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C5",
+          "row": 5,
+          "col": 3,
+          "column": "C",
+          "value": "Measure the Button Switch with a multimeter for continuity. Replace if not conducting.",
+          "text": "Measure the Button Switch with a multimeter for continuity. Replace if not conducting.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D5",
+          "row": 5,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the Button switch",
+          "text": "Replace the Button switch",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F5",
+          "row": 5,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver, Scissors",
+          "text": "Multimeter, Screwdriver, Scissors",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G5",
+          "row": 5,
+          "col": 7,
+          "column": "G",
+          "value": "Rocker Switch",
+          "text": "Rocker Switch",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B6",
+          "row": 6,
+          "col": 2,
+          "column": "B",
+          "value": "Peripheral board malfunction",
+          "text": "Peripheral board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C6",
+          "row": 6,
+          "col": 3,
+          "column": "C",
+          "value": "Check if the peripheral board LED lights up after powering on. Replace if not.",
+          "text": "Check if the peripheral board LED lights up after powering on. Replace if not.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D6",
+          "row": 6,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the peripheral board",
+          "text": "Replace the peripheral board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F6",
+          "row": 6,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G6",
+          "row": 6,
+          "col": 7,
+          "column": "G",
+          "value": "Peripheral Board ",
+          "text": "Peripheral Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B7",
+          "row": 7,
+          "col": 2,
+          "column": "B",
+          "value": "ARM board fault",
+          "text": "ARM board fault",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C7",
+          "row": 7,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the ARM board",
+          "text": "Replace the ARM board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D7",
+          "row": 7,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the ARM board and manually input coefficients",
+          "text": "Replace the ARM board and manually input coefficients",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F7",
+          "row": 7,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G7",
+          "row": 7,
+          "col": 7,
+          "column": "G",
+          "value": "ARM Board with Program",
+          "text": "ARM Board with Program",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "cells": [
+        {
+          "address": "A8",
+          "row": 8,
+          "col": 1,
+          "column": "A",
+          "value": " Black Screen on Startup",
+          "text": " Black Screen on Startup",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B8",
+          "row": 8,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty switch contact",
+          "text": "Faulty switch contact",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C8",
+          "row": 8,
+          "col": 3,
+          "column": "C",
+          "value": "Measure the button switch with a multimeter for continuity. Replace if not conducting.",
+          "text": "Measure the button switch with a multimeter for continuity. Replace if not conducting.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D8",
+          "row": 8,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the button switch",
+          "text": "Replace the button switch",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F8",
+          "row": 8,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver, Scissors",
+          "text": "Multimeter, Screwdriver, Scissors",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G8",
+          "row": 8,
+          "col": 7,
+          "column": "G",
+          "value": "Rocker Switch",
+          "text": "Rocker Switch",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B9",
+          "row": 9,
+          "col": 2,
+          "column": "B",
+          "value": "Main control board malfunction",
+          "text": "Main control board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C9",
+          "row": 9,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the main control board",
+          "text": "Replace the main control board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D9",
+          "row": 9,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the main control board",
+          "text": "Replace the main control board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F9",
+          "row": 9,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G9",
+          "row": 9,
+          "col": 7,
+          "column": "G",
+          "value": "Main Control Board",
+          "text": "Main Control Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B10",
+          "row": 10,
+          "col": 2,
+          "column": "B",
+          "value": "Screen malfunction",
+          "text": "Screen malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C10",
+          "row": 10,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the screen",
+          "text": "Replace the screen",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D10",
+          "row": 10,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the screen",
+          "text": "Replace the screen",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F10",
+          "row": 10,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G10",
+          "row": 10,
+          "col": 7,
+          "column": "G",
+          "value": "Screen",
+          "text": "Screen",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "cells": [
+        {
+          "address": "A11",
+          "row": 11,
+          "col": 1,
+          "column": "A",
+          "value": "Stuck on Penguin Interface During Boot",
+          "text": "Stuck on Penguin Interface During Boot",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B11",
+          "row": 11,
+          "col": 2,
+          "column": "B",
+          "value": "Main control board malfunction",
+          "text": "Main control board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C11",
+          "row": 11,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the main control board",
+          "text": "Replace the main control board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D11",
+          "row": 11,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the main control board",
+          "text": "Replace the main control board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F11",
+          "row": 11,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G11",
+          "row": 11,
+          "col": 7,
+          "column": "G",
+          "value": "Main Control Board",
+          "text": "Main Control Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B12",
+          "row": 12,
+          "col": 2,
+          "column": "B",
+          "value": "ARM board malfunction",
+          "text": "ARM board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C12",
+          "row": 12,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the ARM board and manually input coefficients",
+          "text": "Replace the ARM board and manually input coefficients",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D12",
+          "row": 12,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the ARM board and manually input coefficients",
+          "text": "Replace the ARM board and manually input coefficients",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F12",
+          "row": 12,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G12",
+          "row": 12,
+          "col": 7,
+          "column": "G",
+          "value": "ARM Board with Program",
+          "text": "ARM Board with Program",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "cells": [
+        {
+          "address": "A13",
+          "row": 13,
+          "col": 1,
+          "column": "A",
+          "value": "Abnormal Status (Code: 100)",
+          "text": "Abnormal Status (Code: 100)",
+          "merge": {
+            "rowspan": 6,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B13",
+          "row": 13,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty or loose XHB cable",
+          "text": "Faulty or loose XHB cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C13",
+          "row": 13,
+          "col": 3,
+          "column": "C",
+          "value": "Reconnect the XHB cable, apply adhesive, or replace it",
+          "text": "Reconnect the XHB cable, apply adhesive, or replace it",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D13",
+          "row": 13,
+          "col": 4,
+          "column": "D",
+          "value": "Reconnect the XHB cable, apply adhesive, or replace it",
+          "text": "Reconnect the XHB cable, apply adhesive, or replace it",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F13",
+          "row": 13,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors",
+          "text": "Screwdriver, Scissors",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G13",
+          "row": 13,
+          "col": 7,
+          "column": "G",
+          "value": "XHB Cable",
+          "text": "XHB Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B14",
+          "row": 14,
+          "col": 2,
+          "column": "B",
+          "value": "Damaged or loose 40-pin gray ribbon cable",
+          "text": "Damaged or loose 40-pin gray ribbon cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C14",
+          "row": 14,
+          "col": 3,
+          "column": "C",
+          "value": "Check for damage or poor connection of the 40-pin cable",
+          "text": "Check for damage or poor connection of the 40-pin cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D14",
+          "row": 14,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the 40-pin gray ribbon cable",
+          "text": "Replace the 40-pin gray ribbon cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F14",
+          "row": 14,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver",
+          "text": "Multimeter, Screwdriver",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G14",
+          "row": 14,
+          "col": 7,
+          "column": "G",
+          "value": "40-pin Ribbon Cable",
+          "text": "40-pin Ribbon Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B15",
+          "row": 15,
+          "col": 2,
+          "column": "B",
+          "value": "Loose analyzer 485 interface",
+          "text": "Loose analyzer 485 interface",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C15",
+          "row": 15,
+          "col": 3,
+          "column": "C",
+          "value": "Visually inspect the 485 communication cable for looseness",
+          "text": "Visually inspect the 485 communication cable for looseness",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D15",
+          "row": 15,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the 485 communication cable",
+          "text": "Replace the 485 communication cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F15",
+          "row": 15,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G15",
+          "row": 15,
+          "col": 7,
+          "column": "G",
+          "value": "485 Communication Cable",
+          "text": "485 Communication Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B16",
+          "row": 16,
+          "col": 2,
+          "column": "B",
+          "value": "Loose analyzer mainboard interface",
+          "text": "Loose analyzer mainboard interface",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C16",
+          "row": 16,
+          "col": 3,
+          "column": "C",
+          "value": "Visually inspect the analyzer USB interface for looseness or soldering issues. If such issues are found, replace the analyze mainboard.",
+          "text": "Visually inspect the analyzer USB interface for looseness or soldering issues. If such issues are found, replace the analyze mainboard.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D16",
+          "row": 16,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the analyzer mainboard",
+          "text": "Replace the analyzer mainboard",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F16",
+          "row": 16,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G16",
+          "row": 16,
+          "col": 7,
+          "column": "G",
+          "value": "Analyzer Mainboard",
+          "text": "Analyzer Mainboard",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B17",
+          "row": 17,
+          "col": 2,
+          "column": "B",
+          "value": "Damaged or loose USB cable",
+          "text": "Damaged or loose USB cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C17",
+          "row": 17,
+          "col": 3,
+          "column": "C",
+          "value": "Reconnect the USB cable. If the issue persists, replace the USB cable.",
+          "text": "Reconnect the USB cable. If the issue persists, replace the USB cable.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "address": "D17",
+          "row": 17,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the USB Cable",
+          "text": "Replace the USB Cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            }
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F17",
+          "row": 17,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G17",
+          "row": 17,
+          "col": 7,
+          "column": "G",
+          "value": "USB Cable",
+          "text": "USB Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B18",
+          "row": 18,
+          "col": 2,
+          "column": "B",
+          "value": "Malfunctioning USB interface on the peripheral board",
+          "text": "Malfunctioning USB interface on the peripheral board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C18",
+          "row": 18,
+          "col": 3,
+          "column": "C",
+          "value": "Insert a USB drive and check if the USB icon appears. If it does not, replace the peripheral board.",
+          "text": "Insert a USB drive and check if the USB icon appears. If it does not, replace the peripheral board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D18",
+          "row": 18,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the peripheral board",
+          "text": "Replace the peripheral board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F18",
+          "row": 18,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G18",
+          "row": 18,
+          "col": 7,
+          "column": "G",
+          "value": "Peripheral Board ",
+          "text": "Peripheral Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "cells": [
+        {
+          "address": "A19",
+          "row": 19,
+          "col": 1,
+          "column": "A",
+          "value": "Collection Error (Codes: 101, 102, 103, 104)",
+          "text": "Collection Error (Codes: 101, 102, 103, 104)",
+          "merge": {
+            "rowspan": 8,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B19",
+          "row": 19,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty lamp",
+          "text": "Faulty lamp",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C19",
+          "row": 19,
+          "col": 3,
+          "column": "C",
+          "value": "Observe whether the lamp illuminates normally during startup. If it does not, replace the lamp.",
+          "text": "Observe whether the lamp illuminates normally during startup. If it does not, replace the lamp.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D19",
+          "row": 19,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp ",
+          "text": "Replace the lamp ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F19",
+          "row": 19,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G19",
+          "row": 19,
+          "col": 7,
+          "column": "G",
+          "value": " Lamp",
+          "text": " Lamp",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B20",
+          "row": 20,
+          "col": 2,
+          "column": "B",
+          "value": "Damaged or loose 40-pin gray ribbon cable",
+          "text": "Damaged or loose 40-pin gray ribbon cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C20",
+          "row": 20,
+          "col": 3,
+          "column": "C",
+          "value": "Check for damage or poor connection of the 40-pin cable",
+          "text": "Check for damage or poor connection of the 40-pin cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D20",
+          "row": 20,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the 40-pin gray ribbon cable",
+          "text": "Replace the 40-pin gray ribbon cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F20",
+          "row": 20,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver",
+          "text": "Multimeter, Screwdriver",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G20",
+          "row": 20,
+          "col": 7,
+          "column": "G",
+          "value": "40-pin Ribbon Cable",
+          "text": "40-pin Ribbon Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B21",
+          "row": 21,
+          "col": 2,
+          "column": "B",
+          "value": "Lamp board malfunction",
+          "text": "Lamp board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C21",
+          "row": 21,
+          "col": 3,
+          "column": "C",
+          "value": "Use a multimeter to measure the output voltage (should be ~11V). If not, replace the lamp board.",
+          "text": "Use a multimeter to measure the output voltage (should be ~11V). If not, replace the lamp board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D21",
+          "row": 21,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp board",
+          "text": "Replace the lamp board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F21",
+          "row": 21,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver, Scissors, Utility Knife",
+          "text": "Multimeter, Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G21",
+          "row": 21,
+          "col": 7,
+          "column": "G",
+          "value": "Lamp Board",
+          "text": "Lamp Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B22",
+          "row": 22,
+          "col": 2,
+          "column": "B",
+          "value": "Peripheral board malfunction",
+          "text": "Peripheral board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C22",
+          "row": 22,
+          "col": 3,
+          "column": "C",
+          "value": "During startup, manually rotate the rotary disc and check for torque. If none, replace the peripheral board.",
+          "text": "During startup, manually rotate the rotary disc and check for torque. If none, replace the peripheral board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D22",
+          "row": 22,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the peripheral board",
+          "text": "Replace the peripheral board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F22",
+          "row": 22,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G22",
+          "row": 22,
+          "col": 7,
+          "column": "G",
+          "value": "Peripheral Board ",
+          "text": "Peripheral Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B23",
+          "row": 23,
+          "col": 2,
+          "column": "B",
+          "value": "Analyzer PD board balfunction",
+          "text": "Analyzer PD board balfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C23",
+          "row": 23,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the PD board",
+          "text": "Replace the PD board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D23",
+          "row": 23,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the PD board",
+          "text": "Replace the PD board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F23",
+          "row": 23,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G23",
+          "row": 23,
+          "col": 7,
+          "column": "G",
+          "value": "PD Board ",
+          "text": "PD Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B24",
+          "row": 24,
+          "col": 2,
+          "column": "B",
+          "value": "Analyzer mainboard malfunction",
+          "text": "Analyzer mainboard malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C24",
+          "row": 24,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the analyzer mainboard",
+          "text": "Replace the analyzer mainboard",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D24",
+          "row": 24,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the analyzer mainboard",
+          "text": "Replace the analyzer mainboard",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F24",
+          "row": 24,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G24",
+          "row": 24,
+          "col": 7,
+          "column": "G",
+          "value": "Analyzer Mainboard",
+          "text": "Analyzer Mainboard",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B25",
+          "row": 25,
+          "col": 2,
+          "column": "B",
+          "value": "Analyzer DMD board malfunction",
+          "text": "Analyzer DMD board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C25",
+          "row": 25,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the DMD board",
+          "text": "Replace the DMD board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D25",
+          "row": 25,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the DMD board",
+          "text": "Replace the DMD board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F25",
+          "row": 25,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G25",
+          "row": 25,
+          "col": 7,
+          "column": "G",
+          "value": "Analyzer DMD Board",
+          "text": "Analyzer DMD Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B26",
+          "row": 26,
+          "col": 2,
+          "column": "B",
+          "value": "ARM board malfunction",
+          "text": "ARM board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C26",
+          "row": 26,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the ARM board and manually input coefficients",
+          "text": "Replace the ARM board and manually input coefficients",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D26",
+          "row": 26,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the ARM board and manually input coefficients",
+          "text": "Replace the ARM board and manually input coefficients",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F26",
+          "row": 26,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G26",
+          "row": 26,
+          "col": 7,
+          "column": "G",
+          "value": "ARM Board with Program",
+          "text": "ARM Board with Program",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "cells": [
+        {
+          "address": "A27",
+          "row": 27,
+          "col": 1,
+          "column": "A",
+          "value": "Motor Operation Abnormal (Codes: 140, 141, 142, 143)",
+          "text": "Motor Operation Abnormal (Codes: 140, 141, 142, 143)",
+          "merge": {
+            "rowspan": 6,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B27",
+          "row": 27,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty sensor",
+          "text": "Faulty sensor",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C27",
+          "row": 27,
+          "col": 3,
+          "column": "C",
+          "value": " Block strong light and check if the fault clears. If not, replace the sensor.",
+          "text": " Block strong light and check if the fault clears. If not, replace the sensor.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D27",
+          "row": 27,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the sensor",
+          "text": "Replace the sensor",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F27",
+          "row": 27,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G27",
+          "row": 27,
+          "col": 7,
+          "column": "G",
+          "value": "Sensor",
+          "text": "Sensor",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B28",
+          "row": 28,
+          "col": 2,
+          "column": "B",
+          "value": "Damaged or loose 40-pin gray ribbon cable",
+          "text": "Damaged or loose 40-pin gray ribbon cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C28",
+          "row": 28,
+          "col": 3,
+          "column": "C",
+          "value": "Check for damage or poor connection of the 40-pin cable",
+          "text": "Check for damage or poor connection of the 40-pin cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D28",
+          "row": 28,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the 40-pin gray ribbon cable",
+          "text": "Replace the 40-pin gray ribbon cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F28",
+          "row": 28,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver",
+          "text": "Multimeter, Screwdriver",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G28",
+          "row": 28,
+          "col": 7,
+          "column": "G",
+          "value": "40-pin Ribbon Cable",
+          "text": "40-pin Ribbon Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B29",
+          "row": 29,
+          "col": 2,
+          "column": "B",
+          "value": "Loose or jammed rotary disc",
+          "text": "Loose or jammed rotary disc",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C29",
+          "row": 29,
+          "col": 3,
+          "column": "C",
+          "value": "Reassemble or replace the rotary disc",
+          "text": "Reassemble or replace the rotary disc",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D29",
+          "row": 29,
+          "col": 4,
+          "column": "D",
+          "value": "Reassemble or replace the rotary disc",
+          "text": "Reassemble or replace the rotary disc",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F29",
+          "row": 29,
+          "col": 6,
+          "column": "F",
+          "value": "Screws",
+          "text": "Screws",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G29",
+          "row": 29,
+          "col": 7,
+          "column": "G",
+          "value": "Rotary Disc",
+          "text": "Rotary Disc",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B30",
+          "row": 30,
+          "col": 2,
+          "column": "B",
+          "value": "Peripheral board malfunction",
+          "text": "Peripheral board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C30",
+          "row": 30,
+          "col": 3,
+          "column": "C",
+          "value": "During startup, manually rotate the rotary disc and check for torque. If none, replace the peripheral board.",
+          "text": "During startup, manually rotate the rotary disc and check for torque. If none, replace the peripheral board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D30",
+          "row": 30,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the peripheral board",
+          "text": "Replace the peripheral board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F30",
+          "row": 30,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G30",
+          "row": 30,
+          "col": 7,
+          "column": "G",
+          "value": "Peripheral Board ",
+          "text": "Peripheral Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B31",
+          "row": 31,
+          "col": 2,
+          "column": "B",
+          "value": "Motor board malfunction",
+          "text": "Motor board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C31",
+          "row": 31,
+          "col": 3,
+          "column": "C",
+          "value": "During startup, manually rotate the rotary disc and check for torque. If none, replace the motor board.",
+          "text": "During startup, manually rotate the rotary disc and check for torque. If none, replace the motor board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D31",
+          "row": 31,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the motor board",
+          "text": "Replace the motor board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F31",
+          "row": 31,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G31",
+          "row": 31,
+          "col": 7,
+          "column": "G",
+          "value": "Motor Board",
+          "text": "Motor Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B32",
+          "row": 32,
+          "col": 2,
+          "column": "B",
+          "value": "Motor malfunction",
+          "text": "Motor malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C32",
+          "row": 32,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the Motor",
+          "text": "Replace the Motor",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D32",
+          "row": 32,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the motor",
+          "text": "Replace the motor",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F32",
+          "row": 32,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G32",
+          "row": 32,
+          "col": 7,
+          "column": "G",
+          "value": "Motor",
+          "text": "Motor",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "cells": [
+        {
+          "address": "A33",
+          "row": 33,
+          "col": 1,
+          "column": "A",
+          "value": "Self-check Energy Failure",
+          "text": "Self-check Energy Failure",
+          "merge": {
+            "rowspan": 6,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B33",
+          "row": 33,
+          "col": 2,
+          "column": "B",
+          "value": "Lamp not functioning",
+          "text": "Lamp not functioning",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C33",
+          "row": 33,
+          "col": 3,
+          "column": "C",
+          "value": "Observe whether the lamp illuminates normally during startup. If it does not, replace the lamp.",
+          "text": "Observe whether the lamp illuminates normally during startup. If it does not, replace the lamp.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D33",
+          "row": 33,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp ",
+          "text": "Replace the lamp ",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F33",
+          "row": 33,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G33",
+          "row": 33,
+          "col": 7,
+          "column": "G",
+          "value": " Lamp",
+          "text": " Lamp",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B34",
+          "row": 34,
+          "col": 2,
+          "column": "B",
+          "value": "Lamp board malfunction",
+          "text": "Lamp board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C34",
+          "row": 34,
+          "col": 3,
+          "column": "C",
+          "value": "Use a multimeter to measure the output voltage (should be ~11V). If not, replace the lamp board.",
+          "text": "Use a multimeter to measure the output voltage (should be ~11V). If not, replace the lamp board.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D34",
+          "row": 34,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp board",
+          "text": "Replace the lamp board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F34",
+          "row": 34,
+          "col": 6,
+          "column": "F",
+          "value": "Multimeter, Screwdriver, Scissors, Utility Knife",
+          "text": "Multimeter, Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G34",
+          "row": 34,
+          "col": 7,
+          "column": "G",
+          "value": "Lamp Board",
+          "text": "Lamp Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B35",
+          "row": 35,
+          "col": 2,
+          "column": "B",
+          "value": "DMD board damaged",
+          "text": "DMD board damaged",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C35",
+          "row": 35,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the DMD board",
+          "text": "Replace the DMD board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D35",
+          "row": 35,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the DMD board",
+          "text": "Replace the DMD board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F35",
+          "row": 35,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G35",
+          "row": 35,
+          "col": 7,
+          "column": "G",
+          "value": "DMD Board",
+          "text": "DMD Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B36",
+          "row": 36,
+          "col": 2,
+          "column": "B",
+          "value": "PD board damaged",
+          "text": "PD board damaged",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C36",
+          "row": 36,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the PD board",
+          "text": "Replace the PD board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D36",
+          "row": 36,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the PD board",
+          "text": "Replace the PD board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F36",
+          "row": 36,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G36",
+          "row": 36,
+          "col": 7,
+          "column": "G",
+          "value": "PD Board ",
+          "text": "PD Board ",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B37",
+          "row": 37,
+          "col": 2,
+          "column": "B",
+          "value": "Analyzer core board malfunction",
+          "text": "Analyzer core board malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C37",
+          "row": 37,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the analyzer core board",
+          "text": "Replace the analyzer core board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D37",
+          "row": 37,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the analyzer core board",
+          "text": "Replace the analyzer core board",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F37",
+          "row": 37,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G37",
+          "row": 37,
+          "col": 7,
+          "column": "G",
+          "value": " Analyzer Core Board",
+          "text": " Analyzer Core Board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B38",
+          "row": 38,
+          "col": 2,
+          "column": "B",
+          "value": "Optical fiber damaged",
+          "text": "Optical fiber damaged",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C38",
+          "row": 38,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the optical fiber",
+          "text": "Replace the optical fiber",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D38",
+          "row": 38,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the optical fiber",
+          "text": "Replace the optical fiber",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F38",
+          "row": 38,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G38",
+          "row": 38,
+          "col": 7,
+          "column": "G",
+          "value": "Fiber Optic",
+          "text": "Fiber Optic",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "cells": [
+        {
+          "address": "A39",
+          "row": 39,
+          "col": 1,
+          "column": "A",
+          "value": "Baseline Noise Failure During Self-Check",
+          "text": "Baseline Noise Failure During Self-Check",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B39",
+          "row": 39,
+          "col": 2,
+          "column": "B",
+          "value": "Insufficient warm-up",
+          "text": "Insufficient warm-up",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C39",
+          "row": 39,
+          "col": 3,
+          "column": "C",
+          "value": "Perform self-check after a 15-minute warm-up.",
+          "text": "Perform self-check after a 15-minute warm-up.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D39",
+          "row": 39,
+          "col": 4,
+          "column": "D",
+          "value": "Perform self-check after a 15-minute warm-up.",
+          "text": "Perform self-check after a 15-minute warm-up.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F39",
+          "row": 39,
+          "col": 6,
+          "column": "F",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G39",
+          "row": 39,
+          "col": 7,
+          "column": "G",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B40",
+          "row": 40,
+          "col": 2,
+          "column": "B",
+          "value": "Unstable lamp",
+          "text": "Unstable lamp",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C40",
+          "row": 40,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the lamp or peripheral board",
+          "text": "Replace the lamp or peripheral board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D40",
+          "row": 40,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp",
+          "text": "Replace the lamp",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "E40",
+          "row": 40,
+          "col": 5,
+          "column": "E",
+          "value": " or peripheral board",
+          "text": " or peripheral board",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "F40",
+          "row": 40,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G40",
+          "row": 40,
+          "col": 7,
+          "column": "G",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B41",
+          "row": 41,
+          "col": 2,
+          "column": "B",
+          "value": "Spectrometer malfunction",
+          "text": "Spectrometer malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C41",
+          "row": 41,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the spectrum analyzer",
+          "text": "Replace the spectrum analyzer",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D41",
+          "row": 41,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the spectrum analyzer",
+          "text": "Replace the spectrum analyzer",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F41",
+          "row": 41,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G41",
+          "row": 41,
+          "col": 7,
+          "column": "G",
+          "value": "Spectrum Analyzer",
+          "text": "Spectrum Analyzer",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "cells": [
+        {
+          "address": "A42",
+          "row": 42,
+          "col": 1,
+          "column": "A",
+          "value": "Baseline Repeatability Failure During Self-Check",
+          "text": "Baseline Repeatability Failure During Self-Check",
+          "merge": {
+            "rowspan": 3,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B42",
+          "row": 42,
+          "col": 2,
+          "column": "B",
+          "value": "Insufficient warm-up",
+          "text": "Insufficient warm-up",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C42",
+          "row": 42,
+          "col": 3,
+          "column": "C",
+          "value": "Perform self-check after a 15-minute warm-up.",
+          "text": "Perform self-check after a 15-minute warm-up.",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D42",
+          "row": 42,
+          "col": 4,
+          "column": "D",
+          "value": "Perform self-check after a 15-minute warm-up.",
+          "text": "Perform self-check after a 15-minute warm-up.",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F42",
+          "row": 42,
+          "col": 6,
+          "column": "F",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G42",
+          "row": 42,
+          "col": 7,
+          "column": "G",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B43",
+          "row": 43,
+          "col": 2,
+          "column": "B",
+          "value": "Unstable lamp",
+          "text": "Unstable lamp",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C43",
+          "row": 43,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the lamp or peripheral board",
+          "text": "Replace the lamp or peripheral board",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D43",
+          "row": 43,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the lamp",
+          "text": "Replace the lamp",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "E43",
+          "row": 43,
+          "col": 5,
+          "column": "E",
+          "value": " or peripheral board",
+          "text": " or peripheral board",
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "F43",
+          "row": 43,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G43",
+          "row": 43,
+          "col": 7,
+          "column": "G",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B44",
+          "row": 44,
+          "col": 2,
+          "column": "B",
+          "value": "Spectrometer malfunction",
+          "text": "Spectrometer malfunction",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C44",
+          "row": 44,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the spectrum analyzer",
+          "text": "Replace the spectrum analyzer",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D44",
+          "row": 44,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the spectrum analyzer",
+          "text": "Replace the spectrum analyzer",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F44",
+          "row": 44,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G44",
+          "row": 44,
+          "col": 7,
+          "column": "G",
+          "value": "Spectrum Analyzer",
+          "text": "Spectrum Analyzer",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "cells": [
+        {
+          "address": "A45",
+          "row": 45,
+          "col": 1,
+          "column": "A",
+          "value": "Battery Icon Not Displayed",
+          "text": "Battery Icon Not Displayed",
+          "merge": {
+            "rowspan": 2,
+            "colspan": 1
+          },
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B45",
+          "row": 45,
+          "col": 2,
+          "column": "B",
+          "value": "Battery card pin not properly inserted",
+          "text": "Battery card pin not properly inserted",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C45",
+          "row": 45,
+          "col": 3,
+          "column": "C",
+          "value": "Reinsert the battery card pin",
+          "text": "Reinsert the battery card pin",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D45",
+          "row": 45,
+          "col": 4,
+          "column": "D",
+          "value": "Reinsert the battery card pin",
+          "text": "Reinsert the battery card pin",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F45",
+          "row": 45,
+          "col": 6,
+          "column": "F",
+          "value": "Non-metal tweezers",
+          "text": "Non-metal tweezers",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G45",
+          "row": 45,
+          "col": 7,
+          "column": "G",
+          "value": "None",
+          "text": "None",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "cells": [
+        {
+          "covered": true
+        },
+        {
+          "address": "B46",
+          "row": 46,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty FC-20 dual-headed cable",
+          "text": "Faulty FC-20 dual-headed cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C46",
+          "row": 46,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the FC-20 dual-headed cable",
+          "text": "Replace the FC-20 dual-headed cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D46",
+          "row": 46,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the FC-20 dual-headed cable",
+          "text": "Replace the FC-20 dual-headed cable",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F46",
+          "row": 46,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G46",
+          "row": 46,
+          "col": 7,
+          "column": "G",
+          "value": "FC-20 Dual-headed Cable",
+          "text": "FC-20 Dual-headed Cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "cells": [
+        {
+          "address": "A47",
+          "row": 47,
+          "col": 1,
+          "column": "A",
+          "value": "Startup Displays Calibration Screen",
+          "text": "Startup Displays Calibration Screen",
+          "style": {
+            "font": {
+              "size": 14.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "B47",
+          "row": 47,
+          "col": 2,
+          "column": "B",
+          "value": "Faulty screen cable",
+          "text": "Faulty screen cable",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "C47",
+          "row": 47,
+          "col": 3,
+          "column": "C",
+          "value": "Replace the screen",
+          "text": "Replace the screen",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "D47",
+          "row": 47,
+          "col": 4,
+          "column": "D",
+          "value": "Replace the screen",
+          "text": "Replace the screen",
+          "merge": {
+            "rowspan": 1,
+            "colspan": 2
+          },
+          "hyperlink": null,
+          "style": {
+            "font": {
+              "color": "#0000FF",
+              "size": 11.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center",
+              "wrap-text": true
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "covered": true
+        },
+        {
+          "address": "F47",
+          "row": 47,
+          "col": 6,
+          "column": "F",
+          "value": "Screwdriver, Scissors, Utility Knife",
+          "text": "Screwdriver, Scissors, Utility Knife",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        },
+        {
+          "address": "G47",
+          "row": 47,
+          "col": 7,
+          "column": "G",
+          "value": "Screen",
+          "text": "Screen",
+          "style": {
+            "font": {
+              "size": 12.0
+            },
+            "alignment": {
+              "horizontal": "center",
+              "vertical": "center"
+            },
+            "borders": [
+              "left",
+              "right",
+              "top",
+              "bottom"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

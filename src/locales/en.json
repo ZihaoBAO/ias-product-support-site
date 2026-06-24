@@ -1,0 +1,84 @@
+{
+  "app": {
+    "title": "IAS Product Support Center",
+    "subtitle": "Maintenance SOP Portal",
+    "home": "Home",
+    "navLabel": "Main Navigation"
+  },
+  "home": {
+    "eyebrow": "CUSTOMER-READABLE MAINTENANCE DOCS",
+    "heroTitle": "IAS Product Support Center",
+    "docTitle": "Product Documents",
+    "docDesc": "Select a product to access troubleshooting guides, general workflows and detailed maintenance steps via the left sidebar.",
+    "searchLabel": "Search Products",
+    "searchPlaceholder": "Enter 3120, 5100 or other keywords"
+  },
+  "card": {
+    "open": "Open Maintenance Docs"
+  },
+  "products": {
+    "ias-3120": {
+      "title": "IAS-3120 Product Maintenance Guide",
+      "summary": "IAS-3120 Maintenance SOP, including troubleshooting, disassembly procedures and key component replacement catalog.",
+      "category": "Product Maintenance Manual",
+      "tags": ["Maintenance SOP", "Troubleshooting", "3120"]
+    },
+    "ias-5100": {
+      "title": "IAS-5100 Product Maintenance Guide",
+      "summary": "IAS-5100 Maintenance SOP, including troubleshooting, disassembly procedures and key component replacement catalog.",
+      "category": "Product Maintenance Manual",
+      "tags": ["Maintenance SOP", "Troubleshooting", "5100"]
+    }
+  },
+  "product": {
+    "loading": "Loading...",
+    "loadError": "Failed to Load",
+    "backHome": "← Back to Home",
+    "overview": "Overview",
+    "flow": "Troubleshooting Flow",
+    "troubleshooting": "Troubleshooting Table",
+    "sopLabel": "Maintenance SOPs",
+    "navLabel": "Document Navigation"
+  },
+  "overview": {
+    "title": "Overview",
+    "toc": "Table of Contents",
+    "quickAccess": "Quick Access",
+    "viewFlow": "View Troubleshooting Flow",
+    "viewTable": "View Troubleshooting Table",
+    "viewFirstSop": "View First SOP",
+    "sopTitle": "Maintenance SOPs",
+    "versions": "{count} versions",
+    "steps": "{count} steps",
+    "versionInfo": "{v} versions / {s} steps"
+  },
+  "flow": {},
+  "troubleshooting": {
+    "searchDesc": "Search by fault, cause, tool or spare part.",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Enter fault / tool / part",
+    "possibleCause": "Possible Cause",
+    "inspection": "Inspection",
+    "maintenance": "Maintenance",
+    "toolsParts": "Tools / Spare Parts",
+    "openRelatedSop": "Open Related SOP"
+  },
+  "sop": {
+    "desc": "Steps displayed as cards. Images are auto-matched to steps based on Excel anchors.",
+    "back": "← Back",
+    "noImage": "No image",
+    "unmatched": "Images Not Matched to Steps",
+    "annex": "Other Source Content (Reviewed)",
+    "tools": "Tools",
+    "consumables": "Consumables"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "desc": "Please return to the home page and select a product.",
+    "backHome": "Back to Home"
+  },
+  "sopData": {
+    "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>Open Related SOP</strong></a>)",
+    "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>Open Related SOP</strong></a>)"
+  }
+}
