@@ -3,6 +3,8 @@ const productCache = new Map();
 const excelSheetCache = new Map();
 const manualCache = new Map();
 
+const BASE = import.meta.env.BASE_URL;
+
 async function loadJson(url) {
   const response = await fetch(url);
   if (!response.ok) {
@@ -14,7 +16,7 @@ async function loadJson(url) {
 export function useRepository() {
   async function getProducts() {
     if (!cachedIndex) {
-      cachedIndex = await loadJson("/content/products.index.json");
+      cachedIndex = await loadJson(`${BASE}content/products.index.json`);
     }
     return cachedIndex.products;
   }
@@ -25,13 +27,13 @@ export function useRepository() {
     const [indexProducts, product, troubleshooting, parts, tools, downloads, excelManifest, migrationAudit] =
       await Promise.all([
         getProducts(),
-        loadJson(`/content/products/${productId}/product.json`),
-        loadJson(`/content/products/${productId}/troubleshooting.json`),
-        loadJson(`/content/products/${productId}/parts.json`),
-        loadJson(`/content/products/${productId}/tools.json`),
-        loadJson(`/content/products/${productId}/downloads.json`),
-        loadJson(`/content/products/${productId}/excel/manifest.json`),
-        loadJson(`/content/products/${productId}/excel/migration.audit.json`)
+        loadJson(`${BASE}content/products/${productId}/product.json`),
+        loadJson(`${BASE}content/products/${productId}/troubleshooting.json`),
+        loadJson(`${BASE}content/products/${productId}/parts.json`),
+        loadJson(`${BASE}content/products/${productId}/tools.json`),
+        loadJson(`${BASE}content/products/${productId}/downloads.json`),
+        loadJson(`${BASE}content/products/${productId}/excel/manifest.json`),
+        loadJson(`${BASE}content/products/${productId}/excel/migration.audit.json`)
       ]);
 
     const indexMeta = indexProducts.find((item) => item.id === productId);
@@ -54,7 +56,7 @@ export function useRepository() {
     if (excelSheetCache.has(cacheKey)) return excelSheetCache.get(cacheKey);
 
     const sheet = await loadJson(
-      `/content/products/${productId}/excel/sheets/${sheetSlug}.json`
+      `${BASE}content/products/${productId}/excel/sheets/${sheetSlug}.json`
     );
     excelSheetCache.set(cacheKey, sheet);
     return sheet;
@@ -64,7 +66,7 @@ export function useRepository() {
     if (manualCache.has(productId)) return manualCache.get(productId);
 
     const manual = await loadJson(
-      `/content/products/${productId}/manual/manual.json`
+      `${BASE}content/products/${productId}/manual/manual.json`
     );
     manualCache.set(productId, manual);
     return manual;

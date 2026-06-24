@@ -1,7 +1,7 @@
 <template>
   <header class="topbar">
     <a class="brand" href="#/">
-      <img class="brand-logo" src="/images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-007.png" alt="IAS Logo" />
+      <img class="brand-logo" :src="`${baseUrl}images/products/ias-3120/excel/ias-3120-spectrum-analyzer-disa/image-007.png`" alt="IAS Logo" />
       <span>
         <strong>{{ t('app.title') }}</strong>
         <small>{{ t('app.subtitle') }}</small>
@@ -43,6 +43,7 @@ import { useI18n, availableLocales } from "./composables/useI18n.js";
 const router = useRouter();
 const { t, locale, setLocale } = useI18n();
 
+const baseUrl = import.meta.env.BASE_URL;
 const open = ref(false);
 
 const currentLabel = computed(() =>
