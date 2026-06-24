@@ -93,11 +93,9 @@ main {
 }
 
 .brand-logo {
-  width: 88px;
-  height: 66px;
-  border-radius: 10px;
+  height: 48px;
+  width: auto;
   object-fit: contain;
-  box-shadow: 0 2px 8px rgba(11, 58, 117, 0.15);
 }
 
 .brand strong,
