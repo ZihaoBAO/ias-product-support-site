@@ -11,7 +11,16 @@
     "docTitle": "Documenti Prodotto",
     "docDesc": "Seleziona un prodotto per accedere alle guide di risoluzione dei problemi, ai flussi di lavoro generali e alle procedure di manutenzione dettagliate tramite la barra laterale sinistra.",
     "searchLabel": "Cerca Prodotti",
-    "searchPlaceholder": "Inserisci 3120, 5100 o altre parole chiave"
+    "searchPlaceholder": "Inserisci 3120, 5100 o altre parole chiave",
+    "contact": {
+      "title": "Contattaci",
+      "email": "Email",
+      "scope": "Ambito",
+      "email1": "IAS-SERVICE@ias-glb.com",
+      "email1Desc": "Riceve tutti i feedback del servizio post-vendita, coordina l'elaborazione e risponde.",
+      "email2": "fusong@ias-glb.com",
+      "email2Desc": "Riceve reclami su anomalie nella gestione del servizio post-vendita ed escalation dei problemi."
+    }
   },
   "card": {
     "open": "Apri Documenti di Manutenzione"

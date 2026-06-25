@@ -11,7 +11,16 @@
     "docTitle": "Product Documents",
     "docDesc": "Select a product to access troubleshooting guides, general workflows and detailed maintenance steps via the left sidebar.",
     "searchLabel": "Search Products",
-    "searchPlaceholder": "Enter 3120, 5100 or other keywords"
+    "searchPlaceholder": "Enter 3120, 5100 or other keywords",
+    "contact": {
+      "title": "Contact Us",
+      "email": "Email",
+      "scope": "Scope",
+      "email1": "IAS-SERVICE@ias-glb.com",
+      "email1Desc": "Receive all after-sales service feedback, coordinate processing and reply.",
+      "email2": "fusong@ias-glb.com",
+      "email2Desc": "Receive complaints about after-sales service handling exceptions and issue escalation."
+    }
   },
   "card": {
     "open": "Open Maintenance Docs"

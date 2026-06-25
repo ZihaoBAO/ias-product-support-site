@@ -11,7 +11,19 @@
     "docTitle": "产品文档",
     "docDesc": "选择产品后，可通过左侧目录进入故障排查、通用流程和具体维护步骤。",
     "searchLabel": "搜索产品",
-    "searchPlaceholder": "输入 3120、5100 或其他关键词"
+    "searchPlaceholder": "输入 3120、5100 或其他关键词",
+    "contact": {
+      "title": "联系我们",
+      "phone": "全国统一免费服务电话",
+      "phoneNumber": "400-828-7080",
+      "wechat": "企业微信客服",
+      "email": "邮箱",
+      "scope": "处理范围",
+      "email1": "IAS-SERVICE@ias-glb.com",
+      "email1Desc": "接收所有售后问题反馈及对接处理&回复",
+      "email2": "fusong@ias-glb.com",
+      "email2Desc": "接收对售后处理异常的投诉及问题升级"
+    }
   },
   "card": {
     "open": "打开维护文档"

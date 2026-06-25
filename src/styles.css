@@ -54,7 +54,7 @@ a {
 }
 
 main {
-  padding-bottom: 56px;
+  padding-bottom: 12px;
   position: relative;
   z-index: 1;
 }
@@ -1673,6 +1673,180 @@ pre {
   margin: 18px 0;
 }
 
+/* ── Contact Footer ── */
+.contact-footer {
+  padding: 40px 40px 24px;
+  margin-top: 24px;
+  border-top: 1px solid var(--line);
+  background: linear-gradient(180deg, var(--surface) 0%, rgba(247, 249, 252, 0.8) 100%);
+  text-align: center;
+}
+
+.contact-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--blue);
+  margin: 0 0 20px;
+}
+
+.contact-cn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.contact-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+}
+
+.contact-phone-number {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--blue);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: color 0.2s;
+}
+
+.contact-phone-number:hover {
+  color: var(--cyan);
+}
+
+.wechat-qr {
+  width: 140px;
+  height: 140px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--line);
+}
+
+.contact-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: min(100%, 680px);
+  text-align: left;
+}
+
+.contact-table th {
+  padding: 10px 16px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 2px solid var(--blue);
+  background: rgba(11, 58, 117, 0.03);
+}
+
+.contact-table td {
+  padding: 10px 16px;
+  font-size: 13px;
+  color: var(--ink);
+  border-bottom: 1px solid var(--line);
+}
+
+.contact-table td a {
+  color: var(--blue);
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.2s;
+}
+
+.contact-table td a:hover {
+  color: var(--cyan);
+}
+
+@media (min-width: 861px) {
+  .contact-table td:first-child {
+    width: 220px;
+  }
+
+  .contact-table td:first-child,
+  .contact-table th:first-child {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 860px) {
+  .contact-intl {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .contact-table {
+    margin: 0;
+    display: block;
+    width: 100%;
+  }
+
+  .contact-table thead {
+    display: none;
+  }
+
+  .contact-table tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .contact-table tr {
+    display: block;
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--surface);
+  }
+
+  .contact-table td {
+    display: block;
+    width: 100%;
+    padding: 10px 14px;
+    border-bottom: none;
+    text-align: left;
+  }
+
+  .contact-table td:first-child {
+    background: rgba(11, 58, 117, 0.04);
+    font-weight: 600;
+  }
+
+  .contact-table td:first-child::before {
+    content: "Email";
+    display: block;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+  }
+
+  .contact-table td:last-child::before {
+    content: "Scope";
+    display: block;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+  }
+
+  .contact-table td a {
+    white-space: normal;
+    word-break: break-all;
+  }
+}
+
 @media (max-width: 860px) {
   .topbar,
   .toolbar-band,
@@ -1765,6 +1939,18 @@ pre {
 
   .product-summary {
     min-width: 0;
+  }
+
+  .contact-footer {
+    padding: 20px 20px 20px;
+  }
+
+  .contact-table th,
+  .contact-table td {
+    padding: 8px 10px;
+    font-size: 12px;
+    white-space: normal;
+    word-break: break-all;
   }
 }
 
