@@ -27,6 +27,7 @@
 body {
   margin: 0;
   min-width: 320px;
+  overflow-x: hidden;
   background:
     radial-gradient(circle at 15% 20%, rgba(0, 163, 199, 0.04), transparent 40%),
     radial-gradient(circle at 85% 80%, rgba(11, 58, 117, 0.04), transparent 40%),
@@ -1727,10 +1728,13 @@ pre {
   border: 1px solid var(--line);
 }
 
+/* ── Contact table (wide screen) ── */
 .contact-table {
   margin: 0 auto;
   border-collapse: collapse;
   width: min(100%, 680px);
+  max-width: 100%;
+  table-layout: fixed;
   text-align: left;
 }
 
@@ -1750,6 +1754,9 @@ pre {
   font-size: 13px;
   color: var(--ink);
   border-bottom: 1px solid var(--line);
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .contact-table td a {
@@ -1765,6 +1772,7 @@ pre {
 }
 
 @media (min-width: 861px) {
+  .contact-table th:first-child,
   .contact-table td:first-child {
     width: 220px;
   }
@@ -1775,16 +1783,36 @@ pre {
   }
 }
 
+/* ── Narrow screen: card layout ── */
 @media (max-width: 860px) {
+  .contact-footer {
+    padding: 32px 20px 24px;
+    overflow: hidden;
+  }
+
   .contact-intl {
+    width: 100%;
     max-width: 100%;
     min-width: 0;
   }
 
-  .contact-table {
-    margin: 0;
+  /* Destroy table semantics — every part becomes a block */
+  .contact-table,
+  .contact-table thead,
+  .contact-table tbody,
+  .contact-table tr,
+  .contact-table th,
+  .contact-table td {
     display: block;
     width: 100%;
+    border-collapse: unset;
+    margin: 0;
+  }
+
+  .contact-table {
+    width: 100% !important;
+    max-width: 100%;
+    min-width: 0;
   }
 
   .contact-table thead {
@@ -1798,20 +1826,23 @@ pre {
   }
 
   .contact-table tr {
-    display: block;
-    width: 100%;
+    max-width: 100%;
+    min-width: 0;
     border: 1px solid var(--line);
     border-radius: 8px;
-    overflow: hidden;
     background: var(--surface);
+    overflow: hidden;
   }
 
   .contact-table td {
-    display: block;
-    width: 100%;
+    max-width: 100%;
+    min-width: 0;
     padding: 10px 14px;
     border-bottom: none;
     text-align: left;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .contact-table td:first-child {
@@ -1939,18 +1970,6 @@ pre {
 
   .product-summary {
     min-width: 0;
-  }
-
-  .contact-footer {
-    padding: 20px 20px 20px;
-  }
-
-  .contact-table th,
-  .contact-table td {
-    padding: 8px 10px;
-    font-size: 12px;
-    white-space: normal;
-    word-break: break-all;
   }
 }
 
