@@ -95,6 +95,10 @@
     "backHome": "Torna alla Home"
   },
   "sopData": {
+    "1. PD board wiring": "1. Cablaggio scheda PD",
+    "2. Two screws for the PD board": "2. Due viti per la scheda PD",
+    "3. Four screws for the core board": "3. Quattro viti per la scheda core",
+    "4. Remove the wiring of the core board": "4. Rimuovere il cablaggio della scheda core",
     "IAS-3120 Maintenance SOP": "SOP di Manutenzione IAS-3120",
     "I. Common Troubleshooting and Maintenance Manual for the IAS-3120": "I. Manuale Comune di Risoluzione Problemi e Manutenzione IAS-3120",
     "II. Step-by-Step Removal and Installation of the IAS-3120": "II. Guida Passo-Passo alla Rimozione e Installazione IAS-3120",

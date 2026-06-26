@@ -95,6 +95,10 @@
     "backHome": "На Главную"
   },
   "sopData": {
+    "1. PD board wiring": "1. Подключение платы PD",
+    "2. Two screws for the PD board": "2. Два винта для платы PD",
+    "3. Four screws for the core board": "3. Четыре винта для основной платы",
+    "4. Remove the wiring of the core board": "4. Отсоединить проводку основной платы",
     "IAS-3120 Maintenance SOP": "SOP по Обслуживанию IAS-3120",
     "I. Common Troubleshooting and Maintenance Manual for the IAS-3120": "I. Общее Руководство по Устранению Неисправностей и Обслуживанию IAS-3120",
     "II. Step-by-Step Removal and Installation of the IAS-3120": "II. Пошаговое Руководство по Демонтажу и Установке IAS-3120",

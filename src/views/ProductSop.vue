@@ -81,12 +81,12 @@
               <aside v-if="step.sideNotes" class="step-side-notes">
                 <div class="side-col">
                   <ul>
-                    <li v-for="(text, i) in step.sideNotes.left" :key="'l'+i">{{ text }}</li>
+                    <li v-for="(text, i) in step.sideNotes.left" :key="'l'+i">{{ td(text) }}</li>
                   </ul>
                 </div>
                 <div class="side-col">
                   <ul>
-                    <li v-for="(text, i) in step.sideNotes.right" :key="'r'+i">{{ text }}</li>
+                    <li v-for="(text, i) in step.sideNotes.right" :key="'r'+i">{{ td(text) }}</li>
                   </ul>
                 </div>
               </aside>

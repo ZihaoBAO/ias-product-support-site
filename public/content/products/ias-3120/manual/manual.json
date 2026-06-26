@@ -3945,12 +3945,12 @@
               "endRow": 63,
               "sideNotes": {
                 "left": [
-                  "PD board wiring",
-                  "Two screws for the PD board",
-                  "Four screws for the core board"
+                  "1. PD board wiring",
+                  "2. Two screws for the PD board",
+                  "3. Four screws for the core board"
                 ],
                 "right": [
-                  "Remove the wiring of the core board"
+                  "4. Remove the wiring of the core board"
                 ]
               }
             },

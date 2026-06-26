@@ -1,4 +1,4 @@
-﻿{
+{
   "title": "Replace Spectrum Analyzer Circu",
   "slug": "replace-spectrum-analyzer-circu",
   "dimensions": {
@@ -2366,8 +2366,8 @@
           "row": 52,
           "col": 3,
           "column": "C",
-          "value": "PD board wiring",
-          "text": "PD board wiring",
+          "value": "1. PD board wiring",
+          "text": "1. PD board wiring",
           "style": {
             "font": {
               "size": 11.0
@@ -2443,8 +2443,8 @@
           "row": 54,
           "col": 3,
           "column": "C",
-          "value": "Two screws for the PD board",
-          "text": "Two screws for the PD board",
+          "value": "2. Two screws for the PD board",
+          "text": "2. Two screws for the PD board",
           "style": {
             "font": {
               "size": 11.0
@@ -2459,8 +2459,8 @@
           "row": 54,
           "col": 4,
           "column": "D",
-          "value": "Remove the wiring of the core board",
-          "text": "Remove the wiring of the core board",
+          "value": "4. Remove the wiring of the core board",
+          "text": "4. Remove the wiring of the core board",
           "style": {
             "font": {
               "size": 11.0
@@ -2560,8 +2560,8 @@
           "row": 57,
           "col": 3,
           "column": "C",
-          "value": "Four screws for the core board",
-          "text": "Four screws for the core board",
+          "value": "3. Four screws for the core board",
+          "text": "3. Four screws for the core board",
           "style": {
             "font": {
               "size": 11.0

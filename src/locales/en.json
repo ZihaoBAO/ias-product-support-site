@@ -87,6 +87,10 @@
     "backHome": "Back to Home"
   },
   "sopData": {
+    "1. PD board wiring": "1. PD board wiring",
+    "2. Two screws for the PD board": "2. Two screws for the PD board",
+    "3. Four screws for the core board": "3. Four screws for the core board",
+    "4. Remove the wiring of the core board": "4. Remove the wiring of the core board",
     "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>Open Related SOP</strong></a>)",
     "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>Open Related SOP</strong></a>)"
   }

@@ -90,6 +90,10 @@
     "backHome": "返回首页"
   },
   "sopData": {
+    "1. PD board wiring": "1. PD 板接线",
+    "2. Two screws for the PD board": "2. PD 板两个螺丝",
+    "3. Four screws for the core board": "3. 核心板四个螺丝",
+    "4. Remove the wiring of the core board": "4. 移除核心板接线",
     "IAS-3120 Maintenance SOP": "IAS-3120 维护 SOP",
     "I. Common Troubleshooting and Maintenance Manual for the IAS-3120": "一、IAS-3120 常见故障排查与维护手册",
     "II. Step-by-Step Removal and Installation of the IAS-3120": "二、IAS-3120 分步拆装指南",
