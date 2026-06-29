@@ -4018,6 +4018,16 @@
                 "A52",
                 "B52"
               ],
+              "sideNotes": {
+                "left": [
+                  "1. PD board wiring",
+                  "2. Two screws for the PD board",
+                  "3. Four screws for the core board"
+                ],
+                "right": [
+                  "4. Remove the wiring of the core board"
+                ]
+              },
               "endRow": 65
             },
             {
