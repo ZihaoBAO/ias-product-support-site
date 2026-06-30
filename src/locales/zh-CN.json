@@ -33,13 +33,21 @@
       "title": "IAS-3120 产品维护说明",
       "summary": "IAS-3120 维护 SOP，包含故障排查、拆装流程和关键部件更换目录。",
       "category": "产品维护手册",
-      "tags": ["维护 SOP", "故障排查", "3120"]
+      "tags": [
+        "维护 SOP",
+        "故障排查",
+        "3120"
+      ]
     },
     "ias-5100": {
       "title": "IAS-5100 产品维护说明",
       "summary": "IAS-5100 维护 SOP，包含故障排查、拆装流程和关键部件更换目录。",
       "category": "产品维护手册",
-      "tags": ["维护 SOP", "故障排查", "5100"]
+      "tags": [
+        "维护 SOP",
+        "故障排查",
+        "5100"
+      ]
     }
   },
   "product": {
@@ -135,7 +143,6 @@
     "IAS-5100 Maintenance SOP": "IAS-5100 维护 SOP",
     "I. Common Troubleshooting and Maintenance Manual for the IAS-5100": "一、IAS-5100 常见故障排查与维护手册",
     "II. Step-by-Step Removal and Installation of the IAS-5100": "二、IAS-5100 分步拆装指南",
-
     "Troubleshooting Steps": "故障排查步骤",
     "Reproduce Client-Side Faults": "复现客户端故障",
     "1.1 When the instrument is returned for repair, unpack and reproduce the client-side fault.": "1.1 仪器返修时，开箱并复现客户端故障。",
@@ -145,10 +152,8 @@
     "Check and Adjust Settings": "检查并调整设置",
     "3.1 Verify that the mainboard detection light eye is clear and aligned properly.": "3.1 确认主板检测光路畅通且对齐正确。",
     "3.2 Check the instrument reference energy - look up the specific reference value for each model.": "3.2 检查仪器参考能量 - 查询各型号的参考值。",
-
     "IAS-3120 Common Troubleshooting and Maintenance Manual": "IAS-3120 常见故障排查与维护手册",
     "IAS-5100 Common Troubleshooting and Maintenance Manual": "IAS-5100 常见故障排查与维护手册",
-
     "No Power On": "无法开机",
     "Black Screen on Startup": "开机黑屏",
     "Stuck on Penguin Interface During Boot": "卡在开机企鹅界面",
@@ -161,7 +166,6 @@
     "Baseline Repeatability Failure During Self-Check": "自检基线重复性失败",
     "Battery Icon Not Displayed": "电池图标不显示",
     "Startup Displays Calibration Screen": "开机显示校准界面",
-
     "Device not powered": "设备未供电",
     "Damaged or loose 40-pin gray ribbon cable": "40针灰色排线损坏或松动",
     "Faulty switch": "开关故障",
@@ -198,8 +202,6 @@
     "PD board damaged": "PD 板损坏",
     "Battery card pin not properly inserted": "电池卡针未正确插入",
     "Faulty FC-20 dual-headed cable": "FC-20 双头线缆故障",
-    "Malfunctioning USB interface on the peripheral board": "外设板 USB 接口故障",
-
     "Check if the power outlet has electricity and if the adapter outputs 24V": "检查电源插座是否有电，适配器是否输出 24V",
     "Check for damage or poor connection of the 40-pin cable": "检查 40 针排线是否损坏或接触不良",
     "Measure the button switch with a multimeter for continuity. Replace if not conducting.": "用万用表测量按钮开关通断。不导通则更换。",
@@ -226,19 +228,15 @@
     "Reassemble or replace the rotary disc": "重新组装或更换旋转盘",
     "Replace the Motor": "更换电机",
     "Reinsert the battery card pin": "重新插入电池卡针",
-
     "Replace the adapter": "更换适配器",
     "Replace the 40-pin gray ribbon cable": "更换 40 针灰色排线",
     "Replace the button switch": "更换按钮开关",
     "Replace the rocker switch": "更换翘板开关",
     "Replace the Button switch": "更换按钮开关",
     "Replace the peripheral board": "更换外设板",
-    "Replace the ARM board and manually input coefficients": "更换 ARM 板并手动输入系数",
     "Replace the lamp": "更换灯泡",
     "Replace the lamp board": "更换灯泡板",
     "Replace the lamp or peripheral board": "更换灯泡或外设板",
-    "Replace the main control board": "更换主控板",
-    "Replace the screen": "更换屏幕",
     "Replace the 485 communication cable": "更换 485 通信线缆",
     "Replace the USB Cable": "更换 USB 线缆",
     "Replace the analyzer mainboard": "更换分析仪主板",
@@ -252,8 +250,6 @@
     "Replace the sensor": "更换传感器",
     "Replace the optical fiber": "更换光纤",
     "Replace the FC-20 dual-headed cable": "更换 FC-20 双头线缆",
-    "Reconnect the XHB cable, apply adhesive, or replace it": "重新连接 XHB 线缆，涂胶固定或更换",
-
     "IAS-3120 Disassembly and Assembly SOP": "IAS-3120 拆装 SOP",
     "IAS-5100 Removal and Installation SOP": "IAS-5100 拆装 SOP",
     "IAS-3120 Disassembly and Assembly SO": "IAS-3120 拆装 SOP",
@@ -287,27 +283,22 @@
     "Replace the Circuit Board of the NIR Analyzer": "更换近红外分析仪电路板",
     "Replace the Lamp Board": "更换灯泡板",
     "Replace the Lamp": "更换灯泡",
-    "Replace the lamp": "更换灯泡",
     "Replace the Motor Board": "更换电机板",
-    "Replace the Motor": "更换电机",
     "Replace XHB, FC-20": "更换 XHB、FC-20 线缆",
     "Replace the 40-pin gray ribbon": "更换 40 针灰色排线",
     "Replace the 40-pin Gray Ribbon Cable": "更换 40 针灰色排线",
     "Replace the Sensor": "更换传感器",
-    "Replace the USB Cable": "更换 USB 线缆",
     "Replace the Optical Fiber": "更换光纤",
     "Replace the 485 communication c": "更换 485 通信线缆",
     "Replace the 485 Communication Cable": "更换 485 通信线缆",
     "Replace the Ribbon Cable": "更换排线",
     "Replace Motor Board  Kernel version: 4.3.0.0.0/4.3.2.0.0": "更换电机板 内核版本: 4.3.0.0.0/4.3.2.0.0",
-
     "All versions": "所有版本",
     "Steps": "步骤",
     "Step": "步骤",
     "Tools & Consumables": "工具与耗材",
     "Materials and tools": "材料与工具",
     "Tools, consumables and document metadata": "工具、耗材及文档元数据",
-
     "Multimeter": "万用表",
     "Screwdriver": "螺丝刀",
     "Scissors": "剪刀",
@@ -343,7 +334,6 @@
     "Analyzer Core Board": "分析仪核心板",
     "Non-metal tweezers": "非金属镊子",
     "None": "无",
-
     "1. Electric Screwdriver": "1. 电动螺丝刀",
     "2. Hex Wrench": "2. 六角扳手",
     "2. Phillips Screwdriver": "2. 十字螺丝刀",
@@ -458,6 +448,36 @@
     "Kernel Versions: 1.0.8.6.X/2.0.8.6.4": "内核版本: 1.0.8.6.X/2.0.8.6.4",
     "Kernel Versions: 4.3.0.0.0/4.3.2.0.0": "内核版本: 4.3.0.0.0/4.3.2.0.0",
     "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>打开相关SOP</strong></a>)": "更换灯泡（<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>打开相关SOP</strong></a>）<br>外设板（<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>打开相关SOP</strong></a>）",
-    "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "更换灯泡（<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>）<br>外设板（<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>）"
+    "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "更换灯泡（<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>）<br>外设板（<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>）",
+    "Software version is not up to date": "软件版本不是最新的",
+    "Unknown software bug": "软件未知BUG",
+    "Model does not include the test sample type": "模型数据不包含待测样品种",
+    "Applicable model does not match the test sample type": "适用模型与待测样品类不一致",
+    "Systematic deviation between test results and reference values": "检测结果与理化值偏差有规律",
+    "Irregular deviation between test results and reference values": "检测结果与理化值偏差无规律",
+    "Model used for a long time, needs supplementary data": "模型使用时间长需补充数据",
+    "Contact the client to obtain device information and logs.\nTISO3: Home > More > Data Export > Log > Export logs and config to USB.\nTISO2: Home > System > Data Export.": "联系客户提供设备相关信息及日志。\nTISO3：主页→更多→数据导出→日志→导出至U盘。\nTISO2：主页→系统→数据导出。",
+    "Bug not present in hardware fault categories": "硬件故障大类都未出现过的BUG",
+    "Check if the model in use matches the test sample:\nHome > Product Switch": "查看使用模型是否与待测样品一致：\n主页→产品切换",
+    "Test results consistently deviate by a certain range from lab reference values (positive or negative)": "检测结果与实验室理化值一致偏差一定范围值（正数或者负数）",
+    "Provide the latest software version. Coordinate remote update with the client.": "提供最新版软件，与客户联系远程更新",
+    "IAS develops a new software version. Coordinate remote update with the client.": "IAS开发新版软件，与客户联系远程更新",
+    "Guide the client to switch model or send samples": "引导客户更换模型或寄送样品",
+    "Adjust the intercept B value as per user manual section 6.3 Calibration": "按照用户手册\"6.3校正\"，调整\"截距B\"值",
+    "Provide new model. Coordinate remote update after payment.": "提供新模型，收费后协调远程更新",
+    "Client device connected to WiFi, enable remote assistance": "客户设备连接WIFI，开启远程协助",
+    "Remote guidance": "远程指导",
+    "None, new software version": "无，新版软件",
+    "Client device connected to WiFi": "客户设备连接WIFI",
+    "enable remote assistance": "开启远程协助",
+    "new software version": "新版软件",
+    "Software": "软件",
+    "Model": "模型",
+    "Contact the client to provide device information and logs:\nTISO3 version:\n1. Home > More > Data Export > Log > Export logs, parameter configs, etc., select time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > More > About Instrument > View device ID, spectrometer ID, model name, device usage time, lamp remaining time, software version, motor version\nTISO2 version:\n1. Home > System > Data Export > Export logs, parameter configs, etc., select product list and time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > System > System Settings > View software information, etc.": "联系客户提供设备相关信息及日志：\nTISO3版本：\n1、主页→更多→数据导出→日志→可导出\"日志、参数配置等\"，选择时间范围导出至U盘→确定；将导出文件发送至IAS公司FAE邮箱：\n2、主页→更多→关于仪器→可查看\"设备编号、光谱仪编号、型号名称、设备使用时间、光源剩余时间、软件版本、电机版本\"\nTISO2版本：\n1、主页→系统→数据导出→可导出\"日志、参数配置等\"，选择产品列表、时间范围导出至U盘→确定；将导出文件发送至IAS公司FAE邮箱：\n2、主页→系统→系统设置→可查看软件信息等信息",
+    "Model used for a long time without update; needs a new model.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)": "模型长时间使用未更新，需要新建模型。\n准备：\n1. 待测样品种类型\n2. 待测样生长环境（气候条件、平均温度、温差、施肥等）",
+    "Model has been used a long time without update; company has a new model available.\nCheck: \n1. Test sample type\n2. Sample growing environment": "模型长时间使用未更新，公司有新模型。\n检查：\n1. 待测样品种类型\n2. 待测样生长环境",
+    "Expand model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. Coordinate remote update with the client.": "扩充模型数据：需要客户提供200个待测样品+理化值（要求待测样的待测物质含量有梯度，且产地分布较广，不能是一种含量的样品）+扫描待测样品光谱。与客户联系远程更新",
+    "Create new model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. After payment, coordinate remote update with the client.": "新建模型数据：需要客户提供200个待测样品+理化值（要求待测样的待测物质含量有梯度，且产地分布较广，不能是一种含量的样品）+扫描待测样品光谱。收费后，与客户联系远程更新",
+    "Model is not localized; supplementary data is needed.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)": "模型未本地化，需要对模型数据进行补充。\n准备：\n1. 待测样品种类型\n2. 待测样生长环境（气候条件、平均温度、温差、施肥等）"
   }
 }

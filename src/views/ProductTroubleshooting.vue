@@ -29,11 +29,11 @@
             </div>
             <div>
               <span>{{ t('troubleshooting.inspection') }}</span>
-              <p v-html="td(item.inspection)"></p>
+              <p v-html="td(item.inspection)" class="inspection-text"></p>
             </div>
             <div>
               <span>{{ t('troubleshooting.maintenance') }}</span>
-              <p v-html="td(item.maintenance)"></p>
+              <p v-html="td(item.maintenance)" class="inspection-text"></p>
               <template v-if="item.relatedDocIds?.length">
                 <router-link
                   v-for="link in item.relatedDocIds"
@@ -100,3 +100,11 @@ const visibleGroups = computed(() => {
     .filter((group) => group.items.length > 0);
 });
 </script>
+
+<style scoped>
+.inspection-text {
+  max-height: 160px;
+  overflow-y: auto;
+  white-space: pre-line;
+}
+</style>

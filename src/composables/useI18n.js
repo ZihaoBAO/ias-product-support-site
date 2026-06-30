@@ -16,6 +16,22 @@ export const availableLocales = [
 ];
 
 export function useI18n() {
+  const normalizeDynamicText = (text) =>
+    text
+      .replace(/Prepare:\s*(?=1\.)/g, "Prepare:\n")
+      .replace(/Prepare: \n/g, "Prepare:\n");
+
+  const resolveDynamicText = (map, text) => {
+    if (!map) return null;
+    if (map[text]) return map[text];
+
+    const normalizedText = normalizeDynamicText(text);
+    if (map[normalizedText]) return map[normalizedText];
+
+    const legacyText = normalizedText.replace(/Prepare:\n/g, "Prepare: \n");
+    return map[legacyText] || null;
+  };
+
   const t = (key, params) => {
     const keys = key.split(".");
     let result = messagesMap[currentLocale.value];
@@ -38,8 +54,10 @@ export function useI18n() {
     const msg = messagesMap[currentLocale.value];
     const sopMap = msg?.sopData;
     const flowMap = msg?.flowData;
-    if (flowMap && flowMap[text]) return flowMap[text];
-    if (sopMap && sopMap[text]) return sopMap[text];
+    const flowText = resolveDynamicText(flowMap, text);
+    if (flowText) return flowText;
+    const sopText = resolveDynamicText(sopMap, text);
+    if (sopText) return sopText;
     return text;
   };
 

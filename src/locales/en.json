@@ -30,13 +30,21 @@
       "title": "IAS-3120 Product Maintenance Guide",
       "summary": "IAS-3120 Maintenance SOP, including troubleshooting, disassembly procedures and key component replacement catalog.",
       "category": "Product Maintenance Manual",
-      "tags": ["Maintenance SOP", "Troubleshooting", "3120"]
+      "tags": [
+        "Maintenance SOP",
+        "Troubleshooting",
+        "3120"
+      ]
     },
     "ias-5100": {
       "title": "IAS-5100 Product Maintenance Guide",
       "summary": "IAS-5100 Maintenance SOP, including troubleshooting, disassembly procedures and key component replacement catalog.",
       "category": "Product Maintenance Manual",
-      "tags": ["Maintenance SOP", "Troubleshooting", "5100"]
+      "tags": [
+        "Maintenance SOP",
+        "Troubleshooting",
+        "5100"
+      ]
     }
   },
   "product": {
@@ -125,6 +133,37 @@
     "3. Four screws for the core board": "3. Four screws for the core board",
     "4. Remove the wiring of the core board": "4. Remove the wiring of the core board",
     "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-3120/sop/replace-light-source\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-3120/sop/replace-arm-boards\"><strong>Open Related SOP</strong></a>)",
-    "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>Open Related SOP</strong></a>)"
+    "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>打开相关SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>打开相关SOP</strong></a>)": "Replace the lamp (<a href=\"#/products/ias-5100/sop/replace-the-lamp\"><strong>Open Related SOP</strong></a>)<br>peripheral board (<a href=\"#/products/ias-5100/sop/replace-the-peripheral-board\"><strong>Open Related SOP</strong></a>)",
+    "Software version is not up to date": "Software version is not up to date",
+    "Unknown software bug": "Unknown software bug",
+    "Model does not include the test sample type": "Model does not include the test sample type",
+    "Applicable model does not match the test sample type": "Applicable model does not match the test sample type",
+    "Systematic deviation between test results and reference values": "Systematic deviation between test results and reference values",
+    "Irregular deviation between test results and reference values": "Irregular deviation between test results and reference values",
+    "Model used for a long time, needs supplementary data": "Model used for a long time, needs supplementary data",
+    "Contact the client to obtain device information and logs.\nTISO3: Home > More > Data Export > Log > Export logs and config to USB.\nTISO2: Home > System > Data Export.": "Contact the client to obtain device information and logs.\nTISO3: Home > More > Data Export > Log > Export logs and config to USB.\nTISO2: Home > System > Data Export.",
+    "Bug not present in hardware fault categories": "Bug not present in hardware fault categories",
+    "Check if the model in use matches the test sample:\nHome > Product Switch": "Check if the model in use matches the test sample:\nHome > Product Switch",
+    "Test results consistently deviate by a certain range from lab reference values (positive or negative)": "Test results consistently deviate by a certain range from lab reference values (positive or negative)",
+    "Provide the latest software version. Coordinate remote update with the client.": "Provide the latest software version. Coordinate remote update with the client.",
+    "IAS develops a new software version. Coordinate remote update with the client.": "IAS develops a new software version. Coordinate remote update with the client.",
+    "Guide the client to switch model or send samples": "Guide the client to switch model or send samples",
+    "Adjust the intercept B value as per user manual section 6.3 Calibration": "Adjust the intercept B value as per user manual section 6.3 Calibration",
+    "Provide new model. Coordinate remote update after payment.": "Provide new model. Coordinate remote update after payment.",
+    "Client device connected to WiFi, enable remote assistance": "Client device connected to WiFi, enable remote assistance",
+    "Remote guidance": "Remote guidance",
+    "None, new software version": "None, new software version",
+    "Client device connected to WiFi": "Client device connected to WiFi",
+    "enable remote assistance": "enable remote assistance",
+    "None": "None",
+    "new software version": "new software version",
+    "Software": "Software",
+    "Model": "Model",
+    "Contact the client to provide device information and logs:\nTISO3 version:\n1. Home > More > Data Export > Log > Export logs, parameter configs, etc., select time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > More > About Instrument > View device ID, spectrometer ID, model name, device usage time, lamp remaining time, software version, motor version\nTISO2 version:\n1. Home > System > Data Export > Export logs, parameter configs, etc., select product list and time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > System > System Settings > View software information, etc.": "Contact the client to provide device information and logs:\nTISO3 version:\n1. Home > More > Data Export > Log > Export logs, parameter configs, etc., select time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > More > About Instrument > View device ID, spectrometer ID, model name, device usage time, lamp remaining time, software version, motor version\nTISO2 version:\n1. Home > System > Data Export > Export logs, parameter configs, etc., select product list and time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > System > System Settings > View software information, etc.",
+    "Model used for a long time without update; needs a new model.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)": "Model used for a long time without update; needs a new model.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)",
+    "Model has been used a long time without update; company has a new model available.\nCheck: \n1. Test sample type\n2. Sample growing environment": "Model has been used a long time without update; company has a new model available.\nCheck: \n1. Test sample type\n2. Sample growing environment",
+    "Expand model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. Coordinate remote update with the client.": "Expand model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. Coordinate remote update with the client.",
+    "Create new model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. After payment, coordinate remote update with the client.": "Create new model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. After payment, coordinate remote update with the client.",
+    "Model is not localized; supplementary data is needed.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)": "Model is not localized; supplementary data is needed.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)"
   }
 }

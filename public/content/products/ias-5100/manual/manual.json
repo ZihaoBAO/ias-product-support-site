@@ -855,6 +855,76 @@
           "F47",
           "G47"
         ]
+      },
+      {
+        "id": "fault-46",
+        "category": "Software",
+        "possibleCause": "Software version is not up to date",
+        "inspection": "Contact the client to provide device information and logs:\nTISO3 version:\n1. Home > More > Data Export > Log > Export logs, parameter configs, etc., select time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > More > About Instrument > View device ID, spectrometer ID, model name, device usage time, lamp remaining time, software version, motor version\nTISO2 version:\n1. Home > System > Data Export > Export logs, parameter configs, etc., select product list and time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > System > System Settings > View software information, etc.",
+        "maintenance": "Provide the latest software version. Coordinate remote update with the client.",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None, new software version",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-47",
+        "category": "Software",
+        "possibleCause": "Unknown software bug",
+        "inspection": "Bug not present in hardware fault categories",
+        "maintenance": "IAS develops a new software version. Coordinate remote update with the client.",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None, new software version",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-48",
+        "category": "Model",
+        "possibleCause": "Model does not include the test sample type",
+        "inspection": "Model is not localized; supplementary data is needed.\nPrepare:\n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)",
+        "maintenance": "Expand model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. Coordinate remote update with the client.",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-49",
+        "category": "Model",
+        "possibleCause": "Applicable model does not match the test sample type",
+        "inspection": "Check if the model in use matches the test sample:\nHome > Product Switch",
+        "maintenance": "Guide the client to switch model or send samples",
+        "tools": "Remote guidance",
+        "spareParts": "None",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-50",
+        "category": "Model",
+        "possibleCause": "Systematic deviation between test results and reference values",
+        "inspection": "Test results consistently deviate by a certain range from lab reference values (positive or negative)",
+        "maintenance": "Adjust the intercept B value as per user manual section 6.3 Calibration",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-51",
+        "category": "Model",
+        "possibleCause": "Irregular deviation between test results and reference values",
+        "inspection": "Model used for a long time without update; needs a new model.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)",
+        "maintenance": "Create new model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. After payment, coordinate remote update with the client.",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None",
+        "relatedDocId": ""
+      },
+      {
+        "id": "fault-52",
+        "category": "Model",
+        "possibleCause": "Model used for a long time, needs supplementary data",
+        "inspection": "Model has been used a long time without update; company has a new model available.\nCheck: \n1. Test sample type\n2. Sample growing environment",
+        "maintenance": "Provide new model. Coordinate remote update after payment.",
+        "tools": "Client device connected to WiFi, enable remote assistance",
+        "spareParts": "None",
+        "relatedDocId": ""
       }
     ],
     "groups": [
@@ -1688,6 +1758,86 @@
               "F47",
               "G47"
             ]
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "items": [
+          {
+            "id": "fault-46",
+            "category": "Software",
+            "possibleCause": "Software version is not up to date",
+            "inspection": "Contact the client to provide device information and logs:\nTISO3 version:\n1. Home > More > Data Export > Log > Export logs, parameter configs, etc., select time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > More > About Instrument > View device ID, spectrometer ID, model name, device usage time, lamp remaining time, software version, motor version\nTISO2 version:\n1. Home > System > Data Export > Export logs, parameter configs, etc., select product list and time range > Export to USB > Confirm; send exported files to IAS FAE email:\n2. Home > System > System Settings > View software information, etc.",
+            "maintenance": "Provide the latest software version. Coordinate remote update with the client.",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None, new software version",
+            "relatedDocId": ""
+          },
+          {
+            "id": "fault-47",
+            "category": "Software",
+            "possibleCause": "Unknown software bug",
+            "inspection": "Bug not present in hardware fault categories",
+            "maintenance": "IAS develops a new software version. Coordinate remote update with the client.",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None, new software version",
+            "relatedDocId": ""
+          }
+        ]
+      },
+      {
+        "category": "Model",
+        "items": [
+          {
+            "id": "fault-48",
+            "category": "Model",
+            "possibleCause": "Model does not include the test sample type",
+            "inspection": "Model is not localized; supplementary data is needed.\nPrepare:\n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)",
+            "maintenance": "Expand model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. Coordinate remote update with the client.",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None",
+            "relatedDocId": ""
+          },
+          {
+            "id": "fault-49",
+            "category": "Model",
+            "possibleCause": "Applicable model does not match the test sample type",
+            "inspection": "Check if the model in use matches the test sample:\nHome > Product Switch",
+            "maintenance": "Guide the client to switch model or send samples",
+            "tools": "Remote guidance",
+            "spareParts": "None",
+            "relatedDocId": ""
+          },
+          {
+            "id": "fault-50",
+            "category": "Model",
+            "possibleCause": "Systematic deviation between test results and reference values",
+            "inspection": "Test results consistently deviate by a certain range from lab reference values (positive or negative)",
+            "maintenance": "Adjust the intercept B value as per user manual section 6.3 Calibration",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None",
+            "relatedDocId": ""
+          },
+          {
+            "id": "fault-51",
+            "category": "Model",
+            "possibleCause": "Irregular deviation between test results and reference values",
+            "inspection": "Model used for a long time without update; needs a new model.\nPrepare: \n1. Test sample type\n2. Sample growing environment (climate, average temperature, fertilization, etc.)",
+            "maintenance": "Create new model data: the client needs to provide 200 test samples + reference values (the substance content of the test samples must have a gradient and the samples must come from a wide range of origins; samples with a single content level are not acceptable) + scan spectra of the test samples. After payment, coordinate remote update with the client.",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None",
+            "relatedDocId": ""
+          },
+          {
+            "id": "fault-52",
+            "category": "Model",
+            "possibleCause": "Model used for a long time, needs supplementary data",
+            "inspection": "Model has been used a long time without update; company has a new model available.\nCheck: \n1. Test sample type\n2. Sample growing environment",
+            "maintenance": "Provide new model. Coordinate remote update after payment.",
+            "tools": "Client device connected to WiFi, enable remote assistance",
+            "spareParts": "None",
+            "relatedDocId": ""
           }
         ]
       }
