@@ -7,8 +7,8 @@
         <small>{{ t('app.subtitle') }}</small>
       </span>
     </a>
-    <nav class="topnav" :aria-label="t('app.navLabel')">
-      <router-link to="/">{{ t('app.home') }}</router-link>
+    <div class="topbar-actions">
+      <router-link to="/" class="nav-home">{{ t('app.home') }}</router-link>
       <div class="lang-dropdown" @click.stop>
         <button
           class="lang-trigger"
@@ -27,7 +27,7 @@
           >{{ l.label }}</li>
         </ul>
       </div>
-    </nav>
+    </div>
   </header>
   <main>
     <router-view />

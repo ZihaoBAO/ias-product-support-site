@@ -26,6 +26,8 @@
       />
     </section>
 
+    <ProcessFlow />
+
     <footer class="contact-footer">
       <h2 class="contact-title">{{ t('home.contact.title') }}</h2>
 
@@ -71,6 +73,7 @@ import { ref, computed, watch, onMounted } from "vue";
 import { useRepository } from "../composables/useRepository.js";
 import { useI18n } from "../composables/useI18n.js";
 import ProductCard from "../components/ProductCard.vue";
+import ProcessFlow from "../components/ProcessFlow.vue";
 
 const { t, locale } = useI18n();
 const { getProducts, searchProducts } = useRepository();

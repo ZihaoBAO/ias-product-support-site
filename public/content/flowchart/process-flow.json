@@ -1,0 +1,827 @@
+{
+  "slide": 2,
+  "source_file": "产品问题定位处理流程20260626.pptx",
+  "title": "Product Problem Identification and Handling Process",
+  "notes": [
+    "本文件重点补充了每一个内容框之间的连接关系。",
+    "所有判断棱形的 yes / no 分支均单独列出，并明确指向的具体节点。",
+    "其中 first_location_problem 的 yes 分支在视觉上进入分类主干线，最终可进入 Model / software / hardware 三个白色分类矩形。",
+    "second_location_problem 的 no 分支指向整机返厂维修矩形。",
+    "repair_decision 的 yes 分支指向 Finish 终止框；no 分支指向整机返厂维修矩形。"
+  ],
+  "style_legend": {
+    "gray": {
+      "hex_from_rendering": "#BFBFBF",
+      "meaning": "Customer Initiation and Termination",
+      "used_for": [
+        "Initiate",
+        "Finish"
+      ],
+      "shape_type": "flowchart_terminator / rounded_terminator"
+    },
+    "orange": {
+      "hex_from_rendering": "#F2BA02",
+      "meaning": "The agent is responsible for implementation.",
+      "used_for": [
+        "Recording and Judgment",
+        "first Location problem",
+        "Replacement and repair",
+        "Is it repaired?",
+        "Coordinate the return of the entire machine to the factory for repair."
+      ],
+      "shape_type": "process_rectangle / decision_diamond"
+    },
+    "blue": {
+      "hex_from_rendering": "#4874CB",
+      "meaning": "IAS is responsible for implementation.",
+      "used_for": [
+        "second Location problem",
+        "Obtain the data and expand the model",
+        "Upgrade Model",
+        "Model calibration",
+        "Software version",
+        "Software BUG",
+        "Development"
+      ],
+      "shape_type": "process_rectangle / decision_diamond"
+    },
+    "green": {
+      "hex_from_rendering": "#75BD42",
+      "meaning": "Implementation through collaboration between agents and IAS.",
+      "used_for": [
+        "The model needs additional data.",
+        "Coordinate remote upgrades for customers",
+        "Contact customers for remote updates",
+        "Returned after complete machine repair"
+      ],
+      "shape_type": "process_rectangle"
+    },
+    "white": {
+      "hex_from_rendering": "#FFFFFF",
+      "outline_color": "#000000",
+      "meaning": "Categorization",
+      "used_for": [
+        "Model",
+        "software",
+        "hardware"
+      ],
+      "shape_type": "category_rectangle"
+    },
+    "connector": {
+      "line_color": "#4874CB",
+      "line_style": "blue arrow connector",
+      "connector_types": [
+        "straight_arrow_connector",
+        "elbow_arrow_connector"
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "node_id": "start_initiate",
+      "ppt_shape_id": 5,
+      "text": "Initiate",
+      "shape": "terminator_rounded_rectangle",
+      "fill_color": "#BFBFBF",
+      "role": "customer",
+      "visual_position": "far left"
+    },
+    {
+      "node_id": "recording_and_judgment",
+      "ppt_shape_id": 6,
+      "text": "Recording and Judgment",
+      "shape": "process_rectangle",
+      "fill_color": "#F2BA02",
+      "role": "agent",
+      "visual_position": "left, after Initiate"
+    },
+    {
+      "node_id": "first_location_problem",
+      "ppt_shape_id": 9,
+      "text": "Location problem",
+      "shape": "decision_diamond",
+      "fill_color": "#F2BA02",
+      "role": "agent",
+      "visual_position": "left-center, orange decision diamond"
+    },
+    {
+      "node_id": "second_location_problem",
+      "ppt_shape_id": 17,
+      "text": "Location problem",
+      "shape": "decision_diamond",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "below first Location problem, blue decision diamond"
+    },
+    {
+      "node_id": "category_model",
+      "ppt_shape_id": 13,
+      "text": "Model",
+      "shape": "category_rectangle",
+      "fill_color": "#FFFFFF",
+      "outline_color": "#000000",
+      "role": "category",
+      "visual_position": "upper white category rectangle"
+    },
+    {
+      "node_id": "category_software",
+      "ppt_shape_id": 12,
+      "text": "software",
+      "shape": "category_rectangle",
+      "fill_color": "#FFFFFF",
+      "outline_color": "#000000",
+      "role": "category",
+      "visual_position": "middle white category rectangle"
+    },
+    {
+      "node_id": "category_hardware",
+      "ppt_shape_id": 14,
+      "text": "hardware",
+      "shape": "category_rectangle",
+      "fill_color": "#FFFFFF",
+      "outline_color": "#000000",
+      "role": "category",
+      "visual_position": "lower white category rectangle"
+    },
+    {
+      "node_id": "model_needs_additional_data",
+      "ppt_shape_id": 23,
+      "text": "The model needs additional data. (Contact the customer to provide samples and spectra)",
+      "shape": "process_rectangle",
+      "fill_color": "#75BD42",
+      "role": "agent_IAS_joint",
+      "visual_position": "upper model branch"
+    },
+    {
+      "node_id": "obtain_data_expand_model",
+      "ppt_shape_id": 37,
+      "text": "Obtain the data and expand the model",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "right of model_needs_additional_data"
+    },
+    {
+      "node_id": "upgrade_model",
+      "ppt_shape_id": 24,
+      "text": "Upgrade Model (IAS provides the latest models)",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "middle model branch"
+    },
+    {
+      "node_id": "model_calibration",
+      "ppt_shape_id": 25,
+      "text": "Model calibration",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "lower model branch"
+    },
+    {
+      "node_id": "software_version",
+      "ppt_shape_id": 26,
+      "text": "Software version (Due to version issues, the latest version is provided.)",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "upper software branch"
+    },
+    {
+      "node_id": "software_bug",
+      "ppt_shape_id": 27,
+      "text": "Software BUG (Software malfunction)",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "lower software branch"
+    },
+    {
+      "node_id": "development",
+      "ppt_shape_id": 41,
+      "text": "Development",
+      "shape": "process_rectangle",
+      "fill_color": "#4874CB",
+      "role": "IAS",
+      "visual_position": "right of software_bug"
+    },
+    {
+      "node_id": "replacement_and_repair",
+      "ppt_shape_id": 28,
+      "text": "Replacement and repair",
+      "shape": "process_rectangle",
+      "fill_color": "#F2BA02",
+      "role": "agent",
+      "visual_position": "upper hardware branch"
+    },
+    {
+      "node_id": "repair_decision",
+      "ppt_shape_id": 87,
+      "text": "Is it repaired?",
+      "shape": "decision_diamond",
+      "fill_color": "#F2BA02",
+      "role": "agent",
+      "visual_position": "right of replacement_and_repair"
+    },
+    {
+      "node_id": "return_factory_repair",
+      "ppt_shape_id": 31,
+      "text": "Coordinate the return of the entire machine to the factory for repair.",
+      "shape": "process_rectangle",
+      "fill_color": "#F2BA02",
+      "role": "agent",
+      "visual_position": "lower hardware branch"
+    },
+    {
+      "node_id": "remote_upgrade",
+      "ppt_shape_id": 44,
+      "text": "Coordinate remote upgrades for customers",
+      "shape": "process_rectangle",
+      "fill_color": "#75BD42",
+      "role": "agent_IAS_joint",
+      "visual_position": "right of obtain_data_expand_model / upgrade_model"
+    },
+    {
+      "node_id": "remote_update",
+      "ppt_shape_id": 47,
+      "text": "Contact customers for remote updates",
+      "shape": "process_rectangle",
+      "fill_color": "#75BD42",
+      "role": "agent_IAS_joint",
+      "visual_position": "right of software_version / development"
+    },
+    {
+      "node_id": "machine_returned",
+      "ppt_shape_id": 50,
+      "text": "Returned after complete machine repair",
+      "shape": "process_rectangle",
+      "fill_color": "#75BD42",
+      "role": "agent_IAS_joint",
+      "visual_position": "right of return_factory_repair"
+    },
+    {
+      "node_id": "finish",
+      "ppt_shape_id": 35,
+      "text": "Finish",
+      "shape": "terminator_rounded_rectangle",
+      "fill_color": "#BFBFBF",
+      "role": "customer",
+      "visual_position": "far right"
+    }
+  ],
+  "decision_branches_explicit": [
+    {
+      "decision_node_id": "first_location_problem",
+      "decision_text": "Location problem",
+      "shape": "decision_diamond",
+      "fill_color": "#F2BA02",
+      "yes_branch": {
+        "label_text": "yes",
+        "visual_direction": "right",
+        "points_to": [
+          {
+            "node_id": "category_model",
+            "text": "Model",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可向上进入 Model 白色分类矩形。"
+          },
+          {
+            "node_id": "category_software",
+            "text": "software",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可水平进入 software 白色分类矩形。"
+          },
+          {
+            "node_id": "category_hardware",
+            "text": "hardware",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可向下进入 hardware 白色分类矩形。"
+          }
+        ],
+        "logic": "代理商能够定位问题时，进入问题类别归类：Model / software / hardware。"
+      },
+      "no_branch": {
+        "label_text": "no",
+        "visual_direction": "down",
+        "points_to": [
+          {
+            "node_id": "second_location_problem",
+            "text": "Location problem",
+            "shape": "decision_diamond",
+            "explanation": "该 no 分支不是指向矩形，而是指向下一层蓝色 IAS 定位判断棱形。"
+          }
+        ],
+        "logic": "代理商未能定位问题时，转交 IAS 继续定位问题。"
+      }
+    },
+    {
+      "decision_node_id": "second_location_problem",
+      "decision_text": "Location problem",
+      "shape": "decision_diamond",
+      "fill_color": "#4874CB",
+      "yes_branch": {
+        "label_text": "yes",
+        "visual_direction": "right",
+        "points_to": [
+          {
+            "node_id": "category_model",
+            "text": "Model",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可向上进入 Model 白色分类矩形。"
+          },
+          {
+            "node_id": "category_software",
+            "text": "software",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可水平进入 software 白色分类矩形。"
+          },
+          {
+            "node_id": "category_hardware",
+            "text": "hardware",
+            "shape": "category_rectangle",
+            "explanation": "yes 分支进入分类主干线后，可向下进入 hardware 白色分类矩形。"
+          }
+        ],
+        "logic": "IAS 能够定位问题时，进入问题类别归类：Model / software / hardware。"
+      },
+      "no_branch": {
+        "label_text": "no",
+        "visual_direction": "down then right",
+        "points_to": [
+          {
+            "node_id": "return_factory_repair",
+            "text": "Coordinate the return of the entire machine to the factory for repair.",
+            "shape": "process_rectangle",
+            "explanation": "蓝色定位判断棱形的 no 分支直接指向橙色整机返厂维修矩形。"
+          }
+        ],
+        "logic": "IAS 仍无法远程定位问题时，协调整机返厂维修。"
+      }
+    },
+    {
+      "decision_node_id": "repair_decision",
+      "decision_text": "Is it repaired?",
+      "shape": "decision_diamond",
+      "fill_color": "#F2BA02",
+      "yes_branch": {
+        "label_text": "yes",
+        "visual_direction": "right",
+        "points_to": [
+          {
+            "node_id": "finish",
+            "text": "Finish",
+            "shape": "terminator_rounded_rectangle",
+            "explanation": "维修完成且确认修好后，直接流向右侧 Finish 终止框。"
+          }
+        ],
+        "logic": "换件维修后确认已修好，流程结束。"
+      },
+      "no_branch": {
+        "label_text": "no",
+        "visual_direction": "down then left",
+        "points_to": [
+          {
+            "node_id": "return_factory_repair",
+            "text": "Coordinate the return of the entire machine to the factory for repair.",
+            "shape": "process_rectangle",
+            "explanation": "换件维修后仍未修好，向下回流至橙色整机返厂维修矩形。"
+          }
+        ],
+        "logic": "换件维修后未修好，需要协调整机返厂维修。"
+      }
+    }
+  ],
+  "connections_detailed": [
+    {
+      "connection_id": "C01",
+      "from_node_id": "start_initiate",
+      "from_text": "Initiate",
+      "from_shape": "terminator_rounded_rectangle",
+      "to_node_id": "recording_and_judgment",
+      "to_text": "Recording and Judgment",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "客户发起问题处理流程后，进入代理商的记录与判断环节。"
+    },
+    {
+      "connection_id": "C02",
+      "from_node_id": "recording_and_judgment",
+      "from_text": "Recording and Judgment",
+      "from_shape": "process_rectangle",
+      "to_node_id": "first_location_problem",
+      "to_text": "Location problem",
+      "to_shape": "decision_diamond",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "代理商完成记录与初步判断后，进入第一个橙色定位问题判断。"
+    },
+    {
+      "connection_id": "C03",
+      "from_node_id": "first_location_problem",
+      "from_text": "Location problem",
+      "from_shape": "decision_diamond",
+      "to_node_id": "classification_bus",
+      "to_text": "classification bus to Model / software / hardware",
+      "to_shape": "shared_connector_trunk",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": "yes",
+      "direction": "right_then_branch",
+      "line_color": "#4874CB",
+      "logic": "第一个橙色定位问题判断为 yes 时，进入分类主干线，再分流到 Model、software、hardware 三个白色分类矩形。"
+    },
+    {
+      "connection_id": "C03-1",
+      "from_node_id": "classification_bus",
+      "from_text": "classification bus",
+      "from_shape": "shared_connector_trunk",
+      "to_node_id": "category_model",
+      "to_text": "Model",
+      "to_shape": "category_rectangle",
+      "connector_type": "branch_from_shared_trunk",
+      "condition_label": "yes from first_location_problem or yes from second_location_problem",
+      "direction": "up_then_right",
+      "line_color": "#4874CB",
+      "logic": "定位结果属于模型问题时，进入 Model 分类矩形。"
+    },
+    {
+      "connection_id": "C03-2",
+      "from_node_id": "classification_bus",
+      "from_text": "classification bus",
+      "from_shape": "shared_connector_trunk",
+      "to_node_id": "category_software",
+      "to_text": "software",
+      "to_shape": "category_rectangle",
+      "connector_type": "branch_from_shared_trunk",
+      "condition_label": "yes from first_location_problem or yes from second_location_problem",
+      "direction": "right",
+      "line_color": "#4874CB",
+      "logic": "定位结果属于软件问题时，进入 software 分类矩形。"
+    },
+    {
+      "connection_id": "C03-3",
+      "from_node_id": "classification_bus",
+      "from_text": "classification bus",
+      "from_shape": "shared_connector_trunk",
+      "to_node_id": "category_hardware",
+      "to_text": "hardware",
+      "to_shape": "category_rectangle",
+      "connector_type": "branch_from_shared_trunk",
+      "condition_label": "yes from first_location_problem or yes from second_location_problem",
+      "direction": "down_then_right",
+      "line_color": "#4874CB",
+      "logic": "定位结果属于硬件问题时，进入 hardware 分类矩形。"
+    },
+    {
+      "connection_id": "C04",
+      "from_node_id": "first_location_problem",
+      "from_text": "Location problem",
+      "from_shape": "decision_diamond",
+      "to_node_id": "second_location_problem",
+      "to_text": "Location problem",
+      "to_shape": "decision_diamond",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": "no",
+      "direction": "down",
+      "line_color": "#4874CB",
+      "logic": "第一个橙色定位问题判断为 no 时，向下转入第二个蓝色 IAS 定位问题判断。"
+    },
+    {
+      "connection_id": "C05",
+      "from_node_id": "second_location_problem",
+      "from_text": "Location problem",
+      "from_shape": "decision_diamond",
+      "to_node_id": "classification_bus",
+      "to_text": "classification bus to Model / software / hardware",
+      "to_shape": "shared_connector_trunk",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": "yes",
+      "direction": "right_then_branch",
+      "line_color": "#4874CB",
+      "logic": "第二个蓝色定位问题判断为 yes 时，同样进入分类主干线，再分流到 Model、software、hardware 三个白色分类矩形。"
+    },
+    {
+      "connection_id": "C06",
+      "from_node_id": "second_location_problem",
+      "from_text": "Location problem",
+      "from_shape": "decision_diamond",
+      "to_node_id": "return_factory_repair",
+      "to_text": "Coordinate the return of the entire machine to the factory for repair.",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": "no",
+      "direction": "down_then_right",
+      "line_color": "#4874CB",
+      "logic": "第二个蓝色定位问题判断为 no 时，说明 IAS 仍无法定位，直接进入整机返厂维修。"
+    },
+    {
+      "connection_id": "C07",
+      "from_node_id": "category_model",
+      "from_text": "Model",
+      "from_shape": "category_rectangle",
+      "to_node_id": "model_needs_additional_data",
+      "to_text": "The model needs additional data. (Contact the customer to provide samples and spectra)",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up",
+      "line_color": "#4874CB",
+      "logic": "模型类问题的第一种处理路径：模型需要补充数据，由代理商与 IAS 协作联系客户提供样品和光谱。"
+    },
+    {
+      "connection_id": "C08",
+      "from_node_id": "model_needs_additional_data",
+      "from_text": "The model needs additional data. (Contact the customer to provide samples and spectra)",
+      "from_shape": "process_rectangle",
+      "to_node_id": "obtain_data_expand_model",
+      "to_text": "Obtain the data and expand the model",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_or_elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "客户提供样品和光谱后，IAS 获取数据并扩充模型。"
+    },
+    {
+      "connection_id": "C09",
+      "from_node_id": "obtain_data_expand_model",
+      "from_text": "Obtain the data and expand the model",
+      "from_shape": "process_rectangle",
+      "to_node_id": "remote_upgrade",
+      "to_text": "Coordinate remote upgrades for customers",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "模型扩充完成后，代理商与 IAS 协作协调客户远程升级。"
+    },
+    {
+      "connection_id": "C10",
+      "from_node_id": "category_model",
+      "from_text": "Model",
+      "from_shape": "category_rectangle",
+      "to_node_id": "upgrade_model",
+      "to_text": "Upgrade Model (IAS provides the latest models)",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right",
+      "line_color": "#4874CB",
+      "logic": "模型类问题的第二种处理路径：IAS 提供最新模型进行升级。"
+    },
+    {
+      "connection_id": "C11",
+      "from_node_id": "upgrade_model",
+      "from_text": "Upgrade Model (IAS provides the latest models)",
+      "from_shape": "process_rectangle",
+      "to_node_id": "remote_upgrade",
+      "to_text": "Coordinate remote upgrades for customers",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up",
+      "line_color": "#4874CB",
+      "logic": "IAS 提供最新模型后，转入远程升级协调。"
+    },
+    {
+      "connection_id": "C12",
+      "from_node_id": "category_model",
+      "from_text": "Model",
+      "from_shape": "category_rectangle",
+      "to_node_id": "model_calibration",
+      "to_text": "Model calibration",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_down",
+      "line_color": "#4874CB",
+      "logic": "模型类问题的第三种处理路径：IAS 进行模型校准。"
+    },
+    {
+      "connection_id": "C13",
+      "from_node_id": "model_calibration",
+      "from_text": "Model calibration",
+      "from_shape": "process_rectangle",
+      "to_node_id": "finish",
+      "to_text": "Finish",
+      "to_shape": "terminator_rounded_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_down_then_right",
+      "line_color": "#4874CB",
+      "logic": "模型校准完成后，流程结束。"
+    },
+    {
+      "connection_id": "C14",
+      "from_node_id": "remote_upgrade",
+      "from_text": "Coordinate remote upgrades for customers",
+      "from_shape": "process_rectangle",
+      "to_node_id": "finish",
+      "to_text": "Finish",
+      "to_shape": "terminator_rounded_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_down",
+      "line_color": "#4874CB",
+      "logic": "远程升级完成后，流程结束。"
+    },
+    {
+      "connection_id": "C15",
+      "from_node_id": "category_software",
+      "from_text": "software",
+      "from_shape": "category_rectangle",
+      "to_node_id": "software_version",
+      "to_text": "Software version (Due to version issues, the latest version is provided.)",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up",
+      "line_color": "#4874CB",
+      "logic": "软件类问题的第一种处理路径：确认为软件版本问题，提供最新版本。"
+    },
+    {
+      "connection_id": "C16",
+      "from_node_id": "software_version",
+      "from_text": "Software version (Due to version issues, the latest version is provided.)",
+      "from_shape": "process_rectangle",
+      "to_node_id": "remote_update",
+      "to_text": "Contact customers for remote updates",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "确认软件版本问题后，与客户联系进行远程更新。"
+    },
+    {
+      "connection_id": "C17",
+      "from_node_id": "category_software",
+      "from_text": "software",
+      "from_shape": "category_rectangle",
+      "to_node_id": "software_bug",
+      "to_text": "Software BUG (Software malfunction)",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_down",
+      "line_color": "#4874CB",
+      "logic": "软件类问题的第二种处理路径：确认为软件 BUG。"
+    },
+    {
+      "connection_id": "C18",
+      "from_node_id": "software_bug",
+      "from_text": "Software BUG (Software malfunction)",
+      "from_shape": "process_rectangle",
+      "to_node_id": "development",
+      "to_text": "Development",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "软件 BUG 进入 IAS 开发修复。"
+    },
+    {
+      "connection_id": "C19",
+      "from_node_id": "development",
+      "from_text": "Development",
+      "from_shape": "process_rectangle",
+      "to_node_id": "remote_update",
+      "to_text": "Contact customers for remote updates",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up",
+      "line_color": "#4874CB",
+      "logic": "开发完成后，与客户联系进行远程更新。"
+    },
+    {
+      "connection_id": "C20",
+      "from_node_id": "remote_update",
+      "from_text": "Contact customers for remote updates",
+      "from_shape": "process_rectangle",
+      "to_node_id": "finish",
+      "to_text": "Finish",
+      "to_shape": "terminator_rounded_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up_or_down_to_finish_trunk",
+      "line_color": "#4874CB",
+      "logic": "客户远程更新完成后，流程结束。"
+    },
+    {
+      "connection_id": "C21",
+      "from_node_id": "category_hardware",
+      "from_text": "hardware",
+      "from_shape": "category_rectangle",
+      "to_node_id": "replacement_and_repair",
+      "to_text": "Replacement and repair",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up",
+      "line_color": "#4874CB",
+      "logic": "硬件类问题的第一种处理路径：代理商进行换件维修。"
+    },
+    {
+      "connection_id": "C22",
+      "from_node_id": "replacement_and_repair",
+      "from_text": "Replacement and repair",
+      "from_shape": "process_rectangle",
+      "to_node_id": "repair_decision",
+      "to_text": "Is it repaired?",
+      "to_shape": "decision_diamond",
+      "connector_type": "straight_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "换件维修后进入是否修好的判断。"
+    },
+    {
+      "connection_id": "C23",
+      "from_node_id": "repair_decision",
+      "from_text": "Is it repaired?",
+      "from_shape": "decision_diamond",
+      "to_node_id": "finish",
+      "to_text": "Finish",
+      "to_shape": "terminator_rounded_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": "yes",
+      "direction": "right_to_finish_trunk",
+      "line_color": "#4874CB",
+      "logic": "是否修好判断为 yes 时，直接流向 Finish 终止框。"
+    },
+    {
+      "connection_id": "C24",
+      "from_node_id": "repair_decision",
+      "from_text": "Is it repaired?",
+      "from_shape": "decision_diamond",
+      "to_node_id": "return_factory_repair",
+      "to_text": "Coordinate the return of the entire machine to the factory for repair.",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": "no",
+      "direction": "down_then_left",
+      "line_color": "#4874CB",
+      "logic": "是否修好判断为 no 时，回流至整机返厂维修矩形。"
+    },
+    {
+      "connection_id": "C25",
+      "from_node_id": "category_hardware",
+      "from_text": "hardware",
+      "from_shape": "category_rectangle",
+      "to_node_id": "return_factory_repair",
+      "to_text": "Coordinate the return of the entire machine to the factory for repair.",
+      "to_shape": "process_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_down",
+      "line_color": "#4874CB",
+      "logic": "硬件类问题的另一条处理路径：直接协调整机返厂维修。"
+    },
+    {
+      "connection_id": "C26",
+      "from_node_id": "return_factory_repair",
+      "from_text": "Coordinate the return of the entire machine to the factory for repair.",
+      "from_shape": "process_rectangle",
+      "to_node_id": "machine_returned",
+      "to_text": "Returned after complete machine repair",
+      "to_shape": "process_rectangle",
+      "connector_type": "straight_or_elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "left_to_right",
+      "line_color": "#4874CB",
+      "logic": "整机返厂维修完成后，设备维修后返回。"
+    },
+    {
+      "connection_id": "C27",
+      "from_node_id": "machine_returned",
+      "from_text": "Returned after complete machine repair",
+      "from_shape": "process_rectangle",
+      "to_node_id": "finish",
+      "to_text": "Finish",
+      "to_shape": "terminator_rounded_rectangle",
+      "connector_type": "elbow_arrow_connector",
+      "condition_label": null,
+      "direction": "right_then_up_to_finish_trunk",
+      "line_color": "#4874CB",
+      "logic": "整机维修后返回，流程结束。"
+    }
+  ],
+  "flow_summary": [
+    "主流程：Initiate -> Recording and Judgment -> 第一个 Location problem 判断。",
+    "第一个 Location problem：yes -> Model / software / hardware 分类矩形；no -> 第二个 Location problem 判断。",
+    "第二个 Location problem：yes -> Model / software / hardware 分类矩形；no -> Coordinate the return of the entire machine to the factory for repair.",
+    "Model 分支包括三条路径：补充数据并扩充模型后远程升级；直接升级模型后远程升级；模型校准后结束。",
+    "software 分支包括两条路径：版本问题远程更新；软件 BUG 先开发再远程更新。",
+    "hardware 分支包括两条路径：换件维修后判断是否修好；或直接整机返厂维修。",
+    "Is it repaired?：yes -> Finish；no -> Coordinate the return of the entire machine to the factory for repair.",
+    "所有远程升级、远程更新、整机维修返回路径最终均流向 Finish。"
+  ]
+}

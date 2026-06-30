@@ -35,8 +35,12 @@ export function useI18n() {
   // Translate dynamic data (English → locale)
   const td = (text) => {
     if (!text) return text;
-    const map = messagesMap[currentLocale.value]?.sopData;
-    return (map && map[text]) ? map[text] : text;
+    const msg = messagesMap[currentLocale.value];
+    const sopMap = msg?.sopData;
+    const flowMap = msg?.flowData;
+    if (flowMap && flowMap[text]) return flowMap[text];
+    if (sopMap && sopMap[text]) return sopMap[text];
+    return text;
   };
 
   const setLocale = (locale) => {
