@@ -1,6 +1,13 @@
 import { createRouter, createWebHashHistory } from "vue-router";
+import { useAuth } from "../composables/useAuth.js";
 
 const routes = [
+  {
+    path: "/login",
+    name: "Login",
+    component: () => import("../views/LoginPage.vue"),
+    meta: { public: true }
+  },
   {
     path: "/",
     name: "Home",
@@ -54,6 +61,24 @@ const router = createRouter({
     }
     return { top: 0 };
   }
+});
+
+router.beforeEach((to) => {
+  const { isAuthenticated } = useAuth();
+  const loggedIn = isAuthenticated();
+
+  if (to.meta.public) {
+    return loggedIn ? { path: "/" } : true;
+  }
+
+  if (!loggedIn) {
+    return {
+      path: "/login",
+      query: { redirect: to.fullPath }
+    };
+  }
+
+  return true;
 });
 
 export default router;

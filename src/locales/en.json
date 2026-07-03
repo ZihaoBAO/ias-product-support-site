@@ -5,6 +5,27 @@
     "home": "Home",
     "navLabel": "Main Navigation"
   },
+  "auth": {
+    "eyebrow": "SECURE ACCESS",
+    "title": "Sign in",
+    "description": "Use your assigned account to access the maintenance documentation portal.",
+    "username": "Username",
+    "usernamePlaceholder": "Enter username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+    "login": "Sign in",
+    "loggingIn": "Signing in...",
+    "logout": "Sign out",
+    "currentUser": "{username} / {role}",
+    "required": "Please enter both username and password.",
+    "invalid": "Invalid username or password.",
+    "unavailable": "Password verification is not available in this browser.",
+    "roles": {
+      "admin": "Admin",
+      "sales": "Sales",
+      "customer": "Customer"
+    }
+  },
   "home": {
     "eyebrow": "CUSTOMER-READABLE MAINTENANCE DOCS",
     "heroTitle": "IAS Product Support Center",

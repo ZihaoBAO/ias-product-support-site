@@ -9,6 +9,10 @@
     </a>
     <div class="topbar-actions">
       <router-link to="/" class="nav-home">{{ t('app.home') }}</router-link>
+      <div v-if="authenticated" class="auth-status">
+        <span>{{ t('auth.currentUser', { username: user.username, role: roleLabel }) }}</span>
+        <button class="auth-logout" type="button" @click="onLogout">{{ t('auth.logout') }}</button>
+      </div>
       <div class="lang-dropdown" @click.stop>
         <button
           class="lang-trigger"
@@ -16,7 +20,7 @@
           @blur="onBlur"
         >
           {{ currentLabel }}
-          <span class="lang-arrow" :class="{ open }">▾</span>
+          <span class="lang-arrow" :class="{ open }">v</span>
         </button>
         <ul v-show="open" class="lang-menu">
           <li
@@ -35,13 +39,14 @@
 </template>
 
 <script setup>
-import { ref, computed } from "vue";
-import { watch } from "vue";
+import { ref, computed, watch } from "vue";
 import { useRouter } from "vue-router";
+import { useAuth } from "./composables/useAuth.js";
 import { useI18n, availableLocales } from "./composables/useI18n.js";
 
 const router = useRouter();
 const { t, locale, setLocale } = useI18n();
+const { user, authenticated, logout } = useAuth();
 
 const baseUrl = import.meta.env.BASE_URL;
 const open = ref(false);
@@ -50,14 +55,25 @@ const currentLabel = computed(() =>
   availableLocales.find((l) => l.code === locale.value)?.label || locale.value
 );
 
+const roleLabel = computed(() => {
+  const role = user.value?.role || "";
+  const label = t(`auth.roles.${role}`);
+  return label === `auth.roles.${role}` ? role : label;
+});
+
 function onSelect(code) {
   setLocale(code);
   open.value = false;
 }
 
-function onBlur(e) {
+function onBlur() {
   // delay to allow mousedown on menu items to fire first
   setTimeout(() => { open.value = false; }, 150);
+}
+
+function onLogout() {
+  logout();
+  router.push("/login");
 }
 
 watch(

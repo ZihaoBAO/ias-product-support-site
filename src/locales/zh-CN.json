@@ -5,6 +5,27 @@
     "home": "首页",
     "navLabel": "主导航"
   },
+  "auth": {
+    "eyebrow": "安全访问",
+    "title": "用户登录",
+    "description": "请使用分配的账号访问维修资料门户。",
+    "username": "用户名",
+    "usernamePlaceholder": "请输入用户名",
+    "password": "密码",
+    "passwordPlaceholder": "请输入密码",
+    "login": "登录",
+    "loggingIn": "正在登录...",
+    "logout": "退出登录",
+    "currentUser": "{username} / {role}",
+    "required": "请输入用户名和密码。",
+    "invalid": "用户名或密码错误。",
+    "unavailable": "当前浏览器无法进行密码校验。",
+    "roles": {
+      "admin": "管理员",
+      "sales": "销售",
+      "customer": "客户"
+    }
+  },
   "home": {
     "eyebrow": "客户可读维护文档",
     "heroTitle": "IAS 产品售后说明中心",

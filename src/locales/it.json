@@ -5,6 +5,27 @@
     "home": "Home",
     "navLabel": "Navigazione Principale"
   },
+  "auth": {
+    "eyebrow": "ACCESSO RISERVATO",
+    "title": "Accedi",
+    "description": "Usa l'account assegnato per accedere al portale della documentazione di manutenzione.",
+    "username": "Nome utente",
+    "usernamePlaceholder": "Inserisci nome utente",
+    "password": "Password",
+    "passwordPlaceholder": "Inserisci password",
+    "login": "Accedi",
+    "loggingIn": "Accesso...",
+    "logout": "Esci",
+    "currentUser": "{username} / {role}",
+    "required": "Inserisci nome utente e password.",
+    "invalid": "Nome utente o password non validi.",
+    "unavailable": "La verifica della password non e disponibile in questo browser.",
+    "roles": {
+      "admin": "Amministratore",
+      "sales": "Vendite",
+      "customer": "Cliente"
+    }
+  },
   "home": {
     "eyebrow": "DOCUMENTI DI MANUTENZIONE PER CLIENTI",
     "heroTitle": "Centro Assistenza Prodotti IAS",
