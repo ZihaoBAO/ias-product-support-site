@@ -71,8 +71,8 @@ function onBlur() {
   setTimeout(() => { open.value = false; }, 150);
 }
 
-function onLogout() {
-  logout();
+async function onLogout() {
+  await logout();
   router.push("/login");
 }
 

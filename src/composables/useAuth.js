@@ -1,18 +1,18 @@
 import { computed, ref } from "vue";
-import { users } from "../auth/users.js";
-import { sha256 } from "../auth/hash.js";
+import { login as apiLogin, logout as apiLogout, getMe } from "../api/auth.js";
 
-const AUTH_STORAGE_KEY = "ias_auth_user";
+const AUTH_USER_KEY = "ias_auth_user";
+const ACCESS_TOKEN_KEY = "ias_access_token";
+const REFRESH_TOKEN_KEY = "ias_refresh_token";
 
 function readStoredUser() {
   try {
-    const value = localStorage.getItem(AUTH_STORAGE_KEY);
+    const value = localStorage.getItem(AUTH_USER_KEY);
     if (!value) return null;
     const user = JSON.parse(value);
     if (!user?.username || !user?.role) return null;
-    return { username: user.username, role: user.role };
+    return { id: user.id, username: user.username, role: user.role };
   } catch {
-    localStorage.removeItem(AUTH_STORAGE_KEY);
     return null;
   }
 }
@@ -24,32 +24,62 @@ export function useAuth() {
   const authenticated = computed(() => Boolean(currentUser.value));
 
   async function login(username, password) {
-    const normalizedUsername = username.trim();
-    const account = users.find((item) => item.username === normalizedUsername);
-    if (!account) return false;
-
-    const passwordHash = await sha256(password);
-    if (passwordHash !== account.password) return false;
+    const result = await apiLogin(username, password);
+    if (result.error) return { error: result.error };
 
     currentUser.value = {
-      username: account.username,
-      role: account.role
+      id: result.user.id,
+      username: result.user.username,
+      role: result.user.role,
     };
-    localStorage.setItem(AUTH_STORAGE_KEY, JSON.stringify(currentUser.value));
-    return true;
+
+    localStorage.setItem(AUTH_USER_KEY, JSON.stringify(currentUser.value));
+    localStorage.setItem(ACCESS_TOKEN_KEY, result.accessToken);
+    localStorage.setItem(REFRESH_TOKEN_KEY, result.refreshToken);
+    return { success: true };
   }
 
-  function logout() {
+  async function logout() {
+    try {
+      await apiLogout();
+    } catch {
+      // 即使后端调用失败也清除本地状态
+    }
+    clearAuth();
+  }
+
+  function clearAuth() {
     currentUser.value = null;
-    localStorage.removeItem(AUTH_STORAGE_KEY);
+    localStorage.removeItem(AUTH_USER_KEY);
+    localStorage.removeItem(ACCESS_TOKEN_KEY);
+    localStorage.removeItem(REFRESH_TOKEN_KEY);
   }
 
   function isAuthenticated() {
-    return Boolean(currentUser.value);
+    return Boolean(currentUser.value) && Boolean(localStorage.getItem(ACCESS_TOKEN_KEY));
   }
 
   function getCurrentUser() {
     return currentUser.value;
+  }
+
+  async function checkSession() {
+    if (!isAuthenticated()) return false;
+    try {
+      const result = await getMe();
+      if (result.user) {
+        currentUser.value = {
+          id: result.user.id,
+          username: result.user.username,
+          role: result.user.role,
+        };
+        return true;
+      }
+    } catch {
+      // token 无效，清除
+    }
+    clearAuth();
+    return false;
   }
 
   return {
@@ -58,6 +88,7 @@ export function useAuth() {
     login,
     logout,
     isAuthenticated,
-    getCurrentUser
+    getCurrentUser,
+    checkSession,
   };
 }

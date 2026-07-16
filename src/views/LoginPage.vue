@@ -63,9 +63,9 @@ async function onSubmit() {
 
   submitting.value = true;
   try {
-    const ok = await login(username.value, password.value);
-    if (!ok) {
-      error.value = t("auth.invalid");
+    const result = await login(username.value, password.value);
+    if (result.error) {
+      error.value = result.error;
       return;
     }
 

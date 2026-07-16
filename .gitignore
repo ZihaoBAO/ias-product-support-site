@@ -3,3 +3,6 @@ dist
 .DS_Store
 *.local
 docs/
+server/.env
+server/node_modules
+.npm-cache

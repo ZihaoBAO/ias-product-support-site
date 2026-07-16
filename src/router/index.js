@@ -74,7 +74,7 @@ router.beforeEach((to) => {
   if (!loggedIn) {
     return {
       path: "/login",
-      query: { redirect: to.fullPath }
+      query: { redirect: to.fullPath },
     };
   }
 
