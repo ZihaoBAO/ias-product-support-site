@@ -1,9 +1,13 @@
+import 'dotenv/config';
 import express from "express";
 import cors from "cors";
 import rateLimit from "express-rate-limit";
 import { authRouter } from "./routes/auth.js";
 
 const app = express();
+
+// 信任 Nginx 反向代理，确保限流功能获取真实客户端 IP
+app.set('trust proxy', 1);
 
 app.use(
   cors({

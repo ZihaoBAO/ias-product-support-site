@@ -189,6 +189,8 @@ npm run preview     # 本地预览构建产物，http://localhost:4173
 > 将整个 `ias-product-support-site/` 文件夹交付给 IT。以下为 IT 需要的完整操作步骤。
 >
 > **重要：`.env` 已配好数据库连接和 JWT 密钥，`users` 表也已创建。IT 只需改一处：`CORS_ORIGIN`。**
+>
+> **注意：`node_modules/` 不要从 Windows 复制到 Linux！** `bcrypt` 等原生模块依赖操作系统，必须直接在目标服务器上运行 `npm install` 编译。
 
 ### 前置条件
 
@@ -208,6 +210,8 @@ npm run build
 # 产物: dist/
 ```
 
+> 如果服务器上已有其他网站在 80 端口运行（见步骤四），构建前无需特殊配置——本项目使用 hash 路由（`#/...`），静态资源路径为 `/assets/`，可直接工作在任意端口。
+
 ### 步骤二：配置后端（只改一行）
 
 ```bash
@@ -221,8 +225,8 @@ npm install
 # 改之前：
 CORS_ORIGIN=http://localhost:5173
 
-# 改成 IT 分配的实际域名：
-CORS_ORIGIN=https://实际的域名
+# 改成实际访问地址（含端口号）：
+CORS_ORIGIN=http://192.168.0.141:8080
 ```
 
 为什么只改这一行？
@@ -244,17 +248,19 @@ npm install -g pm2
 
 # 启动并设为开机自启
 cd server
-pm2 start src/index.js --name ias-api --env-file .env
+pm2 start src/index.js --name ias-api
 pm2 save
 pm2 startup
 ```
+
+> 后端通过 `dotenv` 自动读取 `server/.env`，无需手动传 `--env-file` 参数。
 
 ### 步骤四：配置 Nginx
 
 ```nginx
 server {
-    listen 80;
-    server_name 实际的域名;
+    listen 8080;               # 如 80 端口被占用，换成其他端口
+    server_name _;
 
     # 前端静态文件
     root /path/to/ias-product-support-site/dist;
@@ -267,7 +273,7 @@ server {
 
     # API 反向代理
     location /api/ {
-        proxy_pass http://localhost:3000;
+        proxy_pass http://127.0.0.1:3000;
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -275,11 +281,17 @@ server {
 }
 ```
 
+> Ubuntu 下 Nginx 默认以 `www-data` 用户运行，如果项目放在 `/home/` 目录下，需要给 `/home/<user>` 添加执行权限：
+> ```bash
+> sudo chmod o+x /home/<用户名>
+> sudo chmod -R o+rX /path/to/ias-product-support-site/dist
+> ```
+
 ### 步骤五：验证
 
 1. **健康检查**：`curl http://localhost:3000/api/health` 返回 `{"status":"ok"}`
 2. **后端状态**：`pm2 status` 显示 `ias-api` 为 `online`
-3. **前端访问**：浏览器打开域名 → 显示登录页
+3. **前端访问**：浏览器打开 `http://<IP>:<端口>` → 显示登录页
 4. **登录测试**：用现有的账号密码登录 → 进入首页
 
 ### 常用运维命令
@@ -292,6 +304,16 @@ pm2 stop ias-api            # 停止后端
 ```
 
 > 添加新用户不需要在服务器上操作——`add-user.mjs` 直接连数据库，只要电脑能访问 `192.168.0.141` 就能运行，在本地电脑上操作即可。
+
+### 常见问题
+
+| 现象 | 原因 | 解决 |
+|------|------|------|
+| `invalid ELF header` | 从 Windows 复制了 `node_modules` | 删掉 `node_modules/`，在 Linux 上重新 `npm install` |
+| `Permission denied`（Nginx 500）| 项目在 `/home/` 下，Nginx 无权限 | `chmod o+x /home/<user>` |
+| 登录报 500 且日志显示 `Access denied for user ''` | `.env` 未被加载（缺少 `dotenv`） | 确认 `server/src/index.js` 第一行有 `import 'dotenv/config'` |
+| 访问网站显示其他服务页面 | 该端口被其他 `server` 块抢了匹配 | 使用独立端口（如 8080）|
+| PM2 不知 `--env-file` 参数 | PM2 版本过旧 | 升级 PM2 或确保代码中有 `dotenv` 加载 |
 
 ---
 
