@@ -11,7 +11,7 @@ import mysql from "mysql2/promise";
 import bcrypt from "bcrypt";
 import dotenv from "dotenv";
 
-dotenv.config({ path: new URL("../.env", import.meta.url) });
+dotenv.config({ path: new URL(".env", import.meta.url) });
 
 const [,, username, password, role = "customer"] = process.argv;
 

@@ -4,5 +4,6 @@ dist
 *.local
 docs/
 server/.env
+server/add-user.mjs
 server/node_modules
 .npm-cache
