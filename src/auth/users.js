@@ -18,5 +18,10 @@ export const users = [
     username: "norm",
     role: "customer",
     password: "8589c63b0943a62bfda9b35dccc71a30f5677386f6f7c644c3307465ce2cfa55"
+  },
+  {
+    username: "ThanhTin",
+    role: "customer",
+    password: "8589c63b0943a62bfda9b35dccc71a30f5677386f6f7c644c3307465ce2cfa55"
   }
 ];
